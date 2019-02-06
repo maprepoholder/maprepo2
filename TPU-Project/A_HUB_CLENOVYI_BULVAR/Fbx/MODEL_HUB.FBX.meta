@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: 9a021a2e1b58731469fde62d32da32da
+timeCreated: 1510920862
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: SM_ApartmentBuilding
+    100004: SM_ApartmentLamelDet01
+    100006: SM_ApartmentLamelDet02
+    100008: SM_ApartmentRoof
+    100010: SM_MallFloor
+    100012: SM_MallGlass
+    100014: SM_MallLamelDet
+    100016: SM_MallRoof
+    100018: SM_OrnamentGlass
+    100020: SM_ParkingAsphalt
+    100022: SM_ParkingGlass
+    100024: SM_ParkingLemelDet
+    100026: SM_ParkingWallpaint
+    400000: //RootNode
+    400002: SM_ApartmentBuilding
+    400004: SM_ApartmentLamelDet01
+    400006: SM_ApartmentLamelDet02
+    400008: SM_ApartmentRoof
+    400010: SM_MallFloor
+    400012: SM_MallGlass
+    400014: SM_MallLamelDet
+    400016: SM_MallRoof
+    400018: SM_OrnamentGlass
+    400020: SM_ParkingAsphalt
+    400022: SM_ParkingGlass
+    400024: SM_ParkingLemelDet
+    400026: SM_ParkingWallpaint
+    2300000: SM_ApartmentBuilding
+    2300002: SM_ApartmentLamelDet01
+    2300004: SM_ApartmentLamelDet02
+    2300006: SM_ApartmentRoof
+    2300008: SM_MallFloor
+    2300010: SM_MallGlass
+    2300012: SM_MallLamelDet
+    2300014: SM_MallRoof
+    2300016: SM_OrnamentGlass
+    2300018: SM_ParkingAsphalt
+    2300020: SM_ParkingGlass
+    2300022: SM_ParkingLemelDet
+    2300024: SM_ParkingWallpaint
+    3300000: SM_ApartmentBuilding
+    3300002: SM_ApartmentLamelDet01
+    3300004: SM_ApartmentLamelDet02
+    3300006: SM_ApartmentRoof
+    3300008: SM_MallFloor
+    3300010: SM_MallGlass
+    3300012: SM_MallLamelDet
+    3300014: SM_MallRoof
+    3300016: SM_OrnamentGlass
+    3300018: SM_ParkingAsphalt
+    3300020: SM_ParkingGlass
+    3300022: SM_ParkingLemelDet
+    3300024: SM_ParkingWallpaint
+    4300000: SM_ApartmentBuilding
+    4300002: SM_ApartmentLamelDet01
+    4300004: SM_ApartmentLamelDet02
+    4300006: SM_ApartmentRoof
+    4300008: SM_MallFloor
+    4300010: SM_MallGlass
+    4300012: SM_MallLamelDet
+    4300014: SM_MallRoof
+    4300016: SM_OrnamentGlass
+    4300018: SM_ParkingAsphalt
+    4300020: SM_ParkingGlass
+    4300022: SM_ParkingLemelDet
+    4300024: SM_ParkingWallpaint
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Asphalt
+    second: {fileID: 2100000, guid: d287642d5ac719a4d847c11dcd6f07f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Brick
+    second: {fileID: 2100000, guid: 9e0713237c786fe4ba5c2ea6437de522, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_FloorTile03
+    second: {fileID: 2100000, guid: ed840dafda52e9147b0cd73463f0e80d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Lamel
+    second: {fileID: 2100000, guid: 0e5bf29ec4a03fe4aa033e3d1c01529f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_OrnamentGlass
+    second: {fileID: 2100000, guid: 1cbbc3d9e45e67845b93720352d089c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Roof
+    second: {fileID: 2100000, guid: c5e00d533fdb4c94795e3b4bfd83fba9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_ShopGlass
+    second: {fileID: 2100000, guid: 4470be6110a5f8948a02d959df77dfe6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_TransparentGlass
+    second: {fileID: 2100000, guid: 3ff13d9c1393fb64c9b4abe7491c4d6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_WallPaintWhite
+    second: {fileID: 2100000, guid: 7ef72c330515b36448006933e96dd2c6, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
