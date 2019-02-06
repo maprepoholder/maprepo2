@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 59a0ca3c74f6a4a4abc8e10be8642220
+timeCreated: 1508959933
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Dummy_SubwayDown_v04_001
+    100004: Dummy_SubwayDown_v04_002
+    100006: Dummy_SubwayDown_v04_003
+    100008: SM_Center_Buildings
+    100010: SM_DM_CenterBuilding_1
+    100012: SM_DM_CenterBuilding_2
+    100014: SM_DM_TPU_Building
+    100016: SM_SubwayDown_v04_000
+    100018: SM_SubwayDown_v04_001
+    100020: SM_SubwayDown_v04_003
+    100022: Dummy_SubwayDown_v04_004
+    100024: SM_NS_Commercial
+    100026: Dummy_SubwayDown_v04
+    400000: //RootNode
+    400002: Dummy_SubwayDown_v04_001
+    400004: Dummy_SubwayDown_v04_002
+    400006: Dummy_SubwayDown_v04_003
+    400008: SM_Center_Buildings
+    400010: SM_DM_CenterBuilding_1
+    400012: SM_DM_CenterBuilding_2
+    400014: SM_DM_TPU_Building
+    400016: SM_SubwayDown_v04_000
+    400018: SM_SubwayDown_v04_001
+    400020: SM_SubwayDown_v04_003
+    400022: Dummy_SubwayDown_v04_004
+    400024: SM_NS_Commercial
+    400026: Dummy_SubwayDown_v04
+    2300000: SM_Center_Buildings
+    2300002: SM_DM_CenterBuilding_1
+    2300004: SM_DM_CenterBuilding_2
+    2300006: SM_DM_TPU_Building
+    2300008: SM_SubwayDown_v04_000
+    2300010: SM_SubwayDown_v04_001
+    2300012: SM_SubwayDown_v04_003
+    2300014: SM_NS_Commercial
+    3300000: SM_Center_Buildings
+    3300002: SM_DM_CenterBuilding_1
+    3300004: SM_DM_CenterBuilding_2
+    3300006: SM_DM_TPU_Building
+    3300008: SM_SubwayDown_v04_000
+    3300010: SM_SubwayDown_v04_001
+    3300012: SM_SubwayDown_v04_003
+    3300014: SM_NS_Commercial
+    4300000: SM_SubwayDown_v04_000
+    4300002: SM_SubwayDown_v04_003
+    4300004: SM_SubwayDown_v04_001
+    4300006: SM_DM_CenterBuilding_2
+    4300008: SM_DM_CenterBuilding_1
+    4300010: SM_Center_Buildings
+    4300012: SM_DM_TPU_Building
+    4300014: SM_NS_Commercial
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Brick02
+    second: {fileID: 2100000, guid: ef074e1567f44ad40a258237170cdd42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Buildings02
+    second: {fileID: 2100000, guid: 341eccc578841804793852f62fdcd26c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_CP_Illumination
+    second: {fileID: 2100000, guid: e622b68f073c999408ced8e274c8a376, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_CP_Paint
+    second: {fileID: 2100000, guid: d065fad0d30762242b7d3d6b1d1181e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Commercial
+    second: {fileID: 2100000, guid: 4b50ccabc45e0554c8120903296459a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_DM_Buildings_Facade
+    second: {fileID: 2100000, guid: 0173e4d18854ab143b6f71b24b35e6d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Gravel
+    second: {fileID: 2100000, guid: 8eb5283d6d1c2b543821823f53c11ce6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Windows01
+    second: {fileID: 2100000, guid: a3458c5aefaf7ea4f8387e2a64669e4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Windows02
+    second: {fileID: 2100000, guid: 815164bc1ed80ec4889ef2de2964c4fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Windows03
+    second: {fileID: 2100000, guid: 86c4632b591098541abd9cd6a7a42f8c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

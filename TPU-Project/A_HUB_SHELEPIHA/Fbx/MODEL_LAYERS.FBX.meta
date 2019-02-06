@@ -1,0 +1,343 @@
+fileFormatVersion: 2
+guid: fa33ef7beec58b942a0d595fc0f7fa62
+timeCreated: 1510846732
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: L_ApartHotel
+    100002: L_ApartHotel_plane
+    100004: L_GZRO
+    100006: L_Office
+    100008: L_Office_plane
+    100010: L_Parking
+    100012: L_PPT
+    100014: L_Shopping
+    100016: L_Shopping_plane
+    100018: //RootNode
+    100020: L_OvergroundTransitions
+    100022: L_OvergroundTransitions_plane
+    100024: L_PlatformaMCK
+    100026: L_PlatformaMCK_plane
+    100028: L_Subway_Shelepiha
+    100030: L_SuwayStation_Shelepiha
+    100032: L_SuwayStation_Shelepiha_plane
+    100034: L_TerminalMCK
+    100036: L_TerminalMCK_plane
+    100038: L_Traffic_Car
+    100040: L_Traffic_Pedestrian
+    100042: L_Traffic_RailMCK
+    100044: L_Underground_pedestrian_crossing
+    100046: L_Underground_pedestrian_crossing_plane
+    100048: L_Traffic_RailRZD
+    100050: Line001
+    100052: L_HallMCK
+    100054: L_HallMCK_plane
+    100056: L_TPK_Terminal
+    100058: L_TPK_Terminal_plane
+    400000: L_ApartHotel
+    400002: L_ApartHotel_plane
+    400004: L_GZRO
+    400006: L_Office
+    400008: L_Office_plane
+    400010: L_Parking
+    400012: L_PPT
+    400014: L_Shopping
+    400016: L_Shopping_plane
+    400018: //RootNode
+    400020: L_OvergroundTransitions
+    400022: L_OvergroundTransitions_plane
+    400024: L_PlatformaMCK
+    400026: L_PlatformaMCK_plane
+    400028: L_Subway_Shelepiha
+    400030: L_SuwayStation_Shelepiha
+    400032: L_SuwayStation_Shelepiha_plane
+    400034: L_TerminalMCK
+    400036: L_TerminalMCK_plane
+    400038: L_Traffic_Car
+    400040: L_Traffic_Pedestrian
+    400042: L_Traffic_RailMCK
+    400044: L_Underground_pedestrian_crossing
+    400046: L_Underground_pedestrian_crossing_plane
+    400048: L_Traffic_RailRZD
+    400050: Line001
+    400052: L_HallMCK
+    400054: L_HallMCK_plane
+    400056: L_TPK_Terminal
+    400058: L_TPK_Terminal_plane
+    2100000: ML_UndergroundFloor
+    2100002: ML_SubwayStation
+    2100004: ML_Subway
+    2100006: ML_Traffic_RailMCK
+    2100008: ML_TerminalMCK
+    2100010: No Name
+    2100012: ML_PlatformalMCK
+    2100014: ML_Traffic_Car
+    2100016: ML_OvergroundTransitions
+    2100018: ML_Traffic_Pedestrian
+    2100020: ML_Multi
+    2100022: ML_Traffic_RailRZD
+    2100024: 'Material #16429'
+    2100026: ML_OZEP
+    2100028: ML_School
+    2100030: ML_ArrowDirectionPedestrian
+    2300000: L_ApartHotel
+    2300002: L_ApartHotel_plane
+    2300004: L_GZRO
+    2300006: L_Office
+    2300008: L_Office_plane
+    2300010: L_Parking
+    2300012: L_PPT
+    2300014: L_Shopping
+    2300016: L_Shopping_plane
+    2300018: L_OvergroundTransitions
+    2300020: L_OvergroundTransitions_plane
+    2300022: L_PlatformaMCK
+    2300024: L_PlatformaMCK_plane
+    2300026: L_Subway_Shelepiha
+    2300028: L_SuwayStation_Shelepiha
+    2300030: L_SuwayStation_Shelepiha_plane
+    2300032: L_TerminalMCK
+    2300034: L_TerminalMCK_plane
+    2300036: L_Traffic_Car
+    2300038: L_Traffic_Pedestrian
+    2300040: L_Traffic_RailMCK
+    2300042: L_Underground_pedestrian_crossing
+    2300044: L_Underground_pedestrian_crossing_plane
+    2300046: L_Traffic_RailRZD
+    2300048: Line001
+    2300050: L_HallMCK
+    2300052: L_HallMCK_plane
+    2300054: L_TPK_Terminal
+    2300056: L_TPK_Terminal_plane
+    3300000: L_ApartHotel
+    3300002: L_ApartHotel_plane
+    3300004: L_GZRO
+    3300006: L_Office
+    3300008: L_Office_plane
+    3300010: L_Parking
+    3300012: L_PPT
+    3300014: L_Shopping
+    3300016: L_Shopping_plane
+    3300018: L_OvergroundTransitions
+    3300020: L_OvergroundTransitions_plane
+    3300022: L_PlatformaMCK
+    3300024: L_PlatformaMCK_plane
+    3300026: L_Subway_Shelepiha
+    3300028: L_SuwayStation_Shelepiha
+    3300030: L_SuwayStation_Shelepiha_plane
+    3300032: L_TerminalMCK
+    3300034: L_TerminalMCK_plane
+    3300036: L_Traffic_Car
+    3300038: L_Traffic_Pedestrian
+    3300040: L_Traffic_RailMCK
+    3300042: L_Underground_pedestrian_crossing
+    3300044: L_Underground_pedestrian_crossing_plane
+    3300046: L_Traffic_RailRZD
+    3300048: Line001
+    3300050: L_HallMCK
+    3300052: L_HallMCK_plane
+    3300054: L_TPK_Terminal
+    3300056: L_TPK_Terminal_plane
+    4300000: L_ApartHotel
+    4300002: L_ApartHotel_plane
+    4300004: L_Parking
+    4300006: L_Shopping
+    4300008: L_Shopping_plane
+    4300010: L_Office
+    4300012: L_Office_plane
+    4300014: L_PPT
+    4300016: L_GZRO
+    4300018: L_Underground_pedestrian_crossing
+    4300020: L_Underground_pedestrian_crossing_plane
+    4300022: L_SuwayStation_Shelepiha
+    4300024: L_SuwayStation_Shelepiha_plane
+    4300026: L_Subway_Shelepiha
+    4300028: L_Traffic_RailMCK
+    4300030: L_TerminalMCK
+    4300032: L_TerminalMCK_plane
+    4300034: L_PlatformaMCK
+    4300036: L_PlatformaMCK_plane
+    4300038: L_Traffic_Car
+    4300040: L_OvergroundTransitions
+    4300042: L_OvergroundTransitions_plane
+    4300044: L_Traffic_Pedestrian
+    4300046: L_Traffic_RailRZD
+    4300048: Line001
+    4300050: L_TPK_Terminal
+    4300052: L_TPK_Terminal_plane
+    4300054: L_HallMCK
+    4300056: L_HallMCK_plane
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_Appartment
+    second: {fileID: 2100000, guid: c74a5c89322ff934f89c844776f16c2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_ArrowDirectionPedestrian
+    second: {fileID: 2100000, guid: 8cf6e60fe61ee204f91398de56db8124, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_BorderGZRO
+    second: {fileID: 2100000, guid: 1bb4ec30c2a0cc74e802a42e1887cf8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_BorderPPT
+    second: {fileID: 2100000, guid: 44e47809dd08f934386890620f761e72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_OZEP
+    second: {fileID: 2100000, guid: baf9e92e27c3cfa4a8f6bdadc80c80e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_Office
+    second: {fileID: 2100000, guid: d98c1ca7c372c174c9a930697e1a0942, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_OvergroundTransitions
+    second: {fileID: 2100000, guid: 9d3511e65bb067b4baa14c4b13cd3a44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_Parking
+    second: {fileID: 2100000, guid: 312778847fbc912498e45c0207cc1c03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_PlatformalMCK
+    second: {fileID: 2100000, guid: 2a6e976f7ee7d7647852b4d52c6b6c37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_School
+    second: {instanceID: 0}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_Shopping_center
+    second: {fileID: 2100000, guid: 8a0ac6f32e99e9947aaceecc93c75af6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_Subway
+    second: {fileID: 2100000, guid: 86f6f9e56c942b747b88ebaddac6d302, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_SubwayStation
+    second: {fileID: 2100000, guid: 828180057c514e3438f6ec9c944c35a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_TerminalMCK
+    second: {fileID: 2100000, guid: ca75a3ff358096e4bb415dc67d36bbb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_Traffic_Car
+    second: {fileID: 2100000, guid: b3357b33b2c41dd418b592f8ff75519a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_Traffic_Pedestrian
+    second: {fileID: 2100000, guid: da41acde295d5444f95efecfb8de6f0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_Traffic_RailMCK
+    second: {fileID: 2100000, guid: bfa331335668ade42b5865ae68cef191, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_Traffic_RailRZD
+    second: {fileID: 2100000, guid: 1aeebd1b9c3edf94aa67eaf81bcb9aeb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_UndergroundFloor
+    second: {fileID: 2100000, guid: 84a14827eff51e949a0a6e2760e98bfd, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
