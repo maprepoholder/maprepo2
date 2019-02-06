@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f022f92e8c619994c115a92725b013b, type: 3}
+  m_Name: PoiFactorySettings
+  m_EditorClassIdentifier:
+  EnableFactory: 0
+  DefaultPoi:
+    showContent: 0
+    createIt: 0
+    Type: 0
+    Sprite: {fileID: 21300000, guid: 0000000deadbeef15deadf00d0000000, type: 3}
+  SettingsPoi:
+  - showContent: 0
+    createIt: 1
+    Type: 243
+    Sprite: {fileID: 21300000, guid: 0000000deadbeef15deadf00d0000000, type: 3}
+  - showContent: 0
+    createIt: 1
+    Type: 6
+    Sprite: {fileID: 21300000, guid: 0000000deadbeef15deadf00d0000000, type: 3}
+  - showContent: 0
+    createIt: 1
+    Type: 240
+    Sprite: {fileID: 21300000, guid: 0000000deadbeef15deadf00d0000000, type: 3}

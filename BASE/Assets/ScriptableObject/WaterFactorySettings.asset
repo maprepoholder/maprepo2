@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d400457872b253b44f46167b7217f509, type: 3}
+  m_Name: WaterFactorySettings
+  m_EditorClassIdentifier:
+  EnableFactory: 0
+  DefaultWater:
+    showContent: 0
+    createIt: 0
+    Type: 8
+    Material: {fileID: 2100000, guid: 7eb59d0a0ea3f39a4532811316121cae, type: 2}
+  SettingsWater:
+  - showContent: 0
+    createIt: 1
+    Type: 6
+    Material: {fileID: 0}

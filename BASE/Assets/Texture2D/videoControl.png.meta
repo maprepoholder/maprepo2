@@ -1,0 +1,338 @@
+fileFormatVersion: 2
+guid: 0f97a8ed8fed009c4505f30f87a7afdf
+timeCreated: 1549383683
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: videoControl_Play
+    21300002: videoControl_Close
+    21300004: videoControl_Pause
+    21300006: videoControl_SoundControl
+    21300008: videoControl_MuteOn
+    21300010: videoControl_MuteOff
+    21300012: videoControl_Gradient
+    21300014: videoControl_Border
+    21300016: videoControl_Sh
+    21300018: videoControl_print
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 25
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: videoControl_Play
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 371
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: -17}
+        - {x: -21, y: -27}
+        - {x: -21, y: 28}
+        - {x: -19, y: 29}
+        - {x: -13, y: 29}
+        - {x: 32, y: 12}
+        - {x: 32, y: -7}
+        - {x: 3, y: -31}
+        - {x: -9, y: -31}
+        - {x: 34, y: -45}
+        - {x: 45, y: 34}
+        - {x: -17, y: 52}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: videoControl_Close
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 369
+        width: 130.9239
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5041097, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.46194, y: -64}
+        - {x: -65.46194, y: -56}
+        - {x: -65.46194, y: 29}
+        - {x: -48.46194, y: 58}
+        - {x: -27.46194, y: 64}
+        - {x: 45.53806, y: 64}
+        - {x: 65.53806, y: 45}
+        - {x: 65.53806, y: -44}
+        - {x: 55.53806, y: -64}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: videoControl_Pause
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 228
+        width: 129
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: -31}
+        - {x: 0.5, y: -29}
+        - {x: 0.5, y: 29}
+        - {x: 2.5, y: 31}
+        - {x: 14.5, y: 31}
+        - {x: 16.5, y: 29}
+        - {x: 16.5, y: -29}
+        - {x: 14.5, y: -31}
+      - - {x: -45.5, y: -64}
+        - {x: -64.5, y: -38}
+        - {x: -64.5, y: 30}
+        - {x: -51.5, y: 64}
+        - {x: 38.5, y: 64}
+        - {x: 61.5, y: 50}
+        - {x: 64.5, y: 36}
+        - {x: 64.5, y: -40}
+        - {x: 40.5, y: -64}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: videoControl_SoundControl
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 228
+        width: 129
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: -38}
+        - {x: 10.5, y: -22}
+        - {x: 10.5, y: 24}
+        - {x: 14.5, y: 41}
+        - {x: 21.5, y: 41}
+        - {x: -16.5, y: 52}
+        - {x: -22.5, y: 41}
+        - {x: -15.5, y: 41}
+        - {x: -12.5, y: 39}
+        - {x: -8.5, y: 32}
+        - {x: -8.5, y: 5}
+        - {x: -4.5, y: 41}
+        - {x: 9.5, y: 41}
+        - {x: 9.5, y: -37}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: videoControl_MuteOn
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 87
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: -17}
+        - {x: -42, y: -20}
+        - {x: -42, y: 3}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: videoControl_MuteOff
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 87
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 20}
+        - {x: 24, y: 18}
+        - {x: 23, y: 19}
+        - {x: 17, y: 22}
+        - {x: 17, y: 25}
+        - {x: 19, y: 29}
+        - {x: 30, y: 29}
+        - {x: 43, y: 20}
+        - {x: 43, y: 20}
+        - {x: 45, y: 34}
+        - {x: -17, y: 52}
+        - {x: -36, y: 15}
+        - {x: -17, y: 15}
+        - {x: -17, y: -19}
+        - {x: -42, y: -19}
+        - {x: -42, y: 3}
+        - {x: -52, y: -17}
+        - {x: 34, y: -45}
+        - {x: 36, y: -32}
+        - {x: 15, y: -32}
+        - {x: 12, y: -24}
+        - {x: 12, y: 12}
+        - {x: 14, y: 18}
+      - - {x: 5, y: -32}
+        - {x: -16, y: -26}
+        - {x: -16, y: 19}
+        - {x: -13, y: 30}
+        - {x: 9, y: 30}
+        - {x: 11, y: 29}
+        - {x: 11, y: -32}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: videoControl_Gradient
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 391
+        width: 88
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 1, z: 1, w: 1}
+      outline:
+      - - {x: 44, y: -44}
+        - {x: -44, y: -44}
+        - {x: -44, y: 44}
+        - {x: 44, y: 44}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: videoControl_Border
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 391
+        width: 88
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 3, y: 3, z: 3, w: 3}
+      outline:
+      - - {x: -44, y: -44}
+        - {x: -44, y: 44}
+        - {x: 44, y: 44}
+        - {x: 44, y: -44}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: videoControl_Sh
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 228
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: -36}
+        - {x: -64, y: 49}
+        - {x: -49, y: 64}
+        - {x: 64, y: 64}
+        - {x: 64, y: -60}
+        - {x: 49, y: -64}
+        - {x: -52, y: -64}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: videoControl_print
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 86
+        width: 130
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58, y: -47}
+        - {x: -65, y: -37}
+        - {x: -65, y: 33}
+        - {x: -55, y: 63}
+        - {x: -49, y: 65}
+        - {x: 37, y: 65}
+        - {x: 44, y: 64}
+        - {x: 65, y: 28}
+        - {x: 65, y: -50}
+        - {x: 30, y: -65}
+        - {x: -36, y: -65}
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag:
+  userData:
+  assetBundleName:
+  assetBundleVariant:

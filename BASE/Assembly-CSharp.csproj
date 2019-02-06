@@ -1,0 +1,1350 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <RootNamespace></RootNamespace>
+    <ProjectGuid>{2E185DBF-5562-944A-FD36-182C7725E8E6}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <BaseDirectory>.</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_3_4;UNITY_2018_3;UNITY_2018;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_SPRITES;ENABLE_GRID;ENABLE_TILEMAP;ENABLE_TERRAIN;ENABLE_TEXTURE_STREAMING;ENABLE_DIRECTOR;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_TIMELINE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;INCLUDE_DYNAMIC_GI;INCLUDE_GI;ENABLE_MONO_BDWGC;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;INCLUDE_PUBNUB;ENABLE_VIDEO;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_LOCALIZATION;PLATFORM_STANDALONE_OSX;PLATFORM_STANDALONE;UNITY_STANDALONE_OSX;UNITY_STANDALONE;ENABLE_SUBSTANCE;ENABLE_GAMECENTER;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_NATIVE_CRASH_REPORTING;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;ENABLE_VR;ENABLE_AR;ENABLE_SPATIALTRACKING;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_STANDARD_2_0;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_OSX;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_VSTU;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+    <AllowUnsafeBlocks>False</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Temp\bin\Release\</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+    <AllowUnsafeBlocks>False</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <NoConfig>true</NoConfig>
+    <NoStdLib>true</NoStdLib>
+    <AddAdditionalExplicitAssemblyReferences>false</AddAdditionalExplicitAssemblyReferences>
+    <ImplicitlyExpandNETStandardFacades>false</ImplicitlyExpandNETStandardFacades>
+    <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <UnityProjectGenerator>Unity/VSTU</UnityProjectGenerator>
+    <UnityProjectType>Game:1</UnityProjectType>
+    <UnityBuildTarget>StandaloneOSX:2</UnityBuildTarget>
+    <UnityVersion>2018.3.4f1</UnityVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="UnityEngine">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEditor.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Assets\Scripts\Assembly-CSharp\ActiveAnimation.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AlphaCheck.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AlphaRaycaster.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AlwaysOnTop.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmplifyTexture\AFRQueue.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmplifyTexture\Bounds2f.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmplifyTexture\Bounds2i.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmplifyTexture\CompressionType.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmplifyTexture\DebugDisplay.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmplifyTexture\DynamicBinPacker.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmplifyTexture\EditorRuntimeProperties.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmplifyTexture\ErrorHandler.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmplifyTexture\HardwareLevel.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmplifyTexture\LayoutPreset.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmplifyTexture\LayoutSettings.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmplifyTexture\MathUtils.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmplifyTexture\MipFilter.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmplifyTexture\MultiGPU.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmplifyTexture\NativeFileStream.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmplifyTexture\NativeRuntime.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmplifyTexture\Page.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmplifyTexture\PageDecoder.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmplifyTexture\PageFile.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmplifyTexture\PageRequestPool.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmplifyTexture\PageSequencer.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmplifyTexture\PageStreamer.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmplifyTexture\PageTablePacker.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmplifyTexture\PhysicalCache.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmplifyTexture\PhysicalTable.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmplifyTexture\Point.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmplifyTexture\PrePass.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmplifyTexture\PrePassFarPlane.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmplifyTexture\PrePassFov.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmplifyTexture\PrePassReadback.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmplifyTexture\PrePassSize.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmplifyTexture\Rectangle.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmplifyTexture\RectanglePacker.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmplifyTexture\RedirectionTable.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmplifyTexture\sRGB.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmplifyTexture\StorageHeap.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmplifyTexture\TextureCollection.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmplifyTexture\TextureCombo.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmplifyTexture\TextureDesc.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmplifyTexture\TextureLayer.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmplifyTexture\TextureLayerType.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmplifyTexture\TextureMetaType.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmplifyTexture\TexturePacker.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmplifyTexture\UVGridType.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmplifyTexture\VersionInfo.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmplifyTexture\VirtualSize.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmplifyTextureCamera.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmplifyTextureCameraBase.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmplifyTextureManager.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmplifyTextureManagerBase.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmplifyTextureRuntime.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AmplifyTextureRuntimeBase.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AnimatedAlpha.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AnimatedColor.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AnimatedWidget.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AnimationOrTween\Direction.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AnimationOrTween\DisableCondition.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AnimationOrTween\EnableCondition.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AnimationOrTween\Trigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\ArchiveInputForward.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\Assets\MapzenGo\Models\Enums\PoiType.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\AutomaticBinding.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\BaseSetting.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\Billboard.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\BitBenderGames\AutoScrollDampMode.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\BitBenderGames\CameraPlaneAxes.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\BitBenderGames\DemoController.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\BitBenderGames\FocusCameraOnItem.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\BitBenderGames\MobilePickingController.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\BitBenderGames\MobileTouchCamera.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\BitBenderGames\MobileTouchPickable.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\BitBenderGames\MonoBehaviourWrapped.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\BitBenderGames\PerspectiveZoomMode.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\BitBenderGames\PickableSelectedData.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\BitBenderGames\PinchUpdateData.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\BitBenderGames\SetBoundaryFromCollider.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\BitBenderGames\SnapAngle.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\BitBenderGames\TouchInputController.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\BitBenderGames\TouchWrapper.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\BitBenderGames\UnityEventWithPickableSelected.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\BitBenderGames\UnityEventWithPosition.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\BitBenderGames\UnityEventWithPositionAndTransform.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\BitBenderGames\UnityEventWithRaycastHit.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\BitBenderGames\UnityEventWithRaycastHit2D.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\BitBenderGames\UnityEventWithTransform.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\BitBenderGames\WrappedTouch.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\BMFont.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\BMGlyph.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\BMSymbol.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\BoundaryFactorySettings.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\BoundarySettings.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\ByteReader.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\CanvasGroupMap.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\Category.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\ChatInput.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\CoherentGG.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\CoherentTouch.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\CombineMeshes.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\ControlEvent.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\ControlVideoPlayLan.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\CreateCustomObject.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\CreateView.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\CustomFileHandlerScript.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\CustomPoint.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\Data.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\DataObjects.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\DataStation.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\DataZone.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\DestroyWhite.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\DownloadTexture.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\EnvelopContent.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\EquipItems.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\EquipRandomItem.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\EventDelegate.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\EventManager.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\ExampleDragDropItem.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\ExampleDragDropSurface.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\ExampleWheelController.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\ExitApp.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\ExtensionsTransform.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\FacebookSampleScript.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\Feature.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\FeatureCollectionPoint.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\Film.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\Filters.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\Formalization.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\FPSDisplay.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\Gallery.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\GameOptions.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\Geometry.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\GUIScript.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\Helpers.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\HUD_New.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\IControlObject.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\IInfo.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\Images.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\InfoData.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\Information.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\InputForward.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\InvAttachmentPoint.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\InvBaseItem.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\InvDatabase.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\InvEquipment.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\InvGameItem.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\InvStat.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\IUI_Point.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\LagPosition.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\LagRotation.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\LanguageSelection.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\LayersControl.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\LoadLevelOnClick.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\Localization.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\LookAtTarget.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\ManagerHTML.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\ManagerMainLauncher.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\ManagerMainScen.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\ManagerToggle.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\ManualBinding.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapSelected.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Helpers\Extensions.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Helpers\MeshData.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Helpers\Search\SearchData.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Helpers\Search\SearchPlace.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Helpers\Search\StructSearchData.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Helpers\VectorD\RectD.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\Boundary.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\Building.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\CachedDynamicTileManager.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\DynamicTileManager.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\Earth.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\Enums\BoundaryType.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\Enums\BuildingType.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\Enums\EarthType.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\Enums\LanduseKind.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\Enums\PlaceType.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\Enums\RailwayType.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\Enums\RoadType.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\Enums\WaterType.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\Factories\BoundaryFactory.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\Factories\BuildingFactory.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\Factories\EarthFactory.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\Factories\Factory.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\Factories\FlatBuildingFactory.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\Factories\LanduseFactory.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\Factories\RoadFactory.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\Factories\WaterFactory.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\Landuse.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\Place.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\PlacesFactory.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\Plugins\BuildingMap.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\Plugins\CustomObjectPlugin.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\Plugins\IIICustomObjectPlugin.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\Plugins\MapImageAndSavePlugin.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\Plugins\MapImagePlugin.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\Plugins\Plugin.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\Plugins\TerrainHeightPlugin.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\Plugins\TileMap.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\Poi.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\PoiFactory.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\Road.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\Settings\Base\SettingsLayers.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\Settings\BuildingFactorySettings.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\Settings\BuildingSettings.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\Settings\EarthFactorySettings.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\Settings\EarthSettings.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\Settings\LanduseFactorySettings.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\Settings\LanduseSettings.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\Settings\PlaceSettings.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\Settings\PlacesFactorySettings.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\Settings\PoiFactorySettings.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\Settings\PoiSettings.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\Settings\RoadFactorySettings.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\Settings\RoadSettings.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\Settings\WaterFactorySettings.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\Settings\WaterSettings.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\Tile.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\TileManager.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\TileManagerSystem.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\TileMap.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MapzenGo\Models\Water.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MenuScript.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MeshClass.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MethodExtensionForMonoBehaviourTransform.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MinMaxRangeAttribute.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\Models.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MouseLook.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MunDict_Zone.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\MyMath.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\NGUIDebug.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\NGUIMath.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\NGUIText.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\NGUITools.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\ObjectElementPicker.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\ObjectPicker.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\ObjectSetup.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\Obremen_zu.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\OpenURLOnClick.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\OSM_Data.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\Pablic_hearings.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\PanWithMouse.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\PlayIdleAnimations.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\Point.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\PointControl.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\PointsScriptableObject.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\PPM_approvep.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\PPT_approve.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\PrintScreen.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\Properties.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\PropertyBinding.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\PropertyReference.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\QuitMenu.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\Railway.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\Realization.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\RealTime.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\RECT.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\RenderHeads\Media\AVProVideo\AlphaPacking.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\RenderHeads\Media\AVProVideo\Android.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\RenderHeads\Media\AVProVideo\ApplyToMaterial.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\RenderHeads\Media\AVProVideo\ApplyToMesh.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\RenderHeads\Media\AVProVideo\Audio360ChannelMode.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\RenderHeads\Media\AVProVideo\AudioOutput.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\RenderHeads\Media\AVProVideo\AudioOutputManager.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\RenderHeads\Media\AVProVideo\BaseMediaPlayer.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\RenderHeads\Media\AVProVideo\CubemapCube.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\RenderHeads\Media\AVProVideo\Demos\AutoRotate.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\RenderHeads\Media\AVProVideo\Demos\ChangeAudioTrack.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\RenderHeads\Media\AVProVideo\Demos\ChangeVideoExample.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\RenderHeads\Media\AVProVideo\Demos\DemoInfo.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\RenderHeads\Media\AVProVideo\Demos\FrameExtract.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\RenderHeads\Media\AVProVideo\Demos\LoadFromBuffer.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\RenderHeads\Media\AVProVideo\Demos\Mapping3D.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\RenderHeads\Media\AVProVideo\Demos\NativeMediaOpen.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\RenderHeads\Media\AVProVideo\Demos\PlaybackSync.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\RenderHeads\Media\AVProVideo\Demos\SampleApp_Multiple.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\RenderHeads\Media\AVProVideo\Demos\SimpleController.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\RenderHeads\Media\AVProVideo\Demos\SphereDemo.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\RenderHeads\Media\AVProVideo\Demos\StartEndPoint.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\RenderHeads\Media\AVProVideo\Demos\VCR.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\RenderHeads\Media\AVProVideo\Demos\VCR_Control.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\RenderHeads\Media\AVProVideo\Demos\VideoTrigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\RenderHeads\Media\AVProVideo\DisplayBackground.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\RenderHeads\Media\AVProVideo\DisplayIMGUI.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\RenderHeads\Media\AVProVideo\DisplayUGUI.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\RenderHeads\Media\AVProVideo\ErrorCode.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\RenderHeads\Media\AVProVideo\HLSStream.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\RenderHeads\Media\AVProVideo\MediaPlayer.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\RenderHeads\Media\AVProVideo\MediaPlayerEvent.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\RenderHeads\Media\AVProVideo\NullMediaPlayer.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\RenderHeads\Media\AVProVideo\Resampler.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\RenderHeads\Media\AVProVideo\StereoPacking.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\RenderHeads\Media\AVProVideo\Stream.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\RenderHeads\Media\AVProVideo\StreamParser.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\RenderHeads\Media\AVProVideo\SubtitlesUGUI.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\RenderHeads\Media\AVProVideo\UpdateStereoMaterial.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\RenderHeads\Media\AVProVideo\Windows.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\RenderHeads\Media\AVProVideo\WindowsMediaPlayer.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\RootScen.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\Rotator.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\RunAppControl.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\SampleCubeRotator.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\ScenObjectType.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\ScriptableObjectIniocialization.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\SelectingMap.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\SetColorPickerColor.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\SettingDistanceObject.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\SettingObject.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\SetupPosition.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\SimpleGPUInstancingComponent.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\SimpleGPUInstancingExample.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\SimpleMoveExample.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\Singleton.1.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\Smear.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\SoftNormalsToVertexColor.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\Spin.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\SpinWithMouse.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\SpringPanel.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\SpringPosition.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\Station.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\tar_cs\DataWriter.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\tar_cs\IArchiveDataWriter.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\tar_cs\ITarHeader.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\tar_cs\LegacyTarWriter.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\tar_cs\TarException.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\tar_cs\TarHeader.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\tar_cs\TarReader.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\tar_cs\TarWriter.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\tar_cs\UsTarHeader.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TempChangeMap.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TempControlLayers.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TestControlShowHide.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TestImageGet.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TFHC_ForceShield_Shader_Sample\ForceShieldDestroyBall.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TFHC_ForceShield_Shader_Sample\ForceShieldImpactDetection.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TFHC_ForceShield_Shader_Sample\ForceShieldShootBall.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TFHC_Shader_Samples\highlightAnimated.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TileData.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TPU_ControlInMAP.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TPU_DATA.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\tpu_objects.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TPU_objects_type.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\tpu_stages.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TPUPointControl.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TpuPPTZone.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\tranport_types.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TransportHub.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\Tutorial5.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\Tween\Ease.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TweenAlpha.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TweenColor.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TweenFill.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TweenFOV.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TweenHeight.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TweenLetters.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TweenOrthoSize.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TweenPosition.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TweenRotation.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TweenScale.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TweenTransform.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TweenVolume.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TweenWidth.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\types.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\TypewriterEffect.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UI_TextPoint.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UI_TogglePoint.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UI2DSprite.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UI2DSpriteAnimation.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIAnchor.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIAtlas.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIBasicSprite.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIButton.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIButtonActivate.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIButtonColor.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIButtonKeys.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIButtonMessage.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIButtonOffset.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIButtonRotation.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIButtonScale.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UICamera.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UICenterOnChild.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UICenterOnClick.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIColorPicker.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UICursor.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIDragCamera.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIDragDropContainer.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIDragDropItem.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIDragDropRoot.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIDraggableCamera.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIDragObject.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIDragResize.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIDragScrollView.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIDrawCall.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIEquipmentSlot.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIEventListener.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIEventTrigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIFont.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIForwardEvents.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIGeometry.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIGrid.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIImageButton.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIInput.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIInputOnGUI.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIItemSlot.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIItemStorage.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIKeyBinding.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIKeyNavigation.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UILabel.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UILocalize.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIOrthoCamera.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIPanel.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIPlayAnimation.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIPlaySound.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIPlayTween.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIPopupList.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIProgressBar.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIRect.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIRoot.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UISavedOption.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIScrollBar.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIScrollView.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIShowControlScheme.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UISlider.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UISliderColors.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UISnapshotPoint.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UISoundVolume.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UISprite.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UISpriteAnimation.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UISpriteData.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIStorageSlot.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIStretch.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UITable.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UITextList.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UITexture.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIToggle.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIToggledComponents.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIToggledObjects.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UITooltip.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UITweener.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIViewport.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIWidget.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIWidgetContainer.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UIWrapContent.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityEngine\Mathd.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityEngine\PostProcessing\AmbientOcclusionComponent.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityEngine\PostProcessing\AmbientOcclusionModel.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityEngine\PostProcessing\AntialiasingModel.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityEngine\PostProcessing\BloomComponent.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityEngine\PostProcessing\BloomModel.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityEngine\PostProcessing\BuiltinDebugViewsComponent.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityEngine\PostProcessing\BuiltinDebugViewsModel.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityEngine\PostProcessing\ChromaticAberrationComponent.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityEngine\PostProcessing\ChromaticAberrationModel.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityEngine\PostProcessing\ColorGradingComponent.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityEngine\PostProcessing\ColorGradingCurve.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityEngine\PostProcessing\ColorGradingModel.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityEngine\PostProcessing\DepthOfFieldComponent.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityEngine\PostProcessing\DepthOfFieldModel.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityEngine\PostProcessing\DitheringComponent.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityEngine\PostProcessing\DitheringModel.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityEngine\PostProcessing\EyeAdaptationComponent.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityEngine\PostProcessing\EyeAdaptationModel.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityEngine\PostProcessing\FogComponent.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityEngine\PostProcessing\FogModel.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityEngine\PostProcessing\FxaaComponent.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityEngine\PostProcessing\GetSetAttribute.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityEngine\PostProcessing\GrainComponent.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityEngine\PostProcessing\GrainModel.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityEngine\PostProcessing\GraphicsUtils.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityEngine\PostProcessing\MaterialFactory.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityEngine\PostProcessing\MinAttribute.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityEngine\PostProcessing\MotionBlurComponent.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityEngine\PostProcessing\MotionBlurModel.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityEngine\PostProcessing\PostProcessingBehaviour.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityEngine\PostProcessing\PostProcessingComponent.1.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityEngine\PostProcessing\PostProcessingComponentBase.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityEngine\PostProcessing\PostProcessingComponentCommandBuffer.1.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityEngine\PostProcessing\PostProcessingComponentRenderTexture.1.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityEngine\PostProcessing\PostProcessingContext.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityEngine\PostProcessing\PostProcessingModel.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityEngine\PostProcessing\PostProcessingProfile.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityEngine\PostProcessing\RenderTextureFactory.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityEngine\PostProcessing\ScreenSpaceReflectionComponent.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityEngine\PostProcessing\ScreenSpaceReflectionModel.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityEngine\PostProcessing\TaaComponent.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityEngine\PostProcessing\TrackballAttribute.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityEngine\PostProcessing\TrackballGroupAttribute.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityEngine\PostProcessing\UserLutComponent.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityEngine\PostProcessing\UserLutModel.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityEngine\PostProcessing\VignetteComponent.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityEngine\PostProcessing\VignetteModel.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityEngine\UI\Switch.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityEngine\Vector2d.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityEngine\Vector3d.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityFBXExporter\FBXExporter.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityFBXExporter\FBXUnityMaterialGetter.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityFBXExporter\FBXUnityMeshGetter.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityStandardAssets\Characters\ThirdPerson\AICharacterControl.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityStandardAssets\Characters\ThirdPerson\ThirdPersonCharacter.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\UnityStandardAssets\Characters\ThirdPerson\ThirdPersonUserControl.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\Videos.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\ViewDrag.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\VirtualTexture.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\VirtualTextureBase.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\Win32Import.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\WindowAutoYaw.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\WindowDragTilt.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp\ZoneShow.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\Coherent\UI\Button.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\Coherent\UI\ButtonHandler.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\Coherent\UI\CoherentMethodAttribute.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\Coherent\UI\CoherentUILibrary.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\Coherent\UI\IMEHandler.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\Coherent\UI\InputManager.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\Coherent\UI\License.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\Coherent\UI\SystemListener.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\CoherentCameraLive.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\CoherentUIDialog.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\CoherentUILiveGameView.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\CoherentUIMenu.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\CoherentUISystem.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\CoherentUIView.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\CoherentUIViewRenderer.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\MobileSurfaceView.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\AotSafeExtensions.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\AsyncOperationExtensions.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\BooleanDisposable.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\BooleanNotifier.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\CancellationDisposable.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\CompositeDisposable.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\CoroutineAsyncBridge.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\CountNotifier.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Diagnostics\LogEntry.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Diagnostics\LogEntryExtensions.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Diagnostics\Logger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Diagnostics\ObservableDebugExtensions.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Diagnostics\ObservableLogger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Diagnostics\UnityDebugSink.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Disposable.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\DisposableExtensions.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Examples\Sample01_ObservableWWW.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Examples\Sample02_ObservableTriggers.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Examples\Sample03_GameObjectAsObservable.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Examples\Sample04_ConvertFromUnityCallback.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Examples\Sample05_ConvertFromCoroutine.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Examples\Sample06_ConvertToCoroutine.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Examples\Sample07_OrchestratIEnumerator.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Examples\Sample08_DetectDoubleClick.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Examples\Sample09_EventHandling.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Examples\Sample10_MainThreadDispatcher.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Examples\Sample11_Logger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Examples\Sample12_ReactiveProperty.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Examples\Sample13_ToDoApp.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\ICancelable.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\InternalUtil\MicroCoroutine.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\InternalUtil\ScheduledItem.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\InternalUtil\ThreadSafeQueueWorker.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\IntReactiveProperty.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\IScheduler.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\MainThreadDispatcher.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\MessageBroker.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\MultipleAssignmentDisposable.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Notification.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Observable.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\ObservableWWW.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\ObserveExtensions.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Observer.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\PresenterBase.1.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\PresenterBase.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\ReactiveCommand.1.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\ReactiveCommand.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\ReactiveProperty.1.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\RefCountDisposable.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\ScheduledDisposable.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Scheduler.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\SerialDisposable.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\SingleAssignmentDisposable.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\StableCompositeDisposable.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\SubjectExtensions.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\TaskObservableExtensions.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Timestamped.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Triggers\ObservableAnimatorTrigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Triggers\ObservableBeginDragTrigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Triggers\ObservableCancelTrigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Triggers\ObservableCanvasGroupChangedTrigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Triggers\ObservableCollision2DTrigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Triggers\ObservableCollisionTrigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Triggers\ObservableDeselectTrigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Triggers\ObservableDestroyTrigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Triggers\ObservableDragTrigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Triggers\ObservableDropTrigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Triggers\ObservableEnableTrigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Triggers\ObservableEndDragTrigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Triggers\ObservableEventTrigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Triggers\ObservableFixedUpdateTrigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Triggers\ObservableInitializePotentialDragTrigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Triggers\ObservableLateUpdateTrigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Triggers\ObservableMouseTrigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Triggers\ObservableMoveTrigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Triggers\ObservableParticleTrigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Triggers\ObservablePointerClickTrigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Triggers\ObservablePointerDownTrigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Triggers\ObservablePointerEnterTrigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Triggers\ObservablePointerExitTrigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Triggers\ObservablePointerUpTrigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Triggers\ObservableRectTransformTrigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Triggers\ObservableScrollTrigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Triggers\ObservableSelectTrigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Triggers\ObservableStateMachineTrigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Triggers\ObservableSubmitTrigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Triggers\ObservableTransformChangedTrigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Triggers\ObservableTrigger2DTrigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Triggers\ObservableTriggerBase.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Triggers\ObservableTriggerExtensions.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Triggers\ObservableTriggerTrigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Triggers\ObservableUpdateSelectedTrigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Triggers\ObservableUpdateTrigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Triggers\ObservableVisibleTrigger.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\UniRxSynchronizationContext.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\Unit.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\UnityEqualityComparer.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\UnityEventExtensions.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\UnityGraphicExtensions.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\UnityUIComponentExtensions.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\WebRequestExtensions.cs" />
+    <Compile Include="Assets\Scripts\Assembly-CSharp-firstpass\UniRx\YieldInstructionCache.cs" />
+    <Compile Include="Assets\Scripts\Assembly-UnityScript\CharacterMotor.cs" />
+    <Compile Include="Assets\Scripts\Assembly-UnityScript\CharacterMotorJumping.cs" />
+    <Compile Include="Assets\Scripts\Assembly-UnityScript\CharacterMotorMovement.cs" />
+    <Compile Include="Assets\Scripts\Assembly-UnityScript\CharacterMotorMovingPlatform.cs" />
+    <Compile Include="Assets\Scripts\Assembly-UnityScript\CharacterMotorSliding.cs" />
+    <Compile Include="Assets\Scripts\Assembly-UnityScript\DoubleClickDetector.cs" />
+    <Compile Include="Assets\Scripts\Assembly-UnityScript\FPSInputController.cs" />
+    <Compile Include="Assets\Scripts\Assembly-UnityScript\HUD.cs" />
+    <Compile Include="Assets\Scripts\Assembly-UnityScript\InitializeInput.cs" />
+    <Compile Include="Assets\Scripts\Assembly-UnityScript\MainMenu.cs" />
+    <Compile Include="Assets\Scripts\Assembly-UnityScript\MovementTransferOnJump.cs" />
+    <Compile Include="Assets\Scripts\Assembly-UnityScript\PlatformInputController.cs" />
+    <Compile Include="Assets\Scripts\Assembly-UnityScript\Stratecam.cs" />
+    <Compile Include="Assets\Scripts\Assembly-UnityScript\ThirdPersonCamera.cs" />
+    <Compile Include="Assets\Scripts\Assembly-UnityScript\ThirdPersonController.cs" />
+    <Compile Include="Assets\Scripts\CoherentUINet\Coherent\UI\ContextListener.cs" />
+    <None Include="Assets\Shader\HiddenUnlitPremultiplied Colored 3.shader" />
+    <None Include="Assets\Shader\HiddenUnlitTransparent Masked 2.shader" />
+    <None Include="Assets\Shader\UnlitPremultiplied Colored.shader" />
+    <None Include="Assets\Shader\HiddenPost FXEye Adaptation.shader" />
+    <None Include="Assets\Shader\HiddenUnlitTransparent Colored 3.shader" />
+    <None Include="Assets\Shader\UnlitText.shader" />
+    <None Include="Assets\Shader\AVProVideoVRInsideSphere Unlit (stereo+fog).shader" />
+    <None Include="Assets\Shader\HiddenPost FXGrain Generator.shader" />
+    <None Include="Assets\Shader\HiddenUnlitText 1.shader" />
+    <None Include="Assets\Shader\AVProVideoUIStereo.shader" />
+    <None Include="Assets\Shader\Shader Forgetransport lines-R.shader" />
+    <None Include="Assets\Shader\AVProVideoUnlitOpaque (texture+color support) - Android OES ONLY.shader" />
+    <None Include="Assets\Shader\AVProVideoVRInsideSphere Unlit (stereo+fog) Stereo UV.shader" />
+    <None Include="Assets\Shader\HiddenUnlitTransparent Packed 3.shader" />
+    <None Include="Assets\Shader\AVProVideoBackgroundFull Screen.shader" />
+    <None Include="Assets\Shader\AVProVideoUnlitTransparent (texture+color+fog+packed alpha).shader" />
+    <None Include="Assets\Shader\HiddenPost FXScreen Space Reflection.shader" />
+    <None Include="Assets\Shader\UnlitTransparent Packed.shader" />
+    <None Include="Assets\Shader\HiddenUnlitPremultiplied Colored 1.shader" />
+    <None Include="Assets\Shader\Amplify TextureStandard.shader" />
+    <None Include="Assets\Shader\AVProVideoLitDiffuse (texture+color+fog+stereo support).shader" />
+    <None Include="Assets\Shader\HiddenUnlitTransparent Packed 1.shader" />
+    <None Include="Assets\Shader\HiddenUnlitTransparent Masked 3.shader" />
+    <None Include="Assets\Shader\AVProVideoBackgroundFull Screen Transparent.shader" />
+    <None Include="Assets\Shader\HiddenPost FXAmbient Occlusion.shader" />
+    <None Include="Assets\Shader\HiddenPost FXBloom.shader" />
+    <None Include="Assets\Shader\HiddenAmplify TextureFillTable.shader" />
+    <None Include="Assets\Shader\Shader ForgeLightConePluss.shader" />
+    <None Include="Assets\Shader\HiddenPost FXMotion Blur.shader" />
+    <None Include="Assets\Shader\HiddenUnlitPremultiplied Colored 2.shader" />
+    <None Include="Assets\Shader\HiddenPost FXUber Shader.shader" />
+    <None Include="Assets\Shader\HiddenPost FXTemporal Anti-aliasing.shader" />
+    <None Include="Assets\Shader\HiddenAmplify TextureBlitRect.shader" />
+    <None Include="Assets\Shader\HiddenUnlitText (TextureClip).shader" />
+    <None Include="Assets\Shader\HiddenPost FXBlit.shader" />
+    <None Include="Assets\Shader\AVProVideoVRInsideSphere Unlit (stereo) - Android OES ONLY.shader" />
+    <None Include="Assets\Shader\HiddenUnlitTransparent Colored (TextureClip).shader" />
+    <None Include="Assets\Shader\AVProVideoVRInsideSphere Unlit Transparent(stereo+color+fog+alpha).shader" />
+    <None Include="Assets\Shader\HiddenUnlitTransparent Colored 2.shader" />
+    <None Include="Assets\Shader\HiddenPost FXDepth Of Field.shader" />
+    <None Include="Assets\Shader\AVProVideoIMGUITexture Transparent.shader" />
+    <None Include="Assets\Shader\HiddenPost FXLut Generator.shader" />
+    <None Include="Assets\Shader\HiddenUnlitTransparent Packed 2.shader" />
+    <None Include="Assets\Shader\UnlitTransparent Colored (Packed) (TextureClip).shader" />
+    <None Include="Assets\Shader\HiddenPost FXBuiltin Debug Views.shader" />
+    <None Include="Assets\Shader\AVProVideoUnlitOpaque (texture+color+fog+stereo support).shader" />
+    <None Include="Assets\Shader\HiddenUnlitTransparent Masked 1.shader" />
+    <None Include="Assets\Shader\AVProVideoUITransparent Packed.shader" />
+    <None Include="Assets\Shader\HiddenUnlitTransparent Colored 1.shader" />
+    <None Include="Assets\Shader\HiddenUnlitPremultiplied Colored (TextureClip).shader" />
+    <None Include="Assets\Shader\HiddenUnlitText 3.shader" />
+    <None Include="Assets\Shader\AVProVideoBlendFrames.shader" />
+    <None Include="Assets\Shader\UnlitTransparent Masked.shader" />
+    <None Include="Assets\Shader\HiddenPost FXFog.shader" />
+    <None Include="Assets\Shader\HiddenPost FXFXAA.shader" />
+    <None Include="Assets\Shader\HiddenAmplify TexturePrePass.shader" />
+    <None Include="Assets\Shader\AShaderTransportLineUseR.shader" />
+    <None Include="Assets\Shader\UnlitTransparent Colored.shader" />
+    <None Include="Assets\Shader\HiddenUnlitText 2.shader" />
+    <None Include="Assets\Shader\AVProVideoLitTransparent Diffuse (texture+color+fog+packed alpha).shader" />
+    <Reference Include="Unity.TextMeshPro.Editor">
+      <HintPath>/Users/alla/UnityProjects/BASE/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.PackageManagerUI.Editor">
+      <HintPath>/Users/alla/UnityProjects/BASE/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.CollabProxy.Editor">
+      <HintPath>/Users/alla/UnityProjects/BASE/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>/Users/alla/UnityProjects/BASE/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Analytics.DataPrivacy">
+      <HintPath>/Users/alla/UnityProjects/BASE/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AIModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ARModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ARModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AccessibilityModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AccessibilityModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AnimationModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AnimationModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AssetBundleModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AssetBundleModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AudioModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AudioModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.BaselibModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.BaselibModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ClothModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ClothModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ClusterInputModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ClusterInputModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ClusterRendererModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ClusterRendererModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.CrashReportingModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.CrashReportingModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.DirectorModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.DirectorModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.FileSystemHttpModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.FileSystemHttpModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.GameCenterModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.GameCenterModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.GridModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.GridModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.HotReloadModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.HotReloadModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.IMGUIModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.IMGUIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ImageConversionModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ImageConversionModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.InputModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.InputModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.JSONSerializeModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.JSONSerializeModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.LocalizationModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.LocalizationModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ParticleSystemModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ParticleSystemModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.PerformanceReportingModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.PerformanceReportingModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.PhysicsModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.PhysicsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Physics2DModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.Physics2DModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ProfilerModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ProfilerModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.ScreenCaptureModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.ScreenCaptureModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.SharedInternalsModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.SharedInternalsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.SpatialTrackingModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.SpatialTrackingModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.SpriteMaskModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.SpriteMaskModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.SpriteShapeModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.SpriteShapeModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.StreamingModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.StreamingModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.StyleSheetsModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.StyleSheetsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.SubstanceModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.SubstanceModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TLSModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.TLSModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TerrainModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.TerrainModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TerrainPhysicsModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.TerrainPhysicsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TextCoreModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.TextCoreModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TextRenderingModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.TextRenderingModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TilemapModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.TilemapModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TimelineModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.TimelineModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UIModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.UIModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UIElementsModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.UIElementsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UNETModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.UNETModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UmbraModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.UmbraModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityAnalyticsModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.UnityAnalyticsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityConnectModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.UnityConnectModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityTestProtocolModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.UnityTestProtocolModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.UnityWebRequestModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestAssetBundleModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.UnityWebRequestAssetBundleModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestAudioModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.UnityWebRequestAudioModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestTextureModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.UnityWebRequestTextureModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UnityWebRequestWWWModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.UnityWebRequestWWWModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.VFXModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.VFXModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.VRModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.VRModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.VehiclesModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.VehiclesModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.VideoModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.VideoModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.WindModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.WindModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.XRModule">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.XRModule.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Locator">
+      <HintPath>/Applications/Unity/Unity.app/Contents/Managed/Unity.Locator.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TestRunner">
+      <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll</HintPath>
+    </Reference>
+    <Reference Include="nunit.framework">
+      <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Timeline">
+      <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Networking">
+      <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.GoogleAudioSpatializer">
+      <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityGoogleAudioSpatializer/RuntimeEditor/UnityEngine.GoogleAudioSpatializer.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.SpatialTracking">
+      <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Analytics.Tracker">
+      <HintPath>/Users/alla/UnityProjects/BASE/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Analytics.Editor">
+      <HintPath>/Users/alla/UnityProjects/BASE/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Analytics.StandardEvents">
+      <HintPath>/Users/alla/UnityProjects/BASE/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+    </Reference>
+    <Reference Include="netstandard">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Win32.Primitives">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/Microsoft.Win32.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.AppContext">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.AppContext.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Collections.Concurrent">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Collections.Concurrent.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Collections.NonGeneric">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Collections.NonGeneric.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Collections.Specialized">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Collections.Specialized.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Collections">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.EventBasedAsync">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.ComponentModel.EventBasedAsync.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.Primitives">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.ComponentModel.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.TypeConverter">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.ComponentModel.TypeConverter.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.ComponentModel.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Console">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Console.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.Common">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Data.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.Contracts">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.Contracts.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.Debug">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.Debug.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.FileVersionInfo">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.FileVersionInfo.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.Process">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.Process.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.StackTrace">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.StackTrace.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.TextWriterTraceListener">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.TextWriterTraceListener.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.Tools">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.Tools.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.TraceSource">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.TraceSource.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Diagnostics.Tracing">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Diagnostics.Tracing.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Drawing.Primitives">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Drawing.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Dynamic.Runtime">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Dynamic.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Globalization.Calendars">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Globalization.Calendars.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Globalization.Extensions">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Globalization.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Globalization">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Globalization.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.Compression.ZipFile">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.IO.Compression.ZipFile.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.Compression">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.IO.Compression.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.FileSystem.DriveInfo">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.IO.FileSystem.DriveInfo.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.FileSystem.Primitives">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.IO.FileSystem.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.FileSystem.Watcher">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.IO.FileSystem.Watcher.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.FileSystem">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.IO.FileSystem.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.IsolatedStorage">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.IO.IsolatedStorage.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.MemoryMappedFiles">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.IO.MemoryMappedFiles.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.Pipes">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.IO.Pipes.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.UnmanagedMemoryStream">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.IO.UnmanagedMemoryStream.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.IO.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Linq.Expressions">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Linq.Expressions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Linq.Parallel">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Linq.Parallel.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Linq.Queryable">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Linq.Queryable.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Linq">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Net.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.NameResolution">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Net.NameResolution.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.NetworkInformation">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Net.NetworkInformation.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Ping">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Net.Ping.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Primitives">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Net.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Requests">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Net.Requests.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Security">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Net.Security.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Sockets">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Net.Sockets.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.WebHeaderCollection">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Net.WebHeaderCollection.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.WebSockets.Client">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Net.WebSockets.Client.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.WebSockets">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Net.WebSockets.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ObjectModel">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.ObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reflection.Extensions">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Reflection.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reflection.Primitives">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Reflection.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reflection">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Reflection.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Resources.Reader">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Resources.Reader.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Resources.ResourceManager">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Resources.ResourceManager.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Resources.Writer">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Resources.Writer.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.VisualC">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.CompilerServices.VisualC.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Extensions">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Handles">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.Handles.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.InteropServices.RuntimeInformation">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.InteropServices.RuntimeInformation.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.InteropServices">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.InteropServices.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Numerics">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.Numerics.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization.Formatters">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.Serialization.Formatters.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization.Json">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.Serialization.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization.Primitives">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.Serialization.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization.Xml">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.Serialization.Xml.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Claims">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Security.Claims.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Algorithms">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Security.Cryptography.Algorithms.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Csp">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Security.Cryptography.Csp.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Encoding">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Security.Cryptography.Encoding.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Primitives">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Security.Cryptography.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.X509Certificates">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Security.Cryptography.X509Certificates.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Principal">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Security.Principal.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.SecureString">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Security.SecureString.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Encoding.Extensions">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Text.Encoding.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Encoding">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Text.Encoding.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.RegularExpressions">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Text.RegularExpressions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Overlapped">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Threading.Overlapped.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Parallel">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Threading.Tasks.Parallel.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Threading.Tasks.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Thread">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Threading.Thread.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.ThreadPool">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Threading.ThreadPool.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Timer">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Threading.Timer.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Threading.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.ReaderWriter">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Xml.ReaderWriter.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.XDocument">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Xml.XDocument.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.XPath.XDocument">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Xml.XPath.XDocument.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.XPath">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Xml.XPath.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.XmlDocument">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Xml.XmlDocument.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.XmlSerializer">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.Xml.XmlSerializer.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics.Vectors">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/Extensions/2.0.0/System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.InteropServices.WindowsRuntime">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.Composition">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netfx/System.ComponentModel.Composition.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netfx/System.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netfx/System.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netfx/System.Drawing.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.Compression.FileSystem">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netfx/System.IO.Compression.FileSystem.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netfx/System.Net.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netfx/System.Numerics.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netfx/System.Runtime.Serialization.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ServiceModel.Web">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netfx/System.ServiceModel.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Transactions">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netfx/System.Transactions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netfx/System.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netfx/System.Windows.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Serialization">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Serialization.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netfx/System.Xml.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netfx/System.dll</HintPath>
+    </Reference>
+    <Reference Include="mscorlib">
+      <HintPath>/Applications/Unity/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netfx/mscorlib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="GenerateTargetFrameworkMonikerAttribute" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

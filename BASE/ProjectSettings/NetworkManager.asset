@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!149 &1
+NetworkManager:
+  m_ObjectHideFlags: 0
+  m_DebugLevel: 0
+  m_Sendrate: 15
+  m_AssetToPrefab:
+  - 53879a9eb6ec82b34c9900ab3409aeee: {fileID: 1988630845780636, guid: b03b6337f10d4aba4f8d20627da03654, type: 2}
+  - c9f8c566a9e8a4ac4df503cc37beba5d: {fileID: 1909355350139398, guid: 60225688cb11189f434da70d7982ccdd, type: 2}
+  - 102c8fe98cb7ddab4be123c959f83e22: {fileID: 1703281388734146, guid: 0105acb6f7722eba4a2ddc2ee9015821, type: 2}
+  - f39a3c625cf925a6401a35dc9f25de9b: {fileID: 1638282827691578, guid: 0c9dcce42da0e18f47191216d4955cd1, type: 2}
+  - 0315197ca5d41b864b6d2ac6a02516f5: {fileID: 1280481177896759, guid: f3daa4ef91e4cb84438cab54d7353e57, type: 2}
+  - b7381f786d8178aa49c595e6d50b489a: {fileID: 1240408824521124, guid: c7db917bc43eac854de822a6d9565871, type: 2}
+  - a2b6f0f1c8f9789a4f7544daeabe8118: {fileID: 1489474209216393, guid: d8adb5d093702cbe42b672ab4e0c89b8, type: 2}
+  - 6be52cb3026a32b94502da6cf203115c: {fileID: 1468659462036431, guid: 0dc059c66f225db84dea0cac4e7d861f, type: 2}
+  - ea884c8ab7f08fa74d324ef1f61af316: {fileID: 1506326717141969, guid: 1caa0bae9f2ed9a044c704272669c1cb, type: 2}
