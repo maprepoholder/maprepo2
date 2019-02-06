@@ -1,0 +1,449 @@
+fileFormatVersion: 2
+guid: 0fb695d7c5c6e0f4681e1053711c763e
+timeCreated: 1507381059
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: '----L_subway'
+    100002: '----L_TPU'
+    100004: L_Apartment
+    100006: L_Apartment_plane
+    100008: L_Bank
+    100010: L_Bank_plane
+    100012: L_border_GZPRO
+    100014: L_border_TPU
+    100016: L_Car_traffic
+    100018: L_Car_traffic_direction
+    100020: L_MFC
+    100022: L_MFC_plane
+    100024: L_OficeCenter
+    100026: L_OficeCenter_plane
+    100028: L_ORP
+    100030: L_Parkin_underground
+    100032: L_Parking
+    100034: L_Pedestrian_traffic
+    100036: L_Train_traffic
+    100038: L_Underground_pedestrian_crossing
+    100040: L_Underground_pedestrian_crossing_plane
+    100042: Line001
+    100044: Line002
+    100046: m_layer_TPU_plane
+    100048: model_layer_border_Geometry
+    100050: //RootNode
+    100052: L_border_PPT
+    100054: BORDER_TPU
+    100056: L_Border_GZPRO
+    100058: L_Border_PPT
+    100060: L01
+    100062: L02
+    100064: Line003
+    100066: Line004
+    100068: L_Subway_ArbatPokrovsk
+    100070: L_Subway_Solncevskaya
+    100072: L_SubwayStation_ParkPobedi
+    100074: L_SubwayStation_ParkPobedi_plane
+    100076: L_RZD_traffic
+    100078: L_Office_Correct_plane
+    100080: L_OficeCenter_correct
+    100082: L_NGPT
+    100084: L_NGPT_plane
+    100086: L_Office_Center
+    100088: L_Office_Center_plane
+    100090: L_TPU
+    100092: L_TPU_plane
+    400000: '----L_subway'
+    400002: '----L_TPU'
+    400004: L_Apartment
+    400006: L_Apartment_plane
+    400008: L_Bank
+    400010: L_Bank_plane
+    400012: L_border_GZPRO
+    400014: L_border_TPU
+    400016: L_Car_traffic
+    400018: L_Car_traffic_direction
+    400020: L_MFC
+    400022: L_MFC_plane
+    400024: L_OficeCenter
+    400026: L_OficeCenter_plane
+    400028: L_ORP
+    400030: L_Parkin_underground
+    400032: L_Parking
+    400034: L_Pedestrian_traffic
+    400036: L_Train_traffic
+    400038: L_Underground_pedestrian_crossing
+    400040: L_Underground_pedestrian_crossing_plane
+    400042: Line001
+    400044: Line002
+    400046: m_layer_TPU_plane
+    400048: model_layer_border_Geometry
+    400050: //RootNode
+    400052: L_border_PPT
+    400054: BORDER_TPU
+    400056: L_Border_GZPRO
+    400058: L_Border_PPT
+    400060: L01
+    400062: L02
+    400064: Line003
+    400066: Line004
+    400068: L_Subway_ArbatPokrovsk
+    400070: L_Subway_Solncevskaya
+    400072: L_SubwayStation_ParkPobedi
+    400074: L_SubwayStation_ParkPobedi_plane
+    400076: L_RZD_traffic
+    400078: L_Office_Correct_plane
+    400080: L_OficeCenter_correct
+    400082: L_NGPT
+    400084: L_NGPT_plane
+    400086: L_Office_Center
+    400088: L_Office_Center_plane
+    400090: L_TPU
+    400092: L_TPU_plane
+    2100000: ML_Parking
+    2100002: ML_Traffic_Car
+    2100004: ML_ArrowDirectionCar
+    2100006: ML_UndegroundFloor
+    2100008: ML_Traffic_NGPT
+    2100010: ML_Traffic_Pedestrian
+    2100012: ML_Subway_ArbP
+    2100014: ML_Subway_KL
+    2100016: ML_SubwayStation
+    2100018: ML_Traffic_RailRZD
+    2100020: ML_NGPT_Stop
+    2300000: '----L_subway'
+    2300002: '----L_TPU'
+    2300004: L_Apartment
+    2300006: L_Apartment_plane
+    2300008: L_Bank
+    2300010: L_Bank_plane
+    2300012: L_border_GZPRO
+    2300014: L_border_TPU
+    2300016: L_Car_traffic
+    2300018: L_Car_traffic_direction
+    2300020: L_MFC
+    2300022: L_MFC_plane
+    2300024: L_OficeCenter
+    2300026: L_OficeCenter_plane
+    2300028: L_ORP
+    2300030: L_Parkin_underground
+    2300032: L_Parking
+    2300034: L_Pedestrian_traffic
+    2300036: L_Train_traffic
+    2300038: L_Underground_pedestrian_crossing
+    2300040: L_Underground_pedestrian_crossing_plane
+    2300042: Line002
+    2300044: m_layer_TPU_plane
+    2300046: model_layer_border_Geometry
+    2300048: L_border_PPT
+    2300050: L_Border_GZPRO
+    2300052: L_Border_PPT
+    2300054: Line001
+    2300056: Line003
+    2300058: Line004
+    2300060: L_Subway_ArbatPokrovsk
+    2300062: L_Subway_Solncevskaya
+    2300064: L_SubwayStation_ParkPobedi
+    2300066: L_SubwayStation_ParkPobedi_plane
+    2300068: L_RZD_traffic
+    2300070: L_Office_Correct_plane
+    2300072: L_OficeCenter_correct
+    2300074: L_NGPT
+    2300076: L_NGPT_plane
+    2300078: L_Office_Center
+    2300080: L_Office_Center_plane
+    2300082: L_TPU
+    2300084: L_TPU_plane
+    3300000: '----L_subway'
+    3300002: '----L_TPU'
+    3300004: L_Apartment
+    3300006: L_Apartment_plane
+    3300008: L_Bank
+    3300010: L_Bank_plane
+    3300012: L_border_GZPRO
+    3300014: L_border_TPU
+    3300016: L_Car_traffic
+    3300018: L_Car_traffic_direction
+    3300020: L_MFC
+    3300022: L_MFC_plane
+    3300024: L_OficeCenter
+    3300026: L_OficeCenter_plane
+    3300028: L_ORP
+    3300030: L_Parkin_underground
+    3300032: L_Parking
+    3300034: L_Pedestrian_traffic
+    3300036: L_Train_traffic
+    3300038: L_Underground_pedestrian_crossing
+    3300040: L_Underground_pedestrian_crossing_plane
+    3300042: Line002
+    3300044: m_layer_TPU_plane
+    3300046: model_layer_border_Geometry
+    3300048: L_border_PPT
+    3300050: L_Border_GZPRO
+    3300052: L_Border_PPT
+    3300054: Line001
+    3300056: Line003
+    3300058: Line004
+    3300060: L_Subway_ArbatPokrovsk
+    3300062: L_Subway_Solncevskaya
+    3300064: L_SubwayStation_ParkPobedi
+    3300066: L_SubwayStation_ParkPobedi_plane
+    3300068: L_RZD_traffic
+    3300070: L_Office_Correct_plane
+    3300072: L_OficeCenter_correct
+    3300074: L_NGPT
+    3300076: L_NGPT_plane
+    3300078: L_Office_Center
+    3300080: L_Office_Center_plane
+    3300082: L_TPU
+    3300084: L_TPU_plane
+    4300000: L_Car_traffic
+    4300002: L_Car_traffic_direction
+    4300004: L_border_TPU
+    4300006: L_border_GZPRO
+    4300008: model_layer_border_Geometry
+    4300010: L_Underground_pedestrian_crossing
+    4300012: L_Underground_pedestrian_crossing_plane
+    4300014: L_Train_traffic
+    4300016: '----L_TPU'
+    4300018: m_layer_TPU_plane
+    4300020: '----L_subway'
+    4300022: Line002
+    4300024: L_Pedestrian_traffic
+    4300026: L_ORP
+    4300028: L_MFC
+    4300030: L_MFC_plane
+    4300032: L_Bank
+    4300034: L_Bank_plane
+    4300036: L_Apartment
+    4300038: L_Apartment_plane
+    4300040: L_OficeCenter
+    4300042: L_OficeCenter_plane
+    4300044: L_Parking
+    4300046: L_Parkin_underground
+    4300048: L_border_PPT
+    4300050: L_Border_GZPRO
+    4300052: L_Border_PPT
+    4300054: Line001
+    4300056: Line004
+    4300058: Line003
+    4300060: L_Subway_ArbatPokrovsk
+    4300062: L_Subway_Solncevskaya
+    4300064: L_SubwayStation_ParkPobedi
+    4300066: L_SubwayStation_ParkPobedi_plane
+    4300068: L_RZD_traffic
+    4300070: L_OficeCenter_correct
+    4300072: L_Office_Correct_plane
+    4300074: L_TPU
+    4300076: L_TPU_plane
+    4300078: L_Office_Center
+    4300080: L_Office_Center_plane
+    4300082: L_NGPT
+    4300084: L_NGPT_plane
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_Appartament
+    second: {fileID: 2100000, guid: c74a5c89322ff934f89c844776f16c2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_ArrowDirection
+    second: {fileID: 2100000, guid: 8cf6e60fe61ee204f91398de56db8124, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_ArrowDirectionCar
+    second: {fileID: 2100000, guid: 8cf6e60fe61ee204f91398de56db8124, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_BorderGZRO
+    second: {fileID: 2100000, guid: 1bb4ec30c2a0cc74e802a42e1887cf8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_BorderPPT
+    second: {fileID: 2100000, guid: 44e47809dd08f934386890620f761e72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_CarTtraffic
+    second: {fileID: 2100000, guid: b3357b33b2c41dd418b592f8ff75519a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_MFC
+    second: {fileID: 2100000, guid: cd5f0b4fcce23e04e960ec5c5501d632, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_NGPT_Stop
+    second: {fileID: 2100000, guid: 8346e83666c0fc74e8a50d152d6f2860, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_ORP
+    second: {fileID: 2100000, guid: b51f12adc8c659344b4677f72d8de066, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_Office
+    second: {fileID: 2100000, guid: d98c1ca7c372c174c9a930697e1a0942, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_Parking
+    second: {fileID: 2100000, guid: 312778847fbc912498e45c0207cc1c03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_PedestrianTraffic
+    second: {fileID: 2100000, guid: da41acde295d5444f95efecfb8de6f0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_PedestrianUndTraffic
+    second: {fileID: 2100000, guid: 2a484f42f8f017e4a805953699c7feb3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_RailRZD_Traffic
+    second: {fileID: 2100000, guid: 1aeebd1b9c3edf94aa67eaf81bcb9aeb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_SubwayStation
+    second: {fileID: 2100000, guid: 828180057c514e3438f6ec9c944c35a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_Subway_ArbP
+    second: {fileID: 2100000, guid: 459fce4e98aa287428ec7b9b41591477, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_Subway_KL
+    second: {fileID: 2100000, guid: 6d3ff05663d05bc439cf2f641495d97a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_TPU
+    second: {fileID: 2100000, guid: 0217fafc9e3e30841ba65231dd8a715d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_Traffic_Car
+    second: {fileID: 2100000, guid: b3357b33b2c41dd418b592f8ff75519a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_Traffic_NGPT
+    second: {fileID: 2100000, guid: 988f5515635f3ad48aa7ab89a64a747c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_Traffic_Pedestrian
+    second: {fileID: 2100000, guid: da41acde295d5444f95efecfb8de6f0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_Traffic_RailRZD
+    second: {fileID: 2100000, guid: 1aeebd1b9c3edf94aa67eaf81bcb9aeb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_UndegroundFloor
+    second: {fileID: 2100000, guid: 84a14827eff51e949a0a6e2760e98bfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_subwayK
+    second: {fileID: 2100000, guid: ce9b5cfecbbff6b4d9f133c21f543a28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 389a6203653c63c4c9bcd73171f0aeed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_layer_traffic
+    second: {fileID: 2100000, guid: dc9594b4f885e8f42969977a0f63b891, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

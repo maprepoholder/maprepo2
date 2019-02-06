@@ -1,0 +1,260 @@
+fileFormatVersion: 2
+guid: 5198c552342ddec4fb5c7400d1bfd3f2
+timeCreated: 1513687450
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Car_v01_000
+    100002: Car_v01_007
+    100004: Car_v01_011
+    100006: Car_v01_012
+    100008: Car_v01_013
+    100010: Car_v01_014
+    100012: Car_v02_000
+    100014: Car_v02_007
+    100016: Car_v02_011
+    100018: Car_v02_012
+    100020: Car_v02_013
+    100022: Car_v03_000
+    100024: Car_v03_007
+    100026: Car_v03_010
+    100028: Car_v03_011
+    100030: Car_v03_012
+    100032: Car_v04_000
+    100034: Car_v04_004
+    100036: Car_v04_009
+    100038: Car_v04_010
+    100040: Car_v04_011
+    100042: Car_v04_012
+    100044: Cars_3600
+    100046: //RootNode
+    400000: Car_v01_000
+    400002: Car_v01_007
+    400004: Car_v01_011
+    400006: Car_v01_012
+    400008: Car_v01_013
+    400010: Car_v01_014
+    400012: Car_v02_000
+    400014: Car_v02_007
+    400016: Car_v02_011
+    400018: Car_v02_012
+    400020: Car_v02_013
+    400022: Car_v03_000
+    400024: Car_v03_007
+    400026: Car_v03_010
+    400028: Car_v03_011
+    400030: Car_v03_012
+    400032: Car_v04_000
+    400034: Car_v04_004
+    400036: Car_v04_009
+    400038: Car_v04_010
+    400040: Car_v04_011
+    400042: Car_v04_012
+    400044: Cars_3600
+    400046: //RootNode
+    2300000: Car_v01_000
+    2300002: Car_v01_007
+    2300004: Car_v01_011
+    2300006: Car_v01_012
+    2300008: Car_v01_013
+    2300010: Car_v01_014
+    2300012: Car_v02_000
+    2300014: Car_v02_007
+    2300016: Car_v02_011
+    2300018: Car_v02_012
+    2300020: Car_v02_013
+    2300022: Car_v03_000
+    2300024: Car_v03_007
+    2300026: Car_v03_010
+    2300028: Car_v03_011
+    2300030: Car_v03_012
+    2300032: Car_v04_000
+    2300034: Car_v04_004
+    2300036: Car_v04_009
+    2300038: Car_v04_010
+    2300040: Car_v04_011
+    2300042: Car_v04_012
+    3300000: Car_v01_000
+    3300002: Car_v01_007
+    3300004: Car_v01_011
+    3300006: Car_v01_012
+    3300008: Car_v01_013
+    3300010: Car_v01_014
+    3300012: Car_v02_000
+    3300014: Car_v02_007
+    3300016: Car_v02_011
+    3300018: Car_v02_012
+    3300020: Car_v02_013
+    3300022: Car_v03_000
+    3300024: Car_v03_007
+    3300026: Car_v03_010
+    3300028: Car_v03_011
+    3300030: Car_v03_012
+    3300032: Car_v04_000
+    3300034: Car_v04_004
+    3300036: Car_v04_009
+    3300038: Car_v04_010
+    3300040: Car_v04_011
+    3300042: Car_v04_012
+    4300000: Car_v01_000
+    4300002: Car_v01_007
+    4300004: Car_v01_011
+    4300006: Car_v01_012
+    4300008: Car_v01_013
+    4300010: Car_v01_014
+    4300012: Car_v02_000
+    4300014: Car_v02_007
+    4300016: Car_v02_011
+    4300018: Car_v02_012
+    4300020: Car_v02_013
+    4300022: Car_v03_000
+    4300024: Car_v03_007
+    4300026: Car_v03_010
+    4300028: Car_v03_011
+    4300030: Car_v03_012
+    4300032: Car_v04_000
+    4300034: Car_v04_010
+    4300036: Car_v04_011
+    4300038: Car_v04_012
+    4300040: Car_v04_004
+    4300042: Car_v04_009
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_CarT01
+    second: {fileID: 2100000, guid: a7e6c657f25d5154fb11220d1bd809a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_CarT02_1
+    second: {fileID: 2100000, guid: 781a0e707a9efde459b6616990c59b60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_CarT02_2
+    second: {fileID: 2100000, guid: 67a5669826b42264e9a456f7db9b35ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_CarT03
+    second: {fileID: 2100000, guid: dd4fb04f118a0cb4f9cea6f1db225e03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_CarT04
+    second: {fileID: 2100000, guid: 40c2faae5a90c384b87a6f8906efb3b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_CarTyre
+    second: {fileID: 2100000, guid: 4fea94d34a556cf40a50cbaea5f6d082, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 10800
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

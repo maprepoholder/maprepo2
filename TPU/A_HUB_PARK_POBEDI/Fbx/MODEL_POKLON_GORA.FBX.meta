@@ -1,0 +1,327 @@
+fileFormatVersion: 2
+guid: 5d3530afbc803be45b1e084e9d1f1766
+timeCreated: 1508939224
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Poklonnaja_1floorBuilding_000
+    100004: Poklonnaja_1floorBuilding_001
+    100006: Poklonnaja_1floorBuilding_002
+    100008: Poklonnaja_1floorBuilding_003
+    100010: Poklonnaja_1floorBuilding_004
+    100012: Poklonnaja_2floorBuilding_000
+    100014: Poklonnaja_2floorBuilding_001
+    100016: Poklonnaja_border_000
+    100018: Poklonnaja_ChurchGeorgijPobedonosets_000
+    100020: Poklonnaja_EternityFire_000
+    100022: Poklonnaja_fences_000
+    100024: Poklonnaja_fountain_000
+    100026: Poklonnaja_fountain_001
+    100028: Poklonnaja_fountain_002
+    100030: Poklonnaja_fountain_003
+    100032: Poklonnaja_fountain_004
+    100034: Poklonnaja_FountainBlock_000
+    100036: Poklonnaja_grass_000
+    100038: Poklonnaja_monument_000
+    100040: Poklonnaja_mosque_000
+    100042: Poklonnaja_MuseumPavilions_000
+    100044: Poklonnaja_playground_000
+    100046: Poklonnaja_pond_000
+    100048: Poklonnaja_statue_000
+    100050: Poklonnaja_Stella_000
+    100052: Poklonnaja_Stella_001
+    100054: Poklonnaja_tradePoints_000
+    100056: Poklonnaja_VictoryMuseum_000
+    100058: Box001
+    400000: //RootNode
+    400002: Poklonnaja_1floorBuilding_000
+    400004: Poklonnaja_1floorBuilding_001
+    400006: Poklonnaja_1floorBuilding_002
+    400008: Poklonnaja_1floorBuilding_003
+    400010: Poklonnaja_1floorBuilding_004
+    400012: Poklonnaja_2floorBuilding_000
+    400014: Poklonnaja_2floorBuilding_001
+    400016: Poklonnaja_border_000
+    400018: Poklonnaja_ChurchGeorgijPobedonosets_000
+    400020: Poklonnaja_EternityFire_000
+    400022: Poklonnaja_fences_000
+    400024: Poklonnaja_fountain_000
+    400026: Poklonnaja_fountain_001
+    400028: Poklonnaja_fountain_002
+    400030: Poklonnaja_fountain_003
+    400032: Poklonnaja_fountain_004
+    400034: Poklonnaja_FountainBlock_000
+    400036: Poklonnaja_grass_000
+    400038: Poklonnaja_monument_000
+    400040: Poklonnaja_mosque_000
+    400042: Poklonnaja_MuseumPavilions_000
+    400044: Poklonnaja_playground_000
+    400046: Poklonnaja_pond_000
+    400048: Poklonnaja_statue_000
+    400050: Poklonnaja_Stella_000
+    400052: Poklonnaja_Stella_001
+    400054: Poklonnaja_tradePoints_000
+    400056: Poklonnaja_VictoryMuseum_000
+    400058: Box001
+    2300000: Poklonnaja_1floorBuilding_000
+    2300002: Poklonnaja_1floorBuilding_001
+    2300004: Poklonnaja_1floorBuilding_002
+    2300006: Poklonnaja_1floorBuilding_003
+    2300008: Poklonnaja_1floorBuilding_004
+    2300010: Poklonnaja_2floorBuilding_000
+    2300012: Poklonnaja_2floorBuilding_001
+    2300014: Poklonnaja_border_000
+    2300016: Poklonnaja_ChurchGeorgijPobedonosets_000
+    2300018: Poklonnaja_EternityFire_000
+    2300020: Poklonnaja_fences_000
+    2300022: Poklonnaja_fountain_000
+    2300024: Poklonnaja_fountain_001
+    2300026: Poklonnaja_fountain_002
+    2300028: Poklonnaja_fountain_003
+    2300030: Poklonnaja_fountain_004
+    2300032: Poklonnaja_FountainBlock_000
+    2300034: Poklonnaja_grass_000
+    2300036: Poklonnaja_monument_000
+    2300038: Poklonnaja_mosque_000
+    2300040: Poklonnaja_MuseumPavilions_000
+    2300042: Poklonnaja_playground_000
+    2300044: Poklonnaja_pond_000
+    2300046: Poklonnaja_statue_000
+    2300048: Poklonnaja_Stella_000
+    2300050: Poklonnaja_Stella_001
+    2300052: Poklonnaja_tradePoints_000
+    2300054: Poklonnaja_VictoryMuseum_000
+    2300056: Box001
+    3300000: Poklonnaja_1floorBuilding_000
+    3300002: Poklonnaja_1floorBuilding_001
+    3300004: Poklonnaja_1floorBuilding_002
+    3300006: Poklonnaja_1floorBuilding_003
+    3300008: Poklonnaja_1floorBuilding_004
+    3300010: Poklonnaja_2floorBuilding_000
+    3300012: Poklonnaja_2floorBuilding_001
+    3300014: Poklonnaja_border_000
+    3300016: Poklonnaja_ChurchGeorgijPobedonosets_000
+    3300018: Poklonnaja_EternityFire_000
+    3300020: Poklonnaja_fences_000
+    3300022: Poklonnaja_fountain_000
+    3300024: Poklonnaja_fountain_001
+    3300026: Poklonnaja_fountain_002
+    3300028: Poklonnaja_fountain_003
+    3300030: Poklonnaja_fountain_004
+    3300032: Poklonnaja_FountainBlock_000
+    3300034: Poklonnaja_grass_000
+    3300036: Poklonnaja_monument_000
+    3300038: Poklonnaja_mosque_000
+    3300040: Poklonnaja_MuseumPavilions_000
+    3300042: Poklonnaja_playground_000
+    3300044: Poklonnaja_pond_000
+    3300046: Poklonnaja_statue_000
+    3300048: Poklonnaja_Stella_000
+    3300050: Poklonnaja_Stella_001
+    3300052: Poklonnaja_tradePoints_000
+    3300054: Poklonnaja_VictoryMuseum_000
+    3300056: Box001
+    4300000: Poklonnaja_Stella_001
+    4300002: Poklonnaja_Stella_000
+    4300004: Poklonnaja_grass_000
+    4300006: Poklonnaja_fences_000
+    4300008: Poklonnaja_EternityFire_000
+    4300010: Poklonnaja_FountainBlock_000
+    4300012: Poklonnaja_VictoryMuseum_000
+    4300014: Poklonnaja_ChurchGeorgijPobedonosets_000
+    4300016: Poklonnaja_fountain_000
+    4300018: Poklonnaja_fountain_001
+    4300020: Poklonnaja_fountain_002
+    4300022: Poklonnaja_fountain_003
+    4300024: Poklonnaja_border_000
+    4300026: Poklonnaja_1floorBuilding_000
+    4300028: Poklonnaja_1floorBuilding_001
+    4300030: Poklonnaja_1floorBuilding_002
+    4300032: Poklonnaja_1floorBuilding_003
+    4300034: Poklonnaja_1floorBuilding_004
+    4300036: Poklonnaja_2floorBuilding_000
+    4300038: Poklonnaja_2floorBuilding_001
+    4300040: Poklonnaja_fountain_004
+    4300042: Poklonnaja_monument_000
+    4300044: Poklonnaja_mosque_000
+    4300046: Poklonnaja_playground_000
+    4300048: Poklonnaja_pond_000
+    4300050: Poklonnaja_statue_000
+    4300052: Poklonnaja_tradePoints_000
+    4300054: Poklonnaja_MuseumPavilions_000
+    4300056: Box001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_EnvBuilding
+    second: {fileID: 2100000, guid: beaad3e6c97583b43895f63eb5d9e13b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Grass_white
+    second: {fileID: 2100000, guid: 71537680d13aab14ebe9a01cd2a2dff1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: b5c04642fbf31424988a4ba995d67a15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Layer0_001
+    second: {fileID: 2100000, guid: ada05f70aeb1a9d409cea1aed3f7da1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Layer0_002
+    second: {fileID: 2100000, guid: 025e5a362746601489aebd4a2997b9fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Layer0_003
+    second: {fileID: 2100000, guid: 49b6a9a0660d0374aa28e1159bc65ee1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Layer0_004
+    second: {fileID: 2100000, guid: e67b71a7c4f066c43ac547dc470bd06d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Layer0_005
+    second: {fileID: 2100000, guid: c94216b7069eb734d9bc0782a63d6d51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Layer0_006
+    second: {fileID: 2100000, guid: 1175900398c25814e88454023e8199a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Layer0_007
+    second: {fileID: 2100000, guid: 3d870a0d3db82584e9877335c53c4138, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Layer0_008
+    second: {fileID: 2100000, guid: 39071dd8e9776a546b9a2cab69c7a51f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "dbl_\u0441\u0442\u0435\u043B\u043B\u04303_001"
+    second: {fileID: 2100000, guid: 7a8c2e62117c8fe42b8e9bf9a0e59a21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "dbl_\u0441\u0442\u0435\u043B\u043B\u04303_002"
+    second: {fileID: 2100000, guid: 65993ce1aeaa1e74189b07dc80c17ca2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "dbl_\u0441\u0442\u0435\u043B\u043B\u04303_003"
+    second: {fileID: 2100000, guid: e07bb199faa1fb8428f90d9e00ed9b3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "dbl_\u0441\u0442\u0435\u043B\u043B\u04303_004"
+    second: {fileID: 2100000, guid: 41e941e737715724f80ceef64af48653, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "dbl_\u0441\u0442\u0435\u043B\u043B\u04303_005"
+    second: {fileID: 2100000, guid: f184f9b2ebc213e46927b4b12d866163, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "dbl_\u0441\u0442\u0435\u043B\u043B\u04303_006"
+    second: {fileID: 2100000, guid: 47e23a3535adb4b43946cf8345ac79b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "dbl_\u0441\u0442\u0435\u043B\u043B\u04303_007"
+    second: {fileID: 2100000, guid: 457c04d7dbc76104b9bca6011a2baa0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "dbl_\u0441\u0442\u0435\u043B\u043B\u04303_008"
+    second: {fileID: 2100000, guid: 4517444aabab67b49b89289e51bc680a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
