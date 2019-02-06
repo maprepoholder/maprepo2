@@ -45,3 +45,4 @@ TPU/A_HUB_AVIAMOTORNAIA/HubScen/TPU_Aviamotornaia/LightingData.asset
 TPU/A_HUB_AVIAMOTORNAIA/HubScen/TPU_Aviamotornaia/LightingData.asset.zip
 BASE/Assets/Shader/AVProVideoLitTransparent Diffuse (texture+color+fog+packed alpha).shader
 TPU/A_HUB_PETROVSKO_RAZUMOVSKAIA/HubScen/TPU_Petrovsko_Razumovskaia/LightingData.asset
+BASE/Assets/Shader/AVProVideoLitDiffuse (texture+color+fog+stereo support).shader
