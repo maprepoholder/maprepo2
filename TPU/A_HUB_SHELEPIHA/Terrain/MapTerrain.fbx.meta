@@ -1,0 +1,870 @@
+fileFormatVersion: 2
+guid: ecf8c804fcda19646aae5b8e9da7e220
+timeCreated: 1509110825
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ___MS
+    100002: ___Road
+    100004: _GROUND01
+    100006: _GROUND01_MeshPart0
+    100008: _GROUND01_MeshPart1
+    100010: _GROUND01_MeshPart2
+    100012: _GROUND01_MeshPart3
+    100014: _GROUND01_MeshPart4
+    100016: _GROUND01_MeshPart5
+    100018: _GROUND01_MeshPart6
+    100020: _GROUND01_MeshPart7
+    100022: _GROUND2
+    100024: _GROUND2_MeshPart0
+    100026: _GROUND2_MeshPart1
+    100028: _SimLab
+    100030: AUTOCAD
+    100032: Bip001
+    100034: Bip001 Footsteps
+    100036: Bip001 Head
+    100038: Bip001 HeadNub
+    100040: Bip001 L Calf
+    100042: Bip001 L Clavicle
+    100044: Bip001 L Finger0
+    100046: Bip001 L Finger0Nub
+    100048: Bip001 L Foot
+    100050: Bip001 L Forearm
+    100052: Bip001 L Hand
+    100054: Bip001 L Thigh
+    100056: Bip001 L Toe0
+    100058: Bip001 L Toe01
+    100060: Bip001 L Toe02
+    100062: Bip001 L Toe0Nub
+    100064: Bip001 L UpperArm
+    100066: Bip001 Neck
+    100068: Bip001 Pelvis
+    100070: Bip001 R Calf
+    100072: Bip001 R Clavicle
+    100074: Bip001 R Finger0
+    100076: Bip001 R Finger0Nub
+    100078: Bip001 R Foot
+    100080: Bip001 R Forearm
+    100082: Bip001 R Hand
+    100084: Bip001 R Thigh
+    100086: Bip001 R Toe0
+    100088: Bip001 R Toe01
+    100090: Bip001 R Toe02
+    100092: Bip001 R Toe0Nub
+    100094: Bip001 R UpperArm
+    100096: Bip001 Spine
+    100098: Bip001 Spine1
+    100100: Bip001 Spine2
+    100102: Bip001 Spine3
+    100104: Box001
+    100106: Building01
+    100108: Building02
+    100110: Building_OSM
+    100112: Building_OSM_MeshPart0
+    100114: Building_OSM_MeshPart1
+    100116: Building_plane
+    100118: City_Stolicc
+    100120: DownBuilding_TC
+    100122: Facade_element_00
+    100124: Facade_element_01
+    100126: Facade_element_02
+    100128: Facade_element_03
+    100130: Facade_element_04
+    100132: Facade_element_05
+    100134: Facade_element_06
+    100136: Ground_SKP
+    100138: JK_CentrCity
+    100140: Layer:-vvv5
+    100142: Layer:0
+    100144: Layer:0 1
+    100146: Layer:0 2
+    100148: Layer:300_z_dor
+    100150: Layer:301_z_est
+    100152: Layer:305_z_trotuar
+    100154: Layer:305_z_trotuar_plitka
+    100156: Layer:307_z_gazon
+    100158: Layer:310_z_pesh_per_nadz
+    100160: "Layer:\u0413\u0440\u0430\u043D\u0438\u0446\u0430 \u043E\u0431\u044A\u0435\u043A\u0442\u043E\u0432
+      \u0422\u041F\u0423"
+    100162: "Layer:\u041D\u0435\u0441\u0443\u0449\u0438\u0435 \u0441\u0442\u0435\u043D\u044B"
+    100164: "Layer:\u0421\u0432\u0430\u0438"
+    100166: "Layer:\u0421\u043B\u043E\u0439 5 (Construction)"
+    100168: "Layer:\u0422\u0440\u0430\u0441\u0441\u0430"
+    100170: "Layer:\u0432\u0435\u043D\u0442\u043A\u0438\u043E\u0441\u043A\u0438"
+    100172: "Layer:\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0446\u0438\u044F"
+    100174: Line016_buildin_new_JK
+    100176: MainTwoBuilding
+    100178: Map_terrain
+    100180: //RootNode
+    100182: MODEL_Environment
+    100184: MODEL_HELPERS
+    100186: MODEL_HUB
+    100188: MODEL_MAPBUILDINGS
+    100190: MoscoeSity
+    100192: MoscowCity_OSM
+    100194: Ograda_border
+    100196: Ograda_Glass
+    100198: Pasport
+    100200: Pavement
+    100202: Plane_JK
+    100204: Prefab_TreePot_T01
+    100206: Prefab_TreePot_T01_00
+    100208: Prefab_TreePot_T01_01
+    100210: Prefab_TreePot_T01_02
+    100212: Prefab_TreePot_T01_03
+    100214: Prefab_TreePot_T01_04
+    100216: Prefab_TreePot_T01_05
+    100218: Prefab_TreePot_T02
+    100220: Prefab_TreePot_T02_00
+    100222: Prefab_TreePot_T02_01
+    100224: Prefab_TreePot_T02_02
+    100226: Prefab_TreePot_T02_03
+    100228: Prefab_TreePot_T02_04
+    100230: Prefab_TreePot_T03
+    100232: Prefab_TreePot_T03_00
+    100234: Prefab_TreePot_T03_01
+    100236: Prefab_TreePot_T03_02
+    100238: Prefab_TreePot_T03_05
+    100240: Road
+    100242: Road2
+    100244: Road_spline
+    100246: SM_NS_SH_Border_Roof
+    100248: SM_NS_SH_Grass_Building
+    100250: SM_NS_SH_Pavement2
+    100252: SM_WaterRiver
+    100254: StreetBench_v01_
+    100256: StreetBench_v01_ 1
+    100258: StreetBench_v01_001
+    100260: StreetBench_v01_002
+    100262: StreetBench_v01_003
+    100264: StreetBench_v01_004
+    100266: StreetBench_v01_005
+    100268: StreetBench_v01_006
+    100270: StreetBench_v01_007
+    100272: StreetBench_v01_008
+    100274: StreetBench_v01_009
+    100276: StreetBench_v01_010
+    100278: StreetBench_v01_011
+    100280: StreetBench_v01_012
+    100282: StreetBench_v01_013
+    100284: StreetBench_v01_014
+    100286: StreetBench_v01_015
+    100288: TC
+    100290: TC2
+    100292: Tower 2000_001
+    100294: Town_1
+    100296: Town_2
+    100298: Town_4
+    100300: Town_5
+    100302: Town_6
+    100304: Town_Evolucii
+    100306: Town_Evrazia
+    100308: Town_Federation
+    100310: Town_Imperia
+    100312: Town_Mercuriy
+    100314: Town_Naberejnoy
+    400000: ___MS
+    400002: ___Road
+    400004: _GROUND01
+    400006: _GROUND01_MeshPart0
+    400008: _GROUND01_MeshPart1
+    400010: _GROUND01_MeshPart2
+    400012: _GROUND01_MeshPart3
+    400014: _GROUND01_MeshPart4
+    400016: _GROUND01_MeshPart5
+    400018: _GROUND01_MeshPart6
+    400020: _GROUND01_MeshPart7
+    400022: _GROUND2
+    400024: _GROUND2_MeshPart0
+    400026: _GROUND2_MeshPart1
+    400028: _SimLab
+    400030: AUTOCAD
+    400032: Bip001
+    400034: Bip001 Footsteps
+    400036: Bip001 Head
+    400038: Bip001 HeadNub
+    400040: Bip001 L Calf
+    400042: Bip001 L Clavicle
+    400044: Bip001 L Finger0
+    400046: Bip001 L Finger0Nub
+    400048: Bip001 L Foot
+    400050: Bip001 L Forearm
+    400052: Bip001 L Hand
+    400054: Bip001 L Thigh
+    400056: Bip001 L Toe0
+    400058: Bip001 L Toe01
+    400060: Bip001 L Toe02
+    400062: Bip001 L Toe0Nub
+    400064: Bip001 L UpperArm
+    400066: Bip001 Neck
+    400068: Bip001 Pelvis
+    400070: Bip001 R Calf
+    400072: Bip001 R Clavicle
+    400074: Bip001 R Finger0
+    400076: Bip001 R Finger0Nub
+    400078: Bip001 R Foot
+    400080: Bip001 R Forearm
+    400082: Bip001 R Hand
+    400084: Bip001 R Thigh
+    400086: Bip001 R Toe0
+    400088: Bip001 R Toe01
+    400090: Bip001 R Toe02
+    400092: Bip001 R Toe0Nub
+    400094: Bip001 R UpperArm
+    400096: Bip001 Spine
+    400098: Bip001 Spine1
+    400100: Bip001 Spine2
+    400102: Bip001 Spine3
+    400104: Box001
+    400106: Building01
+    400108: Building02
+    400110: Building_OSM
+    400112: Building_OSM_MeshPart0
+    400114: Building_OSM_MeshPart1
+    400116: Building_plane
+    400118: City_Stolicc
+    400120: DownBuilding_TC
+    400122: Facade_element_00
+    400124: Facade_element_01
+    400126: Facade_element_02
+    400128: Facade_element_03
+    400130: Facade_element_04
+    400132: Facade_element_05
+    400134: Facade_element_06
+    400136: Ground_SKP
+    400138: JK_CentrCity
+    400140: Layer:-vvv5
+    400142: Layer:0
+    400144: Layer:0 1
+    400146: Layer:0 2
+    400148: Layer:300_z_dor
+    400150: Layer:301_z_est
+    400152: Layer:305_z_trotuar
+    400154: Layer:305_z_trotuar_plitka
+    400156: Layer:307_z_gazon
+    400158: Layer:310_z_pesh_per_nadz
+    400160: "Layer:\u0413\u0440\u0430\u043D\u0438\u0446\u0430 \u043E\u0431\u044A\u0435\u043A\u0442\u043E\u0432
+      \u0422\u041F\u0423"
+    400162: "Layer:\u041D\u0435\u0441\u0443\u0449\u0438\u0435 \u0441\u0442\u0435\u043D\u044B"
+    400164: "Layer:\u0421\u0432\u0430\u0438"
+    400166: "Layer:\u0421\u043B\u043E\u0439 5 (Construction)"
+    400168: "Layer:\u0422\u0440\u0430\u0441\u0441\u0430"
+    400170: "Layer:\u0432\u0435\u043D\u0442\u043A\u0438\u043E\u0441\u043A\u0438"
+    400172: "Layer:\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0446\u0438\u044F"
+    400174: Line016_buildin_new_JK
+    400176: MainTwoBuilding
+    400178: Map_terrain
+    400180: //RootNode
+    400182: MODEL_Environment
+    400184: MODEL_HELPERS
+    400186: MODEL_HUB
+    400188: MODEL_MAPBUILDINGS
+    400190: MoscoeSity
+    400192: MoscowCity_OSM
+    400194: Ograda_border
+    400196: Ograda_Glass
+    400198: Pasport
+    400200: Pavement
+    400202: Plane_JK
+    400204: Prefab_TreePot_T01
+    400206: Prefab_TreePot_T01_00
+    400208: Prefab_TreePot_T01_01
+    400210: Prefab_TreePot_T01_02
+    400212: Prefab_TreePot_T01_03
+    400214: Prefab_TreePot_T01_04
+    400216: Prefab_TreePot_T01_05
+    400218: Prefab_TreePot_T02
+    400220: Prefab_TreePot_T02_00
+    400222: Prefab_TreePot_T02_01
+    400224: Prefab_TreePot_T02_02
+    400226: Prefab_TreePot_T02_03
+    400228: Prefab_TreePot_T02_04
+    400230: Prefab_TreePot_T03
+    400232: Prefab_TreePot_T03_00
+    400234: Prefab_TreePot_T03_01
+    400236: Prefab_TreePot_T03_02
+    400238: Prefab_TreePot_T03_05
+    400240: Road
+    400242: Road2
+    400244: Road_spline
+    400246: SM_NS_SH_Border_Roof
+    400248: SM_NS_SH_Grass_Building
+    400250: SM_NS_SH_Pavement2
+    400252: SM_WaterRiver
+    400254: StreetBench_v01_
+    400256: StreetBench_v01_ 1
+    400258: StreetBench_v01_001
+    400260: StreetBench_v01_002
+    400262: StreetBench_v01_003
+    400264: StreetBench_v01_004
+    400266: StreetBench_v01_005
+    400268: StreetBench_v01_006
+    400270: StreetBench_v01_007
+    400272: StreetBench_v01_008
+    400274: StreetBench_v01_009
+    400276: StreetBench_v01_010
+    400278: StreetBench_v01_011
+    400280: StreetBench_v01_012
+    400282: StreetBench_v01_013
+    400284: StreetBench_v01_014
+    400286: StreetBench_v01_015
+    400288: TC
+    400290: TC2
+    400292: Tower 2000_001
+    400294: Town_1
+    400296: Town_2
+    400298: Town_4
+    400300: Town_5
+    400302: Town_6
+    400304: Town_Evolucii
+    400306: Town_Evrazia
+    400308: Town_Federation
+    400310: Town_Imperia
+    400312: Town_Mercuriy
+    400314: Town_Naberejnoy
+    2300000: ___Road
+    2300002: _GROUND01_MeshPart0
+    2300004: _GROUND01_MeshPart1
+    2300006: _GROUND01_MeshPart2
+    2300008: _GROUND01_MeshPart3
+    2300010: _GROUND01_MeshPart4
+    2300012: _GROUND01_MeshPart5
+    2300014: _GROUND01_MeshPart6
+    2300016: _GROUND01_MeshPart7
+    2300018: _GROUND2_MeshPart0
+    2300020: _GROUND2_MeshPart1
+    2300022: _SimLab
+    2300024: Box001
+    2300026: Building01
+    2300028: Building02
+    2300030: Building_OSM_MeshPart0
+    2300032: Building_OSM_MeshPart1
+    2300034: Building_plane
+    2300036: City_Stolicc
+    2300038: DownBuilding_TC
+    2300040: JK_CentrCity
+    2300042: Layer:0 1
+    2300044: Layer:300_z_dor
+    2300046: Layer:301_z_est
+    2300048: Layer:305_z_trotuar
+    2300050: Layer:305_z_trotuar_plitka
+    2300052: Layer:307_z_gazon
+    2300054: Layer:310_z_pesh_per_nadz
+    2300056: MainTwoBuilding
+    2300058: Map_terrain
+    2300060: MoscowCity_OSM
+    2300062: Ograda_Glass
+    2300064: Pasport
+    2300066: Plane_JK
+    2300068: Prefab_TreePot_T01_00
+    2300070: Prefab_TreePot_T01_01
+    2300072: Prefab_TreePot_T01_02
+    2300074: Prefab_TreePot_T01_03
+    2300076: Prefab_TreePot_T01_04
+    2300078: Prefab_TreePot_T01_05
+    2300080: Prefab_TreePot_T02_00
+    2300082: Prefab_TreePot_T02_01
+    2300084: Prefab_TreePot_T02_02
+    2300086: Prefab_TreePot_T02_03
+    2300088: Prefab_TreePot_T02_04
+    2300090: Prefab_TreePot_T03_00
+    2300092: Prefab_TreePot_T03_01
+    2300094: Prefab_TreePot_T03_02
+    2300096: Prefab_TreePot_T03_05
+    2300098: Road
+    2300100: SM_NS_SH_Grass_Building
+    2300102: SM_NS_SH_Pavement2
+    2300104: SM_WaterRiver
+    2300106: StreetBench_v01_ 1
+    2300108: StreetBench_v01_001
+    2300110: StreetBench_v01_002
+    2300112: StreetBench_v01_003
+    2300114: StreetBench_v01_004
+    2300116: StreetBench_v01_005
+    2300118: StreetBench_v01_006
+    2300120: StreetBench_v01_007
+    2300122: StreetBench_v01_008
+    2300124: StreetBench_v01_009
+    2300126: StreetBench_v01_010
+    2300128: StreetBench_v01_011
+    2300130: StreetBench_v01_012
+    2300132: StreetBench_v01_013
+    2300134: StreetBench_v01_014
+    2300136: StreetBench_v01_015
+    2300138: TC
+    2300140: TC2
+    2300142: Tower 2000_001
+    2300144: Town_1
+    2300146: Town_2
+    2300148: Town_4
+    2300150: Town_5
+    2300152: Town_6
+    2300154: Town_Evolucii
+    2300156: Town_Evrazia
+    2300158: Town_Federation
+    2300160: Town_Imperia
+    2300162: Town_Mercuriy
+    2300164: Town_Naberejnoy
+    2300166: //RootNode
+    3300000: ___Road
+    3300002: _GROUND01_MeshPart0
+    3300004: _GROUND01_MeshPart1
+    3300006: _GROUND01_MeshPart2
+    3300008: _GROUND01_MeshPart3
+    3300010: _GROUND01_MeshPart4
+    3300012: _GROUND01_MeshPart5
+    3300014: _GROUND01_MeshPart6
+    3300016: _GROUND01_MeshPart7
+    3300018: _GROUND2_MeshPart0
+    3300020: _GROUND2_MeshPart1
+    3300022: _SimLab
+    3300024: Box001
+    3300026: Building01
+    3300028: Building02
+    3300030: Building_OSM_MeshPart0
+    3300032: Building_OSM_MeshPart1
+    3300034: Building_plane
+    3300036: City_Stolicc
+    3300038: DownBuilding_TC
+    3300040: JK_CentrCity
+    3300042: Layer:0 1
+    3300044: Layer:300_z_dor
+    3300046: Layer:301_z_est
+    3300048: Layer:305_z_trotuar
+    3300050: Layer:305_z_trotuar_plitka
+    3300052: Layer:307_z_gazon
+    3300054: Layer:310_z_pesh_per_nadz
+    3300056: MainTwoBuilding
+    3300058: Map_terrain
+    3300060: MoscowCity_OSM
+    3300062: Ograda_Glass
+    3300064: Pasport
+    3300066: Plane_JK
+    3300068: Prefab_TreePot_T01_00
+    3300070: Prefab_TreePot_T01_01
+    3300072: Prefab_TreePot_T01_02
+    3300074: Prefab_TreePot_T01_03
+    3300076: Prefab_TreePot_T01_04
+    3300078: Prefab_TreePot_T01_05
+    3300080: Prefab_TreePot_T02_00
+    3300082: Prefab_TreePot_T02_01
+    3300084: Prefab_TreePot_T02_02
+    3300086: Prefab_TreePot_T02_03
+    3300088: Prefab_TreePot_T02_04
+    3300090: Prefab_TreePot_T03_00
+    3300092: Prefab_TreePot_T03_01
+    3300094: Prefab_TreePot_T03_02
+    3300096: Prefab_TreePot_T03_05
+    3300098: Road
+    3300100: SM_NS_SH_Grass_Building
+    3300102: SM_NS_SH_Pavement2
+    3300104: SM_WaterRiver
+    3300106: StreetBench_v01_ 1
+    3300108: StreetBench_v01_001
+    3300110: StreetBench_v01_002
+    3300112: StreetBench_v01_003
+    3300114: StreetBench_v01_004
+    3300116: StreetBench_v01_005
+    3300118: StreetBench_v01_006
+    3300120: StreetBench_v01_007
+    3300122: StreetBench_v01_008
+    3300124: StreetBench_v01_009
+    3300126: StreetBench_v01_010
+    3300128: StreetBench_v01_011
+    3300130: StreetBench_v01_012
+    3300132: StreetBench_v01_013
+    3300134: StreetBench_v01_014
+    3300136: StreetBench_v01_015
+    3300138: TC
+    3300140: TC2
+    3300142: Tower 2000_001
+    3300144: Town_1
+    3300146: Town_2
+    3300148: Town_4
+    3300150: Town_5
+    3300152: Town_6
+    3300154: Town_Evolucii
+    3300156: Town_Evrazia
+    3300158: Town_Federation
+    3300160: Town_Imperia
+    3300162: Town_Mercuriy
+    3300164: Town_Naberejnoy
+    3300166: //RootNode
+    4300000: DownBuilding_TC
+    4300002: MainTwoBuilding
+    4300004: SM_NS_SH_Grass_Building
+    4300006: SM_NS_SH_Pavement2
+    4300008: Ograda_Glass
+    4300010: StreetBench_v01_
+    4300012: StreetBench_v01_001
+    4300014: StreetBench_v01_002
+    4300016: StreetBench_v01_003
+    4300018: StreetBench_v01_004
+    4300020: StreetBench_v01_005
+    4300022: StreetBench_v01_006
+    4300024: StreetBench_v01_007
+    4300026: StreetBench_v01_008
+    4300028: StreetBench_v01_009
+    4300030: StreetBench_v01_010
+    4300032: StreetBench_v01_011
+    4300034: StreetBench_v01_012
+    4300036: StreetBench_v01_013
+    4300038: StreetBench_v01_014
+    4300040: StreetBench_v01_015
+    4300042: Prefab_TreePot_T02_03
+    4300044: Prefab_TreePot_T02_04
+    4300046: Prefab_TreePot_T02_01
+    4300048: Prefab_TreePot_T02_02
+    4300050: Prefab_TreePot_T02_00
+    4300052: Prefab_TreePot_T03_00
+    4300054: Prefab_TreePot_T03_01
+    4300056: Prefab_TreePot_T03_02
+    4300058: Prefab_TreePot_T03_05
+    4300060: Prefab_TreePot_T01_00
+    4300062: Prefab_TreePot_T01_02
+    4300064: Prefab_TreePot_T01_03
+    4300066: Prefab_TreePot_T01_04
+    4300068: Prefab_TreePot_T01_05
+    4300070: Prefab_TreePot_T01_01
+    4300072: Box001
+    4300074: Pasport
+    4300076: Building_plane
+    4300078: Layer:310_z_pesh_per_nadz
+    4300080: Layer:307_z_gazon
+    4300082: Layer:305_z_trotuar_plitka
+    4300084: Layer:305_z_trotuar
+    4300086: Layer:301_z_est
+    4300088: Layer:300_z_dor
+    4300090: Layer:0
+    4300092: Plane_JK
+    4300094: MoscowCity_OSM
+    4300096: _SimLab
+    4300098: ___Road
+    4300100: _GROUND2_MeshPart0
+    4300102: _GROUND2_MeshPart1
+    4300104: _GROUND01_MeshPart0
+    4300106: _GROUND01_MeshPart1
+    4300108: _GROUND01_MeshPart2
+    4300110: _GROUND01_MeshPart3
+    4300112: _GROUND01_MeshPart4
+    4300114: _GROUND01_MeshPart5
+    4300116: _GROUND01_MeshPart6
+    4300118: _GROUND01_MeshPart7
+    4300120: SM_WaterRiver
+    4300122: Road
+    4300124: Building_OSM_MeshPart0
+    4300126: Building_OSM_MeshPart1
+    4300128: JK_CentrCity
+    4300130: Building01
+    4300132: Building02
+    4300134: TC
+    4300136: TC2
+    4300138: Tower 2000_001
+    4300140: Town_1
+    4300142: Town_2
+    4300144: Town_Mercuriy
+    4300146: Town_4
+    4300148: Town_5
+    4300150: Town_6
+    4300152: Town_Evolucii
+    4300154: Town_Evrazia
+    4300156: Town_Federation
+    4300158: Town_Imperia
+    4300160: Town_Naberejnoy
+    4300162: City_Stolicc
+    4300164: Map_terrain
+    6400000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: bf1fc33be55a2ec4e8f84b6603cb4660, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Default
+    second: {fileID: 2100000, guid: cb485223a03502c4aac620747439e991, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 06 - Default
+    second: {fileID: 2100000, guid: b66cb993c82cb3a4e835a919c44cb93a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 07 - Default
+    second: {fileID: 2100000, guid: 8adbaec94897bcc418aa5d99f8e861f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 08 - Default
+    second: {fileID: 2100000, guid: 1b4f0ec210fbdb749a16961b7af41c62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 08 - Default2
+    second: {fileID: 2100000, guid: 0638cad967060ed4ca374ac136340386, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 08 - Default3
+    second: {fileID: 2100000, guid: 124e742903d57924fac3612000889b01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bordur
+    second: {fileID: 2100000, guid: 0a8dacffd31b0084faffc0b5ca03a2c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BuildingMaterial
+    second: {fileID: 2100000, guid: c77a8bd1ccf49ce48b9559b04952a59d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_B25
+    second: {fileID: 2100000, guid: 4bbd43408eb72fe478ee2f8c3b1aba81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_C16
+    second: {fileID: 2100000, guid: e1f39acbd92ca6f4bb8454b4228921b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_E15
+    second: {fileID: 2100000, guid: 9336432ab8af9c341a7be1dd943d8719, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_G15
+    second: {fileID: 2100000, guid: 06123a30de2423a449b59b672ecb5a18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_H09
+    second: {fileID: 2100000, guid: 2b9151f53345d5a46b9b328c29ff2a44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Grass
+    second: {fileID: 2100000, guid: dd490a30a280f6d4ea1e0952c8e8dd0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_TreePot
+    second: {fileID: 2100000, guid: 0d67ea36010e1f942b1b1dbfa460249c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_WaterSample
+    second: {fileID: 2100000, guid: 5f5b50f1cf3f8734d91d324a127bf7ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Windows01
+    second: {fileID: 2100000, guid: f8a39ffbc9cef92488fbef2672d465e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Windows02
+    second: {fileID: 2100000, guid: 7ad71df64fbd6b946ab30c4b573d9432, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #16129'
+    second: {fileID: 2100000, guid: 80e1fbad79c44cb4dac6c47a06adf693, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #16130'
+    second: {fileID: 2100000, guid: 437409b17a36bb84b864889e56afa3c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #16134'
+    second: {fileID: 2100000, guid: a08b5b4be87712c469a4901954dee035, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #16135'
+    second: {fileID: 2100000, guid: a08b5b4be87712c469a4901954dee035, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #16136'
+    second: {fileID: 2100000, guid: 1655c6d14fbef9d4fa5f38dd4e8ffcfb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #16138'
+    second: {fileID: 2100000, guid: 0814c6c648f8cb043beea9e4fd66306f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #16139'
+    second: {fileID: 2100000, guid: 5b5237e234acf3647bb418117f35e2fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #16156'
+    second: {fileID: 2100000, guid: 63e345db2fad2794a92ce4cee5e729e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 6a2391cebaf6dd14fae5a2ae76972740, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water
+    second: {fileID: 2100000, guid: 6744be57fef773b49b73ef11c8495771, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Asphalt_New]2'
+    second: {fileID: 2100000, guid: 19cf91dd116901b498d526e0dd02df51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_005]6'
+    second: {fileID: 2100000, guid: 5419b3de7ff910a4986978be1bb7bc85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_005]7'
+    second: {fileID: 2100000, guid: dc99daa6e1ae54345bdeb190e13d55b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_005]8'
+    second: {fileID: 2100000, guid: df67a3ad07f24864daaf06151e1bdd18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_A01]1'
+    second: {fileID: 2100000, guid: a4a787c30f47d2a44ad59e4704cfbc59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_A01]2'
+    second: {fileID: 2100000, guid: 3f022e913098f1249a718b28a535e93b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_A01]23'
+    second: {fileID: 2100000, guid: 320d0216b767bd64e9adc375bba67e94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_D15]1'
+    second: {fileID: 2100000, guid: edf0dddfb167edd4e8404541fdd6919a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_G08]1'
+    second: {fileID: 2100000, guid: e882bb7520c1a724c84d29d8d54e3e9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Roofing_Metal_Standing_Seam_Red]5'
+    second: {fileID: 2100000, guid: 2da0ca0316248e4459cfb0cf197ca9a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _auto_10
+    second: {fileID: 2100000, guid: a6e4672768844594e9bc8d1a48639e4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _auto_13
+    second: {fileID: 2100000, guid: 349fd7f162ee773428f1521e2cb7b2c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _auto_2
+    second: {fileID: 2100000, guid: 3bdb00b07c379f242a14efbab42144a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _auto_7
+    second: {fileID: 2100000, guid: 284d67c3ae7ae8646b59f8595d1f7397, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
