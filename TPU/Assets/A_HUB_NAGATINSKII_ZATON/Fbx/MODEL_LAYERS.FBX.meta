@@ -1,0 +1,337 @@
+fileFormatVersion: 2
+guid: 41ed5297cbe430546ac4935c1c95d1b5
+timeCreated: 1510841274
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BORDER
+    100002: L_NZ_GZRO
+    100004: L_NZ_PPT
+    100006: //RootNode
+    100008: L_NZ_Subway_Line
+    100010: L_NZ_Subway_Station
+    100012: L_NZ_UndegroundPavement
+    100014: L_NZ_ORP
+    100016: L_ParkingUnd
+    100018: L_NZ_Apartament
+    100020: L_NZ_Parking
+    100022: L_NZ_ParkingUnd
+    100024: L_NZ_TC
+    100026: L_TrafficCar
+    100028: L_TrafficPedestrians
+    100030: L_TrafficPedestriansUnd
+    100032: L_NZ_ParkingBuilding
+    100034: L_NZ_StopNGPT
+    100036: L_NZ_Apartament_plane
+    100038: L_NZ_ParkingBuilding_plane
+    100040: L_NZ_Subway_Station_plane
+    100042: L_NZ_TC_plane
+    100044: L_NZ_UndegroundPavement_plane
+    100046: L_NZ_LIVEHOUSE-KOMERC
+    100048: L_NZ_LIVEHOUSE-KOMERC_plane
+    100050: L_NZ_LIVEHOUSE-RENOV
+    100052: L_NZ_LIVEHOUSE-RENOV_plane
+    100054: Undeground_Delete
+    100056: Undeground_Delete_plane
+    100058: L_NZ_DOU
+    100060: L_NZ_DOU_plane
+    100062: L_NZ_ParkingUndKomerc
+    100064: L_NZ_ParkingUndRenovac
+    100066: L_Traffic_NGPT
+    400000: BORDER
+    400002: L_NZ_GZRO
+    400004: L_NZ_PPT
+    400006: //RootNode
+    400008: L_NZ_Subway_Line
+    400010: L_NZ_Subway_Station
+    400012: L_NZ_UndegroundPavement
+    400014: L_NZ_ORP
+    400016: L_ParkingUnd
+    400018: L_NZ_Apartament
+    400020: L_NZ_Parking
+    400022: L_NZ_ParkingUnd
+    400024: L_NZ_TC
+    400026: L_TrafficCar
+    400028: L_TrafficPedestrians
+    400030: L_TrafficPedestriansUnd
+    400032: L_NZ_ParkingBuilding
+    400034: L_NZ_StopNGPT
+    400036: L_NZ_Apartament_plane
+    400038: L_NZ_ParkingBuilding_plane
+    400040: L_NZ_Subway_Station_plane
+    400042: L_NZ_TC_plane
+    400044: L_NZ_UndegroundPavement_plane
+    400046: L_NZ_LIVEHOUSE-KOMERC
+    400048: L_NZ_LIVEHOUSE-KOMERC_plane
+    400050: L_NZ_LIVEHOUSE-RENOV
+    400052: L_NZ_LIVEHOUSE-RENOV_plane
+    400054: Undeground_Delete
+    400056: Undeground_Delete_plane
+    400058: L_NZ_DOU
+    400060: L_NZ_DOU_plane
+    400062: L_NZ_ParkingUndKomerc
+    400064: L_NZ_ParkingUndRenovac
+    400066: L_Traffic_NGPT
+    2100000: ML_Parking
+    2100002: ML_MFC
+    2100004: ML_Appartament
+    2100006: ML_Traffic_Pedestrian
+    2100008: ML_Traffic_PedestrianUnd
+    2100010: ML_Traffic_Car
+    2100012: ML_Office
+    2100014: ML_Traffic_NGPT
+    2300000: L_NZ_GZRO
+    2300002: L_NZ_PPT
+    2300004: L_NZ_Subway_Line
+    2300006: L_NZ_Subway_Station
+    2300008: L_NZ_UndegroundPavement
+    2300010: L_NZ_ORP
+    2300012: L_ParkingUnd
+    2300014: L_NZ_Apartament
+    2300016: L_NZ_ParkingUnd
+    2300018: L_NZ_TC
+    2300020: L_TrafficCar
+    2300022: L_TrafficPedestrians
+    2300024: L_TrafficPedestriansUnd
+    2300026: L_NZ_Parking
+    2300028: L_NZ_ParkingBuilding
+    2300030: L_NZ_StopNGPT
+    2300032: L_NZ_Apartament_plane
+    2300034: L_NZ_ParkingBuilding_plane
+    2300036: L_NZ_Subway_Station_plane
+    2300038: L_NZ_TC_plane
+    2300040: L_NZ_UndegroundPavement_plane
+    2300042: L_NZ_LIVEHOUSE-KOMERC
+    2300044: L_NZ_LIVEHOUSE-KOMERC_plane
+    2300046: L_NZ_LIVEHOUSE-RENOV
+    2300048: L_NZ_LIVEHOUSE-RENOV_plane
+    2300050: Undeground_Delete
+    2300052: Undeground_Delete_plane
+    2300054: L_NZ_DOU
+    2300056: L_NZ_DOU_plane
+    2300058: L_NZ_ParkingUndKomerc
+    2300060: L_NZ_ParkingUndRenovac
+    2300062: L_Traffic_NGPT
+    3300000: L_NZ_GZRO
+    3300002: L_NZ_PPT
+    3300004: L_NZ_Subway_Line
+    3300006: L_NZ_Subway_Station
+    3300008: L_NZ_UndegroundPavement
+    3300010: L_NZ_ORP
+    3300012: L_ParkingUnd
+    3300014: L_NZ_Apartament
+    3300016: L_NZ_ParkingUnd
+    3300018: L_NZ_TC
+    3300020: L_TrafficCar
+    3300022: L_TrafficPedestrians
+    3300024: L_TrafficPedestriansUnd
+    3300026: L_NZ_Parking
+    3300028: L_NZ_ParkingBuilding
+    3300030: L_NZ_StopNGPT
+    3300032: L_NZ_Apartament_plane
+    3300034: L_NZ_ParkingBuilding_plane
+    3300036: L_NZ_Subway_Station_plane
+    3300038: L_NZ_TC_plane
+    3300040: L_NZ_UndegroundPavement_plane
+    3300042: L_NZ_LIVEHOUSE-KOMERC
+    3300044: L_NZ_LIVEHOUSE-KOMERC_plane
+    3300046: L_NZ_LIVEHOUSE-RENOV
+    3300048: L_NZ_LIVEHOUSE-RENOV_plane
+    3300050: Undeground_Delete
+    3300052: Undeground_Delete_plane
+    3300054: L_NZ_DOU
+    3300056: L_NZ_DOU_plane
+    3300058: L_NZ_ParkingUndKomerc
+    3300060: L_NZ_ParkingUndRenovac
+    3300062: L_Traffic_NGPT
+    4300000: L_NZ_PPT
+    4300002: L_NZ_GZRO
+    4300004: L_NZ_Subway_Line
+    4300006: L_NZ_Subway_Station
+    4300008: L_NZ_UndegroundPavement
+    4300010: L_NZ_ORP
+    4300012: L_ParkingUnd
+    4300014: L_NZ_ParkingUnd
+    4300016: L_NZ_TC
+    4300018: L_NZ_Apartament
+    4300020: L_TrafficPedestrians
+    4300022: L_TrafficPedestriansUnd
+    4300024: L_TrafficCar
+    4300026: L_NZ_Parking
+    4300028: L_NZ_ParkingBuilding
+    4300030: L_NZ_StopNGPT
+    4300032: L_NZ_Subway_Station_plane
+    4300034: L_NZ_UndegroundPavement_plane
+    4300036: L_NZ_TC_plane
+    4300038: L_NZ_Apartament_plane
+    4300040: L_NZ_ParkingBuilding_plane
+    4300042: L_NZ_LIVEHOUSE-KOMERC
+    4300044: L_NZ_LIVEHOUSE-KOMERC_plane
+    4300046: L_NZ_LIVEHOUSE-RENOV
+    4300048: L_NZ_LIVEHOUSE-RENOV_plane
+    4300050: Undeground_Delete
+    4300052: Undeground_Delete_plane
+    4300054: L_NZ_ParkingUndKomerc
+    4300056: L_NZ_DOU
+    4300058: L_NZ_DOU_plane
+    4300060: L_NZ_ParkingUndRenovac
+    4300062: L_Traffic_NGPT
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_Appartament
+    second: {fileID: 2100000, guid: ea62a76c4cd6b894a9a734561694737f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_BorderGZRO
+    second: {fileID: 2100000, guid: 1bb4ec30c2a0cc74e802a42e1887cf8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_BorderPPT
+    second: {fileID: 2100000, guid: 44e47809dd08f934386890620f761e72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_DOU
+    second: {fileID: 2100000, guid: 6cd0f7c939e7c8c4bb9c91b70d1e970b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_MFC
+    second: {fileID: 2100000, guid: cd5f0b4fcce23e04e960ec5c5501d632, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_NGPT_Stop
+    second: {fileID: 2100000, guid: 8346e83666c0fc74e8a50d152d6f2860, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_ORP
+    second: {fileID: 2100000, guid: b51f12adc8c659344b4677f72d8de066, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_Office
+    second: {fileID: 2100000, guid: d98c1ca7c372c174c9a930697e1a0942, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_Parking
+    second: {fileID: 2100000, guid: 312778847fbc912498e45c0207cc1c03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_SubwayStation
+    second: {fileID: 2100000, guid: 828180057c514e3438f6ec9c944c35a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_Subway_TPK
+    second: {fileID: 2100000, guid: 3e737bb890c3a2d4f9dd2b9f1f7d0702, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_Traffic_Car
+    second: {fileID: 2100000, guid: b3357b33b2c41dd418b592f8ff75519a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_Traffic_NGPT
+    second: {fileID: 2100000, guid: 988f5515635f3ad48aa7ab89a64a747c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_Traffic_Pedestrian
+    second: {fileID: 2100000, guid: da41acde295d5444f95efecfb8de6f0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_Traffic_PedestrianUnd
+    second: {fileID: 2100000, guid: 2a484f42f8f017e4a805953699c7feb3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_UndegroundFloor
+    second: {fileID: 2100000, guid: 84a14827eff51e949a0a6e2760e98bfd, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,375 @@
+fileFormatVersion: 2
+guid: fe23cc84d19a3314aacb82957a09c799
+timeCreated: 1513687470
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Car_v01_003
+    100002: Car_v01_004
+    100004: Car_v01_008
+    100006: Car_v01_010
+    100008: Car_v01_025
+    100010: Car_v01_026
+    100012: Car_v01_027
+    100014: Car_v01_028
+    100016: Car_v01_029
+    100018: Car_v01_030
+    100020: Car_v01_031
+    100022: Car_v01_032
+    100024: Car_v02_003
+    100026: Car_v02_004
+    100028: Car_v02_023
+    100030: Car_v02_024
+    100032: Car_v02_025
+    100034: Car_v02_026
+    100036: Car_v02_027
+    100038: Car_v02_028
+    100040: Car_v02_029
+    100042: Car_v02_030
+    100044: Car_v02_031
+    100046: Car_v03_003
+    100048: Car_v03_004
+    100050: Car_v03_008
+    100052: Car_v03_022
+    100054: Car_v03_023
+    100056: Car_v03_024
+    100058: Car_v03_025
+    100060: Car_v03_026
+    100062: Car_v03_027
+    100064: Car_v03_028
+    100066: Car_v03_029
+    100068: Car_v04_003
+    100070: Car_v04_007
+    100072: Car_v04_008
+    100074: Car_v04_022
+    100076: Car_v04_023
+    100078: Car_v04_024
+    100080: Car_v04_025
+    100082: Car_v04_026
+    100084: Car_v04_027
+    100086: Car_v04_028
+    100088: Car_v04_029
+    100090: Cars_7200
+    100092: //RootNode
+    400000: Car_v01_003
+    400002: Car_v01_004
+    400004: Car_v01_008
+    400006: Car_v01_010
+    400008: Car_v01_025
+    400010: Car_v01_026
+    400012: Car_v01_027
+    400014: Car_v01_028
+    400016: Car_v01_029
+    400018: Car_v01_030
+    400020: Car_v01_031
+    400022: Car_v01_032
+    400024: Car_v02_003
+    400026: Car_v02_004
+    400028: Car_v02_023
+    400030: Car_v02_024
+    400032: Car_v02_025
+    400034: Car_v02_026
+    400036: Car_v02_027
+    400038: Car_v02_028
+    400040: Car_v02_029
+    400042: Car_v02_030
+    400044: Car_v02_031
+    400046: Car_v03_003
+    400048: Car_v03_004
+    400050: Car_v03_008
+    400052: Car_v03_022
+    400054: Car_v03_023
+    400056: Car_v03_024
+    400058: Car_v03_025
+    400060: Car_v03_026
+    400062: Car_v03_027
+    400064: Car_v03_028
+    400066: Car_v03_029
+    400068: Car_v04_003
+    400070: Car_v04_007
+    400072: Car_v04_008
+    400074: Car_v04_022
+    400076: Car_v04_023
+    400078: Car_v04_024
+    400080: Car_v04_025
+    400082: Car_v04_026
+    400084: Car_v04_027
+    400086: Car_v04_028
+    400088: Car_v04_029
+    400090: Cars_7200
+    400092: //RootNode
+    2300000: Car_v01_003
+    2300002: Car_v01_004
+    2300004: Car_v01_008
+    2300006: Car_v01_010
+    2300008: Car_v01_025
+    2300010: Car_v01_026
+    2300012: Car_v01_027
+    2300014: Car_v01_028
+    2300016: Car_v01_029
+    2300018: Car_v01_030
+    2300020: Car_v01_031
+    2300022: Car_v01_032
+    2300024: Car_v02_003
+    2300026: Car_v02_004
+    2300028: Car_v02_023
+    2300030: Car_v02_024
+    2300032: Car_v02_025
+    2300034: Car_v02_026
+    2300036: Car_v02_027
+    2300038: Car_v02_028
+    2300040: Car_v02_029
+    2300042: Car_v02_030
+    2300044: Car_v02_031
+    2300046: Car_v03_003
+    2300048: Car_v03_004
+    2300050: Car_v03_008
+    2300052: Car_v03_022
+    2300054: Car_v03_023
+    2300056: Car_v03_024
+    2300058: Car_v03_025
+    2300060: Car_v03_026
+    2300062: Car_v03_027
+    2300064: Car_v03_028
+    2300066: Car_v03_029
+    2300068: Car_v04_003
+    2300070: Car_v04_007
+    2300072: Car_v04_008
+    2300074: Car_v04_022
+    2300076: Car_v04_023
+    2300078: Car_v04_024
+    2300080: Car_v04_025
+    2300082: Car_v04_026
+    2300084: Car_v04_027
+    2300086: Car_v04_028
+    2300088: Car_v04_029
+    3300000: Car_v01_003
+    3300002: Car_v01_004
+    3300004: Car_v01_008
+    3300006: Car_v01_010
+    3300008: Car_v01_025
+    3300010: Car_v01_026
+    3300012: Car_v01_027
+    3300014: Car_v01_028
+    3300016: Car_v01_029
+    3300018: Car_v01_030
+    3300020: Car_v01_031
+    3300022: Car_v01_032
+    3300024: Car_v02_003
+    3300026: Car_v02_004
+    3300028: Car_v02_023
+    3300030: Car_v02_024
+    3300032: Car_v02_025
+    3300034: Car_v02_026
+    3300036: Car_v02_027
+    3300038: Car_v02_028
+    3300040: Car_v02_029
+    3300042: Car_v02_030
+    3300044: Car_v02_031
+    3300046: Car_v03_003
+    3300048: Car_v03_004
+    3300050: Car_v03_008
+    3300052: Car_v03_022
+    3300054: Car_v03_023
+    3300056: Car_v03_024
+    3300058: Car_v03_025
+    3300060: Car_v03_026
+    3300062: Car_v03_027
+    3300064: Car_v03_028
+    3300066: Car_v03_029
+    3300068: Car_v04_003
+    3300070: Car_v04_007
+    3300072: Car_v04_008
+    3300074: Car_v04_022
+    3300076: Car_v04_023
+    3300078: Car_v04_024
+    3300080: Car_v04_025
+    3300082: Car_v04_026
+    3300084: Car_v04_027
+    3300086: Car_v04_028
+    3300088: Car_v04_029
+    4300000: Car_v01_004
+    4300002: Car_v01_003
+    4300004: Car_v01_008
+    4300006: Car_v01_010
+    4300008: Car_v01_025
+    4300010: Car_v01_026
+    4300012: Car_v01_027
+    4300014: Car_v01_028
+    4300016: Car_v01_029
+    4300018: Car_v01_030
+    4300020: Car_v01_031
+    4300022: Car_v01_032
+    4300024: Car_v02_003
+    4300026: Car_v02_004
+    4300028: Car_v02_023
+    4300030: Car_v02_024
+    4300032: Car_v02_025
+    4300034: Car_v02_026
+    4300036: Car_v02_027
+    4300038: Car_v02_028
+    4300040: Car_v02_029
+    4300042: Car_v02_030
+    4300044: Car_v02_031
+    4300046: Car_v03_003
+    4300048: Car_v03_004
+    4300050: Car_v03_008
+    4300052: Car_v03_022
+    4300054: Car_v03_023
+    4300056: Car_v03_024
+    4300058: Car_v03_025
+    4300060: Car_v03_026
+    4300062: Car_v03_027
+    4300064: Car_v03_028
+    4300066: Car_v03_029
+    4300068: Car_v04_003
+    4300070: Car_v04_007
+    4300072: Car_v04_008
+    4300074: Car_v04_022
+    4300076: Car_v04_024
+    4300078: Car_v04_023
+    4300080: Car_v04_025
+    4300082: Car_v04_026
+    4300084: Car_v04_027
+    4300086: Car_v04_028
+    4300088: Car_v04_029
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_CarT01
+    second: {fileID: 2100000, guid: a7e6c657f25d5154fb11220d1bd809a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_CarT02_1
+    second: {fileID: 2100000, guid: 781a0e707a9efde459b6616990c59b60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_CarT02_2
+    second: {fileID: 2100000, guid: 67a5669826b42264e9a456f7db9b35ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_CarT03
+    second: {fileID: 2100000, guid: dd4fb04f118a0cb4f9cea6f1db225e03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_CarT04
+    second: {fileID: 2100000, guid: 40c2faae5a90c384b87a6f8906efb3b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_CarTyre
+    second: {fileID: 2100000, guid: 4fea94d34a556cf40a50cbaea5f6d082, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 10800
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
