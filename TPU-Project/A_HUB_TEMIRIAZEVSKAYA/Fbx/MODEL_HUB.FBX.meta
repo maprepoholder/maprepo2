@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: a0fcd2aee3d0a5e47a82a46487f94aa4
+timeCreated: 1511172286
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: SM_T_Arena
+    100004: SM_TM_Arena
+    100006: SM_TM_Building_Appartments
+    100008: SM_TM_Building_Arena
+    100010: SM_TM_Monorail_Station
+    100012: SM_TM_Building_El_Facility
+    100014: SM_TM_Building_Facility_001
+    100016: SM_TM_Building_Facility_002
+    100018: SM_TM_Building_Marketplace_El
+    100020: SM_TM_Building_Marketplace_Road
+    100022: SM_TM_Building_Marketplace_v1
+    100024: SM_TM_Building_Marketplace_v2
+    100026: SM_TM_Building_Marketplace_v3
+    100028: SM_TM_Building_Marketplace_v4
+    100030: SM_TM_Building_Offices
+    100032: SM_TM_Building_Stalls
+    100034: SM_TM_Building_BusDepo
+    400000: //RootNode
+    400002: SM_T_Arena
+    400004: SM_TM_Arena
+    400006: SM_TM_Building_Appartments
+    400008: SM_TM_Building_Arena
+    400010: SM_TM_Monorail_Station
+    400012: SM_TM_Building_El_Facility
+    400014: SM_TM_Building_Facility_001
+    400016: SM_TM_Building_Facility_002
+    400018: SM_TM_Building_Marketplace_El
+    400020: SM_TM_Building_Marketplace_Road
+    400022: SM_TM_Building_Marketplace_v1
+    400024: SM_TM_Building_Marketplace_v2
+    400026: SM_TM_Building_Marketplace_v3
+    400028: SM_TM_Building_Marketplace_v4
+    400030: SM_TM_Building_Offices
+    400032: SM_TM_Building_Stalls
+    400034: SM_TM_Building_BusDepo
+    2100000: m_Roof
+    2100002: M_CP_Paint
+    2100004: m_Glass_4
+    2100006: M_CP_Metall
+    2100008: M_Pavement_01
+    2100010: M_Brick_02
+    2100012: M_Windows02
+    2100014: m_Wood_2
+    2100016: 'M_THConc #1'
+    2100018: 'M_Windows01 #1'
+    2300000: SM_T_Arena
+    2300002: SM_TM_Arena
+    2300004: SM_TM_Building_Appartments
+    2300006: SM_TM_Building_Arena
+    2300008: SM_TM_Monorail_Station
+    2300010: SM_TM_Building_El_Facility
+    2300012: SM_TM_Building_Facility_001
+    2300014: SM_TM_Building_Facility_002
+    2300016: SM_TM_Building_Marketplace_El
+    2300018: SM_TM_Building_Marketplace_Road
+    2300020: SM_TM_Building_Marketplace_v1
+    2300022: SM_TM_Building_Marketplace_v2
+    2300024: SM_TM_Building_Marketplace_v3
+    2300026: SM_TM_Building_Marketplace_v4
+    2300028: SM_TM_Building_Offices
+    2300030: SM_TM_Building_Stalls
+    2300032: SM_TM_Building_BusDepo
+    3300000: SM_T_Arena
+    3300002: SM_TM_Arena
+    3300004: SM_TM_Building_Appartments
+    3300006: SM_TM_Building_Arena
+    3300008: SM_TM_Monorail_Station
+    3300010: SM_TM_Building_El_Facility
+    3300012: SM_TM_Building_Facility_001
+    3300014: SM_TM_Building_Facility_002
+    3300016: SM_TM_Building_Marketplace_El
+    3300018: SM_TM_Building_Marketplace_Road
+    3300020: SM_TM_Building_Marketplace_v1
+    3300022: SM_TM_Building_Marketplace_v2
+    3300024: SM_TM_Building_Marketplace_v3
+    3300026: SM_TM_Building_Marketplace_v4
+    3300028: SM_TM_Building_Offices
+    3300030: SM_TM_Building_Stalls
+    3300032: SM_TM_Building_BusDepo
+    4300000: SM_T_Arena
+    4300002: SM_TM_Arena
+    4300004: SM_TM_Building_Arena
+    4300006: SM_TM_Building_Appartments
+    4300008: SM_TM_Monorail_Station
+    4300010: SM_TM_Building_El_Facility
+    4300012: SM_TM_Building_Facility_001
+    4300014: SM_TM_Building_Facility_002
+    4300016: SM_TM_Building_Marketplace_v1
+    4300018: SM_TM_Building_Marketplace_Road
+    4300020: SM_TM_Building_Marketplace_v2
+    4300022: SM_TM_Building_Marketplace_v3
+    4300024: SM_TM_Building_Offices
+    4300026: SM_TM_Building_Stalls
+    4300028: SM_TM_Building_Marketplace_El
+    4300030: SM_TM_Building_Marketplace_v4
+    4300032: SM_TM_Building_BusDepo
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Brick_02
+    second: {fileID: 2100000, guid: 3ed2d74bbe18efe4cbe4a3181fa09f36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_CP_Metall
+    second: {fileID: 2100000, guid: 96162687dc4b66e428a31e9b65e558f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_CP_Paint
+    second: {fileID: 2100000, guid: d065fad0d30762242b7d3d6b1d1181e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_GlassTile
+    second: {fileID: 2100000, guid: 5453bba0325080d4097c6e6e7c6d1bf3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Pavement_01
+    second: {fileID: 2100000, guid: 52fcaf6f07f75d84ba697742c7faa2ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_THConc
+    second: {fileID: 2100000, guid: 5a65202ed67288c42acc3512c84338c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'M_THConc #1'
+    second: {fileID: 2100000, guid: 5a65202ed67288c42acc3512c84338c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Windows01
+    second: {fileID: 2100000, guid: a3458c5aefaf7ea4f8387e2a64669e4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'M_Windows01 #1'
+    second: {fileID: 2100000, guid: a3458c5aefaf7ea4f8387e2a64669e4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Windows02
+    second: {fileID: 2100000, guid: 815164bc1ed80ec4889ef2de2964c4fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #16096'
+    second: {fileID: 2100000, guid: c72f8e612b673f04ab7631ca1a198d62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_Glass_4
+    second: {instanceID: 0}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_Roof
+    second: {fileID: 2100000, guid: c5e00d533fdb4c94795e3b4bfd83fba9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_Wood_2
+    second: {fileID: 2100000, guid: 856512e3451999346b8004c1464bd79a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
