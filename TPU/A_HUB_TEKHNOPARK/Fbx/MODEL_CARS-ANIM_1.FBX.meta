@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: b54ff80c673bcf34c8157d5df374493a
+timeCreated: 1511873503
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: CARS_ANIM_1.5m
+    100002: m_Car_v01_012
+    100004: m_Car_v01_013
+    100006: m_Car_v02_012
+    100008: m_Car_v02_013
+    100010: m_Car_v03_012
+    100012: m_Car_v03_013
+    100014: m_Car_v04_012
+    100016: m_Car_v04_013
+    100018: //RootNode
+    400000: CARS_ANIM_1.5m
+    400002: m_Car_v01_012
+    400004: m_Car_v01_013
+    400006: m_Car_v02_012
+    400008: m_Car_v02_013
+    400010: m_Car_v03_012
+    400012: m_Car_v03_013
+    400014: m_Car_v04_012
+    400016: m_Car_v04_013
+    400018: //RootNode
+    2300000: m_Car_v01_012
+    2300002: m_Car_v01_013
+    2300004: m_Car_v02_012
+    2300006: m_Car_v02_013
+    2300008: m_Car_v03_012
+    2300010: m_Car_v03_013
+    2300012: m_Car_v04_012
+    2300014: m_Car_v04_013
+    3300000: m_Car_v01_012
+    3300002: m_Car_v01_013
+    3300004: m_Car_v02_012
+    3300006: m_Car_v02_013
+    3300008: m_Car_v03_012
+    3300010: m_Car_v03_013
+    3300012: m_Car_v04_012
+    3300014: m_Car_v04_013
+    4300000: m_Car_v01_012
+    4300002: m_Car_v01_013
+    4300004: m_Car_v02_012
+    4300006: m_Car_v02_013
+    4300008: m_Car_v03_012
+    4300010: m_Car_v03_013
+    4300012: m_Car_v04_012
+    4300014: m_Car_v04_013
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_CarT01
+    second: {fileID: 2100000, guid: a7e6c657f25d5154fb11220d1bd809a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_CarT02_1
+    second: {fileID: 2100000, guid: 781a0e707a9efde459b6616990c59b60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_CarT02_2
+    second: {fileID: 2100000, guid: 67a5669826b42264e9a456f7db9b35ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_CarT03
+    second: {fileID: 2100000, guid: dd4fb04f118a0cb4f9cea6f1db225e03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_CarT04
+    second: {fileID: 2100000, guid: 40c2faae5a90c384b87a6f8906efb3b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_CarTyre
+    second: {fileID: 2100000, guid: 4fea94d34a556cf40a50cbaea5f6d082, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 5400
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
