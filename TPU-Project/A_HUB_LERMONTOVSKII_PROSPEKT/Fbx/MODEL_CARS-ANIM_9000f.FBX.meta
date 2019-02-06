@@ -1,0 +1,342 @@
+fileFormatVersion: 2
+guid: cf1e0629ecfb2d34db6938bfcf464fc8
+timeCreated: 1512479374
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Anim_Car_51_003
+    100002: Anim_Car_51_004
+    100004: Anim_Car_51_018
+    100006: Anim_Car_51_019
+    100008: Anim_Car_51_020
+    100010: Anim_Car_51_021
+    100012: Anim_Car_51_022
+    100014: Anim_Car_51_023
+    100016: Anim_Car_51_024
+    100018: Anim_Car_51_025
+    100020: Anim_Car_51_026
+    100022: Anim_Car_54_003
+    100024: Anim_Car_54_004
+    100026: Anim_Car_54_017
+    100028: Anim_Car_54_018
+    100030: Anim_Car_54_019
+    100032: Anim_Car_54_020
+    100034: Anim_Car_54_021
+    100036: Anim_Car_54_022
+    100038: Anim_Car_54_023
+    100040: Anim_Car_55_003
+    100042: Anim_Car_55_004
+    100044: Anim_Car_55_018
+    100046: Anim_Car_55_019
+    100048: Anim_Car_55_020
+    100050: Anim_Car_55_021
+    100052: Anim_Car_55_022
+    100054: Anim_Car_55_023
+    100056: Anim_Car_55_024
+    100058: Anim_Car_56_003
+    100060: Anim_Car_56_004
+    100062: Anim_Car_56_017
+    100064: Anim_Car_56_018
+    100066: Anim_Car_56_019
+    100068: Anim_Car_56_020
+    100070: Anim_Car_56_021
+    100072: Anim_Car_56_022
+    100074: Anim_Car_56_023
+    100076: Anim_car_way_04
+    100078: Anim_car_way_07
+    100080: //RootNode
+    400000: Anim_Car_51_003
+    400002: Anim_Car_51_004
+    400004: Anim_Car_51_018
+    400006: Anim_Car_51_019
+    400008: Anim_Car_51_020
+    400010: Anim_Car_51_021
+    400012: Anim_Car_51_022
+    400014: Anim_Car_51_023
+    400016: Anim_Car_51_024
+    400018: Anim_Car_51_025
+    400020: Anim_Car_51_026
+    400022: Anim_Car_54_003
+    400024: Anim_Car_54_004
+    400026: Anim_Car_54_017
+    400028: Anim_Car_54_018
+    400030: Anim_Car_54_019
+    400032: Anim_Car_54_020
+    400034: Anim_Car_54_021
+    400036: Anim_Car_54_022
+    400038: Anim_Car_54_023
+    400040: Anim_Car_55_003
+    400042: Anim_Car_55_004
+    400044: Anim_Car_55_018
+    400046: Anim_Car_55_019
+    400048: Anim_Car_55_020
+    400050: Anim_Car_55_021
+    400052: Anim_Car_55_022
+    400054: Anim_Car_55_023
+    400056: Anim_Car_55_024
+    400058: Anim_Car_56_003
+    400060: Anim_Car_56_004
+    400062: Anim_Car_56_017
+    400064: Anim_Car_56_018
+    400066: Anim_Car_56_019
+    400068: Anim_Car_56_020
+    400070: Anim_Car_56_021
+    400072: Anim_Car_56_022
+    400074: Anim_Car_56_023
+    400076: Anim_car_way_04
+    400078: Anim_car_way_07
+    400080: //RootNode
+    2300000: Anim_Car_51_003
+    2300002: Anim_Car_51_004
+    2300004: Anim_Car_51_018
+    2300006: Anim_Car_51_019
+    2300008: Anim_Car_51_020
+    2300010: Anim_Car_51_021
+    2300012: Anim_Car_51_022
+    2300014: Anim_Car_51_023
+    2300016: Anim_Car_51_024
+    2300018: Anim_Car_51_025
+    2300020: Anim_Car_51_026
+    2300022: Anim_Car_54_003
+    2300024: Anim_Car_54_004
+    2300026: Anim_Car_54_017
+    2300028: Anim_Car_54_018
+    2300030: Anim_Car_54_019
+    2300032: Anim_Car_54_020
+    2300034: Anim_Car_54_021
+    2300036: Anim_Car_54_022
+    2300038: Anim_Car_54_023
+    2300040: Anim_Car_55_003
+    2300042: Anim_Car_55_004
+    2300044: Anim_Car_55_018
+    2300046: Anim_Car_55_019
+    2300048: Anim_Car_55_020
+    2300050: Anim_Car_55_021
+    2300052: Anim_Car_55_022
+    2300054: Anim_Car_55_023
+    2300056: Anim_Car_55_024
+    2300058: Anim_Car_56_003
+    2300060: Anim_Car_56_004
+    2300062: Anim_Car_56_017
+    2300064: Anim_Car_56_018
+    2300066: Anim_Car_56_019
+    2300068: Anim_Car_56_020
+    2300070: Anim_Car_56_021
+    2300072: Anim_Car_56_022
+    2300074: Anim_Car_56_023
+    3300000: Anim_Car_51_003
+    3300002: Anim_Car_51_004
+    3300004: Anim_Car_51_018
+    3300006: Anim_Car_51_019
+    3300008: Anim_Car_51_020
+    3300010: Anim_Car_51_021
+    3300012: Anim_Car_51_022
+    3300014: Anim_Car_51_023
+    3300016: Anim_Car_51_024
+    3300018: Anim_Car_51_025
+    3300020: Anim_Car_51_026
+    3300022: Anim_Car_54_003
+    3300024: Anim_Car_54_004
+    3300026: Anim_Car_54_017
+    3300028: Anim_Car_54_018
+    3300030: Anim_Car_54_019
+    3300032: Anim_Car_54_020
+    3300034: Anim_Car_54_021
+    3300036: Anim_Car_54_022
+    3300038: Anim_Car_54_023
+    3300040: Anim_Car_55_003
+    3300042: Anim_Car_55_004
+    3300044: Anim_Car_55_018
+    3300046: Anim_Car_55_019
+    3300048: Anim_Car_55_020
+    3300050: Anim_Car_55_021
+    3300052: Anim_Car_55_022
+    3300054: Anim_Car_55_023
+    3300056: Anim_Car_55_024
+    3300058: Anim_Car_56_003
+    3300060: Anim_Car_56_004
+    3300062: Anim_Car_56_017
+    3300064: Anim_Car_56_018
+    3300066: Anim_Car_56_019
+    3300068: Anim_Car_56_020
+    3300070: Anim_Car_56_021
+    3300072: Anim_Car_56_022
+    3300074: Anim_Car_56_023
+    4300000: Anim_Car_51_004
+    4300002: Anim_Car_54_004
+    4300004: Anim_Car_55_004
+    4300006: Anim_Car_56_004
+    4300008: Anim_Car_51_018
+    4300010: Anim_Car_54_017
+    4300012: Anim_Car_55_018
+    4300014: Anim_Car_56_017
+    4300016: Anim_Car_51_019
+    4300018: Anim_Car_54_018
+    4300020: Anim_Car_55_019
+    4300022: Anim_Car_56_018
+    4300024: Anim_Car_51_020
+    4300026: Anim_Car_54_019
+    4300028: Anim_Car_55_020
+    4300030: Anim_Car_56_019
+    4300032: Anim_Car_51_021
+    4300034: Anim_Car_54_020
+    4300036: Anim_Car_55_021
+    4300038: Anim_Car_56_020
+    4300040: Anim_Car_51_022
+    4300042: Anim_Car_54_021
+    4300044: Anim_Car_55_022
+    4300046: Anim_Car_56_021
+    4300048: Anim_Car_51_023
+    4300050: Anim_Car_56_003
+    4300052: Anim_Car_55_003
+    4300054: Anim_Car_54_003
+    4300056: Anim_Car_51_003
+    4300058: Anim_Car_51_024
+    4300060: Anim_Car_54_022
+    4300062: Anim_Car_55_023
+    4300064: Anim_Car_56_022
+    4300066: Anim_Car_51_025
+    4300068: Anim_Car_54_023
+    4300070: Anim_Car_55_024
+    4300072: Anim_Car_56_023
+    4300074: Anim_Car_51_026
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_CarT01
+    second: {fileID: 2100000, guid: a7e6c657f25d5154fb11220d1bd809a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_CarT02_1
+    second: {fileID: 2100000, guid: 781a0e707a9efde459b6616990c59b60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_CarT02_2
+    second: {fileID: 2100000, guid: 67a5669826b42264e9a456f7db9b35ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_CarT03
+    second: {fileID: 2100000, guid: dd4fb04f118a0cb4f9cea6f1db225e03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_CarT04
+    second: {fileID: 2100000, guid: 40c2faae5a90c384b87a6f8906efb3b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_CarTyre
+    second: {fileID: 2100000, guid: 4fea94d34a556cf40a50cbaea5f6d082, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 9000
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

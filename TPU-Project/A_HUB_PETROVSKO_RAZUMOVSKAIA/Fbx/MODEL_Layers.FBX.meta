@@ -1,0 +1,315 @@
+fileFormatVersion: 2
+guid: 8abea475c06c58742b27a1eddd421d6a
+timeCreated: 1511883005
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: L_PR_Zone_1_TPU
+    100002: L_PR_Zone_2_Complex
+    100004: L_PR_Zone_6_Platforms
+    100006: L_PR_Zone_6_Platforms_Plane
+    100008: //RootNode
+    100010: PR_Zone_5_BusStop
+    100012: Borders
+    100014: L_BusStop
+    100016: l_GZRO
+    100018: L_Parking
+    100020: l_PPT
+    100022: L_PR_Zone_1_TPU_Plane
+    100024: L_PR_Zone_2_Complex_Plane
+    100026: L_Subway
+    100028: L_Traffic_Cars
+    100030: PR_People_Path_001
+    100032: L_Platforms_MZD
+    100034: L_Platforms_MZD_plane
+    100036: L_Platforms_RZD
+    100038: L_Platforms_RZD_plane
+    100040: L_PR_Zone_1_TPU_plane
+    100042: L_PR_Zone_2_Complex_plane
+    100044: L_Subway_Line_LyubDmit
+    100046: L_Subway_Line_SerpTim
+    100048: L_Subway_Station
+    100050: L_Subway_Station_plane
+    100052: L_Underpass
+    100054: L_Underpass_plane
+    100056: L_BusStop_plane
+    100058: L_ORP
+    100060: L_Parking_Land
+    100062: L_Pedestrian_Ground
+    100064: L_Pedestrian_NotGround
+    400000: L_PR_Zone_1_TPU
+    400002: L_PR_Zone_2_Complex
+    400004: L_PR_Zone_6_Platforms
+    400006: L_PR_Zone_6_Platforms_Plane
+    400008: //RootNode
+    400010: PR_Zone_5_BusStop
+    400012: Borders
+    400014: L_BusStop
+    400016: l_GZRO
+    400018: L_Parking
+    400020: l_PPT
+    400022: L_PR_Zone_1_TPU_Plane
+    400024: L_PR_Zone_2_Complex_Plane
+    400026: L_Subway
+    400028: L_Traffic_Cars
+    400030: PR_People_Path_001
+    400032: L_Platforms_MZD
+    400034: L_Platforms_MZD_plane
+    400036: L_Platforms_RZD
+    400038: L_Platforms_RZD_plane
+    400040: L_PR_Zone_1_TPU_plane
+    400042: L_PR_Zone_2_Complex_plane
+    400044: L_Subway_Line_LyubDmit
+    400046: L_Subway_Line_SerpTim
+    400048: L_Subway_Station
+    400050: L_Subway_Station_plane
+    400052: L_Underpass
+    400054: L_Underpass_plane
+    400056: L_BusStop_plane
+    400058: L_ORP
+    400060: L_Parking_Land
+    400062: L_Pedestrian_Ground
+    400064: L_Pedestrian_NotGround
+    2100000: ML_BorderPPT
+    2100002: ML_SubwayStation
+    2100004: ML_UndegroundFloor
+    2100006: ML_Subway
+    2100008: ML_Subway_KL
+    2100010: ML_ORP
+    2100012: ML_Parking
+    2100014: ML_Traffic_Pedestrian
+    2100016: ML_Traffic_PedestrianUnd
+    2300000: L_PR_Zone_1_TPU
+    2300002: L_PR_Zone_2_Complex
+    2300004: L_PR_Zone_6_Platforms
+    2300006: L_PR_Zone_6_Platforms_Plane
+    2300008: PR_Zone_5_BusStop
+    2300010: L_BusStop
+    2300012: l_GZRO
+    2300014: L_Parking
+    2300016: L_PR_Zone_1_TPU_Plane
+    2300018: L_PR_Zone_2_Complex_Plane
+    2300020: L_Subway
+    2300022: L_Traffic_Cars
+    2300024: L_Platforms_MZD
+    2300026: L_Platforms_MZD_plane
+    2300028: L_Platforms_RZD
+    2300030: L_Platforms_RZD_plane
+    2300032: l_PPT
+    2300034: L_PR_Zone_1_TPU_plane
+    2300036: L_PR_Zone_2_Complex_plane
+    2300038: L_Subway_Line_LyubDmit
+    2300040: L_Subway_Line_SerpTim
+    2300042: L_Subway_Station
+    2300044: L_Subway_Station_plane
+    2300046: L_Underpass
+    2300048: L_Underpass_plane
+    2300050: L_BusStop_plane
+    2300052: L_ORP
+    2300054: L_Parking_Land
+    2300056: L_Pedestrian_Ground
+    2300058: L_Pedestrian_NotGround
+    3300000: L_PR_Zone_1_TPU
+    3300002: L_PR_Zone_2_Complex
+    3300004: L_PR_Zone_6_Platforms
+    3300006: L_PR_Zone_6_Platforms_Plane
+    3300008: PR_Zone_5_BusStop
+    3300010: L_BusStop
+    3300012: l_GZRO
+    3300014: L_Parking
+    3300016: L_PR_Zone_1_TPU_Plane
+    3300018: L_PR_Zone_2_Complex_Plane
+    3300020: L_Subway
+    3300022: L_Traffic_Cars
+    3300024: L_Platforms_MZD
+    3300026: L_Platforms_MZD_plane
+    3300028: L_Platforms_RZD
+    3300030: L_Platforms_RZD_plane
+    3300032: l_PPT
+    3300034: L_PR_Zone_1_TPU_plane
+    3300036: L_PR_Zone_2_Complex_plane
+    3300038: L_Subway_Line_LyubDmit
+    3300040: L_Subway_Line_SerpTim
+    3300042: L_Subway_Station
+    3300044: L_Subway_Station_plane
+    3300046: L_Underpass
+    3300048: L_Underpass_plane
+    3300050: L_BusStop_plane
+    3300052: L_ORP
+    3300054: L_Parking_Land
+    3300056: L_Pedestrian_Ground
+    3300058: L_Pedestrian_NotGround
+    4300000: L_PR_Zone_1_TPU
+    4300002: L_PR_Zone_2_Complex
+    4300004: PR_Zone_5_BusStop
+    4300006: L_PR_Zone_6_Platforms
+    4300008: L_PR_Zone_6_Platforms_Plane
+    4300010: l_GZRO
+    4300012: L_PR_Zone_1_TPU_Plane
+    4300014: L_PR_Zone_2_Complex_Plane
+    4300016: L_Subway
+    4300018: L_Parking
+    4300020: L_BusStop
+    4300022: L_Traffic_Cars
+    4300024: l_PPT
+    4300026: L_PR_Zone_1_TPU_plane
+    4300028: L_PR_Zone_2_Complex_plane
+    4300030: L_Platforms_MZD
+    4300032: L_Platforms_MZD_plane
+    4300034: L_Platforms_RZD
+    4300036: L_Platforms_RZD_plane
+    4300038: L_Subway_Station
+    4300040: L_Subway_Station_plane
+    4300042: L_Underpass
+    4300044: L_Underpass_plane
+    4300046: L_Subway_Line_SerpTim
+    4300048: L_Subway_Line_LyubDmit
+    4300050: L_BusStop_plane
+    4300052: L_ORP
+    4300054: L_Parking_Land
+    4300056: L_Pedestrian_Ground
+    4300058: L_Pedestrian_NotGround
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_BorderGZRO
+    second: {fileID: 2100000, guid: 1bb4ec30c2a0cc74e802a42e1887cf8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_BorderPPT
+    second: {fileID: 2100000, guid: 44e47809dd08f934386890620f761e72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_Subway
+    second: {fileID: 2100000, guid: 86f6f9e56c942b747b88ebaddac6d302, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_SubwayStation
+    second: {fileID: 2100000, guid: 828180057c514e3438f6ec9c944c35a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_Subway_KL
+    second: {fileID: 2100000, guid: 6d3ff05663d05bc439cf2f641495d97a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_Traffic_Car
+    second: {fileID: 2100000, guid: b3357b33b2c41dd418b592f8ff75519a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_UndegroundFloor
+    second: {fileID: 2100000, guid: 84a14827eff51e949a0a6e2760e98bfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PR_Zone_Buildings
+    second: {fileID: 2100000, guid: d98c1ca7c372c174c9a930697e1a0942, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PR_Zone_BusStop
+    second: {fileID: 2100000, guid: 8346e83666c0fc74e8a50d152d6f2860, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PR_Zone_Parking
+    second: {fileID: 2100000, guid: 312778847fbc912498e45c0207cc1c03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PR_Zone_Platforms
+    second: {fileID: 2100000, guid: 2a6e976f7ee7d7647852b4d52c6b6c37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PR_Zone_Subway
+    second: {fileID: 2100000, guid: 202694c48d72374459723a8492ed0349, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PR_Zone_TPU
+    second: {fileID: 2100000, guid: 0217fafc9e3e30841ba65231dd8a715d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
