@@ -1,0 +1,273 @@
+fileFormatVersion: 2
+guid: fd1f7ee38d409dc41864858d86068dee
+timeCreated: 1508484264
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: SM_Avtotehcentr
+    100004: SM_Avtotehcentr_Glass
+    100006: SM_Avtovokzal
+    100008: SM_Building01
+    100010: SM_Building02
+    100012: SM_Building02_Glass
+    100014: SM_Building03
+    100016: SM_Building03_Glass
+    100018: SM_Building04
+    100020: SM_Building04_Glass
+    100022: SM_Building05
+    100024: SM_Building05_Glass
+    100026: SM_Bulding01_Glass
+    100028: SM_Cult_Building
+    100030: SM_Cult_Building_Glass
+    100032: SM_MetroEnter
+    100034: SM_NGPT_Building
+    100036: SM_NGPT_Building_Glass
+    100038: SM_PedestrianShed
+    100040: SM_PedestrianShed_Glass
+    100042: SM_Trade_building
+    100044: SM_Trade_building_Glass
+    100046: SM_TrainShed
+    100048: SM_TrainShed_Columns
+    100050: SM_TrainShed_Glass
+    100052: SM_LP_FOK
+    400000: //RootNode
+    400002: SM_Avtotehcentr
+    400004: SM_Avtotehcentr_Glass
+    400006: SM_Avtovokzal
+    400008: SM_Building01
+    400010: SM_Building02
+    400012: SM_Building02_Glass
+    400014: SM_Building03
+    400016: SM_Building03_Glass
+    400018: SM_Building04
+    400020: SM_Building04_Glass
+    400022: SM_Building05
+    400024: SM_Building05_Glass
+    400026: SM_Bulding01_Glass
+    400028: SM_Cult_Building
+    400030: SM_Cult_Building_Glass
+    400032: SM_MetroEnter
+    400034: SM_NGPT_Building
+    400036: SM_NGPT_Building_Glass
+    400038: SM_PedestrianShed
+    400040: SM_PedestrianShed_Glass
+    400042: SM_Trade_building
+    400044: SM_Trade_building_Glass
+    400046: SM_TrainShed
+    400048: SM_TrainShed_Columns
+    400050: SM_TrainShed_Glass
+    400052: SM_LP_FOK
+    2100000: M_FOK
+    2300000: SM_Avtotehcentr
+    2300002: SM_Avtotehcentr_Glass
+    2300004: SM_Avtovokzal
+    2300006: SM_Building01
+    2300008: SM_Building02
+    2300010: SM_Building02_Glass
+    2300012: SM_Building03
+    2300014: SM_Building03_Glass
+    2300016: SM_Building04
+    2300018: SM_Building04_Glass
+    2300020: SM_Building05
+    2300022: SM_Building05_Glass
+    2300024: SM_Bulding01_Glass
+    2300026: SM_Cult_Building
+    2300028: SM_Cult_Building_Glass
+    2300030: SM_MetroEnter
+    2300032: SM_NGPT_Building
+    2300034: SM_NGPT_Building_Glass
+    2300036: SM_PedestrianShed
+    2300038: SM_PedestrianShed_Glass
+    2300040: SM_Trade_building
+    2300042: SM_Trade_building_Glass
+    2300044: SM_TrainShed
+    2300046: SM_TrainShed_Columns
+    2300048: SM_TrainShed_Glass
+    2300050: SM_LP_FOK
+    3300000: SM_Avtotehcentr
+    3300002: SM_Avtotehcentr_Glass
+    3300004: SM_Avtovokzal
+    3300006: SM_Building01
+    3300008: SM_Building02
+    3300010: SM_Building02_Glass
+    3300012: SM_Building03
+    3300014: SM_Building03_Glass
+    3300016: SM_Building04
+    3300018: SM_Building04_Glass
+    3300020: SM_Building05
+    3300022: SM_Building05_Glass
+    3300024: SM_Bulding01_Glass
+    3300026: SM_Cult_Building
+    3300028: SM_Cult_Building_Glass
+    3300030: SM_MetroEnter
+    3300032: SM_NGPT_Building
+    3300034: SM_NGPT_Building_Glass
+    3300036: SM_PedestrianShed
+    3300038: SM_PedestrianShed_Glass
+    3300040: SM_Trade_building
+    3300042: SM_Trade_building_Glass
+    3300044: SM_TrainShed
+    3300046: SM_TrainShed_Columns
+    3300048: SM_TrainShed_Glass
+    3300050: SM_LP_FOK
+    4300000: SM_MetroEnter
+    4300002: SM_Avtovokzal
+    4300004: SM_Building03
+    4300006: SM_Building03_Glass
+    4300008: SM_Building01
+    4300010: SM_Bulding01_Glass
+    4300012: SM_Building02
+    4300014: SM_Building02_Glass
+    4300016: SM_Building05
+    4300018: SM_Building05_Glass
+    4300020: SM_Building04
+    4300022: SM_Building04_Glass
+    4300024: SM_TrainShed
+    4300026: SM_TrainShed_Columns
+    4300028: SM_TrainShed_Glass
+    4300030: SM_PedestrianShed
+    4300032: SM_PedestrianShed_Glass
+    4300034: SM_NGPT_Building
+    4300036: SM_NGPT_Building_Glass
+    4300038: SM_Avtotehcentr
+    4300040: SM_Avtotehcentr_Glass
+    4300042: SM_Cult_Building
+    4300044: SM_Cult_Building_Glass
+    4300046: SM_Trade_building
+    4300048: SM_Trade_building_Glass
+    4300050: SM_LP_FOK
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_CP_Glass
+    second: {fileID: 2100000, guid: 8a8e4c94b3b10664aa5375a3c004bcf6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_CP_Paint
+    second: {fileID: 2100000, guid: d065fad0d30762242b7d3d6b1d1181e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_FOK
+    second: {fileID: 2100000, guid: 80449676c97c5a64897ccbd6ec0f35f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Glass
+    second: {fileID: 2100000, guid: 46ede1a63227511479bea451aadc7dfc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Gravel
+    second: {fileID: 2100000, guid: 8eb5283d6d1c2b543821823f53c11ce6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Metro_Enter
+    second: {fileID: 2100000, guid: 6bbe04d91d517be4c8cf8eb04bb07fc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Windows01
+    second: {fileID: 2100000, guid: a3458c5aefaf7ea4f8387e2a64669e4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Windows02
+    second: {fileID: 2100000, guid: 815164bc1ed80ec4889ef2de2964c4fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Windows04
+    second: {fileID: 2100000, guid: 88264db0fe8908f43a8fca87543b94e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Windows05
+    second: {fileID: 2100000, guid: fc6cec748c6a8b14c8aaf97996b5ab80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metro_Enter
+    second: {fileID: 2100000, guid: 6bbe04d91d517be4c8cf8eb04bb07fc0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

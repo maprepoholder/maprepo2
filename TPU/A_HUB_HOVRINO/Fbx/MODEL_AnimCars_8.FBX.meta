@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 6431f41484c42364ba4ae40ac065e737
+timeCreated: 1512145555
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Prefab_Car_v01_037
+    100004: Prefab_Car_v01_038
+    100006: Prefab_Car_v02_038
+    100008: Prefab_Car_v02_039
+    100010: Prefab_Car_v03_037
+    100012: Prefab_Car_v03_038
+    100014: Prefab_Car_v04_037
+    100016: Prefab_Car_v04_038
+    100018: Prefab_Car_v05_037
+    100020: Prefab_Car_v05_038
+    400000: //RootNode
+    400002: Prefab_Car_v01_037
+    400004: Prefab_Car_v01_038
+    400006: Prefab_Car_v02_038
+    400008: Prefab_Car_v02_039
+    400010: Prefab_Car_v03_037
+    400012: Prefab_Car_v03_038
+    400014: Prefab_Car_v04_037
+    400016: Prefab_Car_v04_038
+    400018: Prefab_Car_v05_037
+    400020: Prefab_Car_v05_038
+    2300000: Prefab_Car_v01_037
+    2300002: Prefab_Car_v01_038
+    2300004: Prefab_Car_v02_038
+    2300006: Prefab_Car_v02_039
+    2300008: Prefab_Car_v03_037
+    2300010: Prefab_Car_v03_038
+    2300012: Prefab_Car_v04_037
+    2300014: Prefab_Car_v04_038
+    2300016: Prefab_Car_v05_037
+    2300018: Prefab_Car_v05_038
+    3300000: Prefab_Car_v01_037
+    3300002: Prefab_Car_v01_038
+    3300004: Prefab_Car_v02_038
+    3300006: Prefab_Car_v02_039
+    3300008: Prefab_Car_v03_037
+    3300010: Prefab_Car_v03_038
+    3300012: Prefab_Car_v04_037
+    3300014: Prefab_Car_v04_038
+    3300016: Prefab_Car_v05_037
+    3300018: Prefab_Car_v05_038
+    4300000: Prefab_Car_v05_038
+    4300002: Prefab_Car_v04_038
+    4300004: Prefab_Car_v03_038
+    4300006: Prefab_Car_v02_039
+    4300008: Prefab_Car_v01_038
+    4300010: Prefab_Car_v05_037
+    4300012: Prefab_Car_v04_037
+    4300014: Prefab_Car_v03_037
+    4300016: Prefab_Car_v02_038
+    4300018: Prefab_Car_v01_037
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_CarT01
+    second: {fileID: 2100000, guid: fab5dd7f3385197478c557c91bf17557, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_CarT02
+    second: {fileID: 2100000, guid: 476fcd24c8d9f7243bb9841a45247c63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_CarT03
+    second: {fileID: 2100000, guid: 2be941df8baf3cc4ea15ee10f5c7feda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_CarT03_taxi
+    second: {fileID: 2100000, guid: ab789b8a43eaad84cac978cac3294332, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_CarT04
+    second: {fileID: 2100000, guid: 334e99590ba01ee49ae89fb1d2ac1b01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_CarTyre
+    second: {fileID: 2100000, guid: 0ec084900882ba04f8b2b5280b806119, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
