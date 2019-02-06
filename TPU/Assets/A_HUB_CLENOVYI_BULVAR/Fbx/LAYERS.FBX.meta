@@ -1,0 +1,304 @@
+fileFormatVersion: 2
+guid: 895d789821a111f4a9c98f886b0606bf
+timeCreated: 1508757232
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: L_BORDER
+    100004: L_KLB_Apartments
+    100006: L_KLB_Border_GZRO
+    100008: L_KLB_Border_PPT
+    100010: L_KLB_MFC
+    100012: L_KLB_MFC_plane
+    100014: L_KLB_Parking
+    100016: L_KLB_ParkingBuilding
+    100018: L_KLB_ParkingUnd
+    100020: L_KLB_Pedestrian_canopy
+    100022: L_KLB_Stopping_NGPT
+    100024: L_KLB_Subway_NagatinskiyZaton
+    100026: L_KLB_Subway_TPK
+    100028: L_KLB_Traffic_Pedestrian
+    100030: L_KLB_TrafficLines
+    100032: L_KLB_Undeground
+    100034: L_Pedestrian_canopy_plane
+    100036: L_Stopping_NGPT_plane
+    100038: layer_KLB_ParkingBuilding_plane
+    100040: m_Arrow_direction
+    100042: model_layer_KLB_Apartments_plane
+    100044: L_KLB_TrafficCar
+    400000: //RootNode
+    400002: L_BORDER
+    400004: L_KLB_Apartments
+    400006: L_KLB_Border_GZRO
+    400008: L_KLB_Border_PPT
+    400010: L_KLB_MFC
+    400012: L_KLB_MFC_plane
+    400014: L_KLB_Parking
+    400016: L_KLB_ParkingBuilding
+    400018: L_KLB_ParkingUnd
+    400020: L_KLB_Pedestrian_canopy
+    400022: L_KLB_Stopping_NGPT
+    400024: L_KLB_Subway_NagatinskiyZaton
+    400026: L_KLB_Subway_TPK
+    400028: L_KLB_Traffic_Pedestrian
+    400030: L_KLB_TrafficLines
+    400032: L_KLB_Undeground
+    400034: L_Pedestrian_canopy_plane
+    400036: L_Stopping_NGPT_plane
+    400038: layer_KLB_ParkingBuilding_plane
+    400040: m_Arrow_direction
+    400042: model_layer_KLB_Apartments_plane
+    400044: L_KLB_TrafficCar
+    2300000: L_KLB_Apartments
+    2300002: L_KLB_Border_GZRO
+    2300004: L_KLB_Border_PPT
+    2300006: L_KLB_MFC
+    2300008: L_KLB_MFC_plane
+    2300010: L_KLB_Parking
+    2300012: L_KLB_ParkingBuilding
+    2300014: L_KLB_ParkingUnd
+    2300016: L_KLB_Pedestrian_canopy
+    2300018: L_KLB_Stopping_NGPT
+    2300020: L_KLB_Subway_NagatinskiyZaton
+    2300022: L_KLB_Traffic_Pedestrian
+    2300024: L_KLB_TrafficLines
+    2300026: L_KLB_Undeground
+    2300028: L_Pedestrian_canopy_plane
+    2300030: L_Stopping_NGPT_plane
+    2300032: layer_KLB_ParkingBuilding_plane
+    2300034: m_Arrow_direction
+    2300036: model_layer_KLB_Apartments_plane
+    2300038: L_KLB_Subway_TPK
+    2300040: L_KLB_TrafficCar
+    3300000: L_KLB_Apartments
+    3300002: L_KLB_Border_GZRO
+    3300004: L_KLB_Border_PPT
+    3300006: L_KLB_MFC
+    3300008: L_KLB_MFC_plane
+    3300010: L_KLB_Parking
+    3300012: L_KLB_ParkingBuilding
+    3300014: L_KLB_ParkingUnd
+    3300016: L_KLB_Pedestrian_canopy
+    3300018: L_KLB_Stopping_NGPT
+    3300020: L_KLB_Subway_NagatinskiyZaton
+    3300022: L_KLB_Traffic_Pedestrian
+    3300024: L_KLB_TrafficLines
+    3300026: L_KLB_Undeground
+    3300028: L_Pedestrian_canopy_plane
+    3300030: L_Stopping_NGPT_plane
+    3300032: layer_KLB_ParkingBuilding_plane
+    3300034: m_Arrow_direction
+    3300036: model_layer_KLB_Apartments_plane
+    3300038: L_KLB_Subway_TPK
+    3300040: L_KLB_TrafficCar
+    4300000: L_KLB_Pedestrian_canopy
+    4300002: L_Pedestrian_canopy_plane
+    4300004: L_KLB_Subway_NagatinskiyZaton
+    4300006: L_KLB_Traffic_Pedestrian
+    4300008: L_KLB_TrafficLines
+    4300010: m_Arrow_direction
+    4300012: L_KLB_Apartments
+    4300014: model_layer_KLB_Apartments_plane
+    4300016: L_KLB_ParkingBuilding
+    4300018: layer_KLB_ParkingBuilding_plane
+    4300020: L_KLB_MFC
+    4300022: L_KLB_MFC_plane
+    4300024: L_KLB_ParkingUnd
+    4300026: L_KLB_Border_GZRO
+    4300028: L_KLB_Border_PPT
+    4300030: L_KLB_Stopping_NGPT
+    4300032: L_Stopping_NGPT_plane
+    4300034: L_KLB_Undeground
+    4300036: L_KLB_Parking
+    4300038: L_KLB_TrafficCar
+    4300040: L_KLB_Subway_TPK
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_Appartament
+    second: {fileID: 2100000, guid: c74a5c89322ff934f89c844776f16c2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_ArrowDirection
+    second: {fileID: 2100000, guid: 2ca3feced45b1e74c9fba427d8fa1616, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_ArrowDirectionCar
+    second: {fileID: 2100000, guid: 8cf6e60fe61ee204f91398de56db8124, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_BorderGZRO
+    second: {fileID: 2100000, guid: 1bb4ec30c2a0cc74e802a42e1887cf8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_BorderPPT
+    second: {fileID: 2100000, guid: 44e47809dd08f934386890620f761e72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_MFC
+    second: {fileID: 2100000, guid: cd5f0b4fcce23e04e960ec5c5501d632, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_NGPT_Stop
+    second: {fileID: 2100000, guid: 8346e83666c0fc74e8a50d152d6f2860, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_Parking
+    second: {fileID: 2100000, guid: 312778847fbc912498e45c0207cc1c03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_SubwayStation
+    second: {fileID: 2100000, guid: 828180057c514e3438f6ec9c944c35a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_Subway_TPK
+    second: {fileID: 2100000, guid: 3e737bb890c3a2d4f9dd2b9f1f7d0702, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_Traffic_Car
+    second: {fileID: 2100000, guid: b3357b33b2c41dd418b592f8ff75519a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_Traffic_Pedestrian
+    second: {fileID: 2100000, guid: da41acde295d5444f95efecfb8de6f0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_UndegroundFloor
+    second: {fileID: 2100000, guid: 84a14827eff51e949a0a6e2760e98bfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 60fcf07c21dd9024a9606811e9136e62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_Layer_Path_Test_Gradient
+    second: {fileID: 2100000, guid: 40cbf387032d0a34c87ed7d77186de41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_layer_KLB_Apartments
+    second: {fileID: 2100000, guid: 581bd00a19ecaa24a81b4f946983990f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_layer_KLB_Building_Parking
+    second: {fileID: 2100000, guid: 97ab3d0977aab9a4f9bebfe54580b69a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_layer_KLB_Parking
+    second: {fileID: 2100000, guid: 20a1fbe60a23d344e8349f59071ea70c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_layer_KLB_Pedestrian_canopy
+    second: {fileID: 2100000, guid: 8346e83666c0fc74e8a50d152d6f2860, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_layer_KLB_Stopping_NGPT
+    second: {fileID: 2100000, guid: 9e2cc954cef0cae4f8741e55b86c7f36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_layer_KLB_Subway
+    second: {fileID: 2100000, guid: a2f46b55d697c8443bbdf3ca76eaa607, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_layer_KLB_TPU
+    second: {fileID: 2100000, guid: 751d0fe4f0133584d97088522889e39d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
