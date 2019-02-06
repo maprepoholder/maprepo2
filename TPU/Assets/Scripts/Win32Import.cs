@@ -1,4 +1,5 @@
 ﻿using System;
+using UnityEngine;
 using System.Runtime.InteropServices;
 
 
@@ -373,7 +374,7 @@ public class Win32Import
 
     [DllImport("user32.dll")]
     [return: MarshalAs(UnmanagedType.Bool)]
-    public static extern bool GetWindowRect(HandleRef hWnd, out RECT lpRect);
+    public static extern bool GetWindowRect(HandleRef hWnd, out Rect lpRect);
 
 
 
