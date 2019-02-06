@@ -1,0 +1,401 @@
+fileFormatVersion: 2
+guid: 2a9bffb77e5ed2a4d83dd2109a14b008
+timeCreated: 1508343875
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Dummy_SM_FootballField
+    100004: ROADMARKING
+    100006: SM_NS_TP_Asphalt
+    100008: SM_NS_TP_Border
+    100010: SM_NS_TP_FloorTile03
+    100012: SM_NS_TP_FloorTile07
+    100014: SM_NS_TP_Grass
+    100016: SM_NS_TP_Rails
+    100018: SM_NS_TP_Railway
+    100020: SM_NS_TP_RoadMarking_3-1
+    100022: SM_NS_TP_RoadMarking_Arrow
+    100024: SM_NS_TP_RoadMarking_BusStop
+    100026: SM_NS_TP_RoadMarking_CrossRoad
+    100028: SM_NS_TP_RoadMarking_Parking
+    100030: SM_NS_TP_RoadMarking_ParkingBusL
+    100032: SM_NS_TP_RoadMarking_Solid
+    100034: SM_TP_AZS_002
+    100036: SM_TP_AZS_Long
+    100038: SM_TP_Estakade
+    100040: SM_TP_Fence
+    100042: SM_TP_NearBuildings_00
+    100044: SM_TP_NearBuildings_01
+    100046: SM_TP_NearBuildings_02
+    100048: SM_TP_NearBuildings_03
+    100050: SM_TP_NearBuildings_04
+    100052: SM_TP_NearBuildings_05
+    100054: SM_TP_Subway
+    100056: SM_NS_TP_Asphalt_suround
+    100058: SM_NS_WATER
+    100060: h_Perehod_v02_002
+    100062: h_Perehod_v02_003
+    100064: SM_Perehod_v02_001
+    100066: SM_Perehod_v02_002
+    100068: SM_Fence
+    100070: SM_Fence_Rabitz
+    100072: Main_Dummy_SM_FootballField
+    100074: SM_RailRoad
+    100076: SM_TP_Subway_Tonnel_Entrance
+    100078: MeshTerrain
+    100080: SM_NS_LightGreen
+    100082: NS_WATER
+    100084: NS_WATER_plane
+    400000: //RootNode
+    400002: Dummy_SM_FootballField
+    400004: ROADMARKING
+    400006: SM_NS_TP_Asphalt
+    400008: SM_NS_TP_Border
+    400010: SM_NS_TP_FloorTile03
+    400012: SM_NS_TP_FloorTile07
+    400014: SM_NS_TP_Grass
+    400016: SM_NS_TP_Rails
+    400018: SM_NS_TP_Railway
+    400020: SM_NS_TP_RoadMarking_3-1
+    400022: SM_NS_TP_RoadMarking_Arrow
+    400024: SM_NS_TP_RoadMarking_BusStop
+    400026: SM_NS_TP_RoadMarking_CrossRoad
+    400028: SM_NS_TP_RoadMarking_Parking
+    400030: SM_NS_TP_RoadMarking_ParkingBusL
+    400032: SM_NS_TP_RoadMarking_Solid
+    400034: SM_TP_AZS_002
+    400036: SM_TP_AZS_Long
+    400038: SM_TP_Estakade
+    400040: SM_TP_Fence
+    400042: SM_TP_NearBuildings_00
+    400044: SM_TP_NearBuildings_01
+    400046: SM_TP_NearBuildings_02
+    400048: SM_TP_NearBuildings_03
+    400050: SM_TP_NearBuildings_04
+    400052: SM_TP_NearBuildings_05
+    400054: SM_TP_Subway
+    400056: SM_NS_TP_Asphalt_suround
+    400058: SM_NS_WATER
+    400060: h_Perehod_v02_002
+    400062: h_Perehod_v02_003
+    400064: SM_Perehod_v02_001
+    400066: SM_Perehod_v02_002
+    400068: SM_Fence
+    400070: SM_Fence_Rabitz
+    400072: Main_Dummy_SM_FootballField
+    400074: SM_RailRoad
+    400076: SM_TP_Subway_Tonnel_Entrance
+    400078: MeshTerrain
+    400080: SM_NS_LightGreen
+    400082: NS_WATER
+    400084: NS_WATER_plane
+    2100000: M_Fence_Rabitz
+    2100002: M_THConc
+    2100004: M_WallPaintWhite
+    2100006: M_Grass_white
+    2300000: SM_NS_TP_Asphalt
+    2300002: SM_NS_TP_Border
+    2300004: SM_NS_TP_FloorTile03
+    2300006: SM_NS_TP_FloorTile07
+    2300008: SM_NS_TP_Grass
+    2300010: SM_NS_TP_Rails
+    2300012: SM_NS_TP_Railway
+    2300014: SM_NS_TP_RoadMarking_3-1
+    2300016: SM_NS_TP_RoadMarking_Arrow
+    2300018: SM_NS_TP_RoadMarking_BusStop
+    2300020: SM_NS_TP_RoadMarking_CrossRoad
+    2300022: SM_NS_TP_RoadMarking_Parking
+    2300024: SM_NS_TP_RoadMarking_ParkingBusL
+    2300026: SM_NS_TP_RoadMarking_Solid
+    2300028: SM_TP_AZS_002
+    2300030: SM_TP_AZS_Long
+    2300032: SM_TP_Estakade
+    2300034: SM_TP_Fence
+    2300036: SM_TP_NearBuildings_00
+    2300038: SM_TP_NearBuildings_01
+    2300040: SM_TP_NearBuildings_02
+    2300042: SM_TP_NearBuildings_03
+    2300044: SM_TP_NearBuildings_04
+    2300046: SM_TP_NearBuildings_05
+    2300048: SM_TP_Subway
+    2300050: SM_NS_TP_Asphalt_suround
+    2300052: SM_NS_WATER
+    2300054: SM_Perehod_v02_001
+    2300056: SM_Perehod_v02_002
+    2300058: SM_Fence
+    2300060: SM_Fence_Rabitz
+    2300062: SM_RailRoad
+    2300064: SM_TP_Subway_Tonnel_Entrance
+    2300066: MeshTerrain
+    2300068: SM_NS_LightGreen
+    2300070: NS_WATER
+    2300072: NS_WATER_plane
+    3300000: SM_NS_TP_Asphalt
+    3300002: SM_NS_TP_Border
+    3300004: SM_NS_TP_FloorTile03
+    3300006: SM_NS_TP_FloorTile07
+    3300008: SM_NS_TP_Grass
+    3300010: SM_NS_TP_Rails
+    3300012: SM_NS_TP_Railway
+    3300014: SM_NS_TP_RoadMarking_3-1
+    3300016: SM_NS_TP_RoadMarking_Arrow
+    3300018: SM_NS_TP_RoadMarking_BusStop
+    3300020: SM_NS_TP_RoadMarking_CrossRoad
+    3300022: SM_NS_TP_RoadMarking_Parking
+    3300024: SM_NS_TP_RoadMarking_ParkingBusL
+    3300026: SM_NS_TP_RoadMarking_Solid
+    3300028: SM_TP_AZS_002
+    3300030: SM_TP_AZS_Long
+    3300032: SM_TP_Estakade
+    3300034: SM_TP_Fence
+    3300036: SM_TP_NearBuildings_00
+    3300038: SM_TP_NearBuildings_01
+    3300040: SM_TP_NearBuildings_02
+    3300042: SM_TP_NearBuildings_03
+    3300044: SM_TP_NearBuildings_04
+    3300046: SM_TP_NearBuildings_05
+    3300048: SM_TP_Subway
+    3300050: SM_NS_TP_Asphalt_suround
+    3300052: SM_NS_WATER
+    3300054: SM_Perehod_v02_001
+    3300056: SM_Perehod_v02_002
+    3300058: SM_Fence
+    3300060: SM_Fence_Rabitz
+    3300062: SM_RailRoad
+    3300064: SM_TP_Subway_Tonnel_Entrance
+    3300066: MeshTerrain
+    3300068: SM_NS_LightGreen
+    3300070: NS_WATER
+    3300072: NS_WATER_plane
+    4300000: SM_TP_NearBuildings_00
+    4300002: SM_TP_Subway
+    4300004: SM_TP_AZS_Long
+    4300006: SM_TP_AZS_002
+    4300008: SM_TP_NearBuildings_01
+    4300010: SM_TP_NearBuildings_02
+    4300012: SM_TP_NearBuildings_03
+    4300014: SM_TP_NearBuildings_04
+    4300016: SM_TP_NearBuildings_05
+    4300018: SM_NS_TP_RoadMarking_BusStop
+    4300020: SM_NS_TP_RoadMarking_3-1
+    4300022: SM_NS_TP_RoadMarking_Solid
+    4300024: SM_NS_TP_RoadMarking_ParkingBusL
+    4300026: SM_NS_TP_RoadMarking_Parking
+    4300028: SM_NS_TP_RoadMarking_Arrow
+    4300030: SM_NS_TP_RoadMarking_CrossRoad
+    4300032: SM_TP_Estakade
+    4300034: SM_NS_TP_Asphalt
+    4300036: SM_NS_TP_Border
+    4300038: SM_NS_TP_FloorTile03
+    4300040: SM_NS_TP_FloorTile07
+    4300042: SM_NS_TP_Rails
+    4300044: SM_NS_TP_Railway
+    4300046: SM_NS_TP_Grass
+    4300048: SM_TP_Fence
+    4300050: SM_NS_WATER
+    4300052: SM_NS_TP_Asphalt_suround
+    4300054: SM_Perehod_v02_001
+    4300056: SM_Perehod_v02_002
+    4300058: SM_Fence
+    4300060: SM_Fence_Rabitz
+    4300062: SM_RailRoad
+    4300064: SM_TP_Subway_Tonnel_Entrance
+    4300066: SM_NS_LightGreen
+    4300068: MeshTerrain
+    4300070: NS_WATER
+    4300072: NS_WATER_plane
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_AZS_Main_Blue
+    second: {fileID: 2100000, guid: 075baa1a059061348ade6613f6107815, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Asphalt
+    second: {fileID: 2100000, guid: d287642d5ac719a4d847c11dcd6f07f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_CP_Metall
+    second: {fileID: 2100000, guid: 96162687dc4b66e428a31e9b65e558f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_CP_Paint
+    second: {fileID: 2100000, guid: d065fad0d30762242b7d3d6b1d1181e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Concrete01
+    second: {fileID: 2100000, guid: 0ca09afbdaea32748a556d0ffe2413d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Fence
+    second: {fileID: 2100000, guid: d2c29ced5a4e5be41b2dcaf1fc9957fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Fence_Rabitz
+    second: {fileID: 2100000, guid: 4341b27421f5dbc44a520e4a92a3881b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_FloorTile03
+    second: {fileID: 2100000, guid: ed840dafda52e9147b0cd73463f0e80d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_FloorTile07
+    second: {fileID: 2100000, guid: 44b7b898b7720d94498ad78c2a6455e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Grass
+    second: {fileID: 2100000, guid: 2f7c125fec96f1f4eb05cd0c8cc3bac5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Grass_white
+    second: {fileID: 2100000, guid: 6be8cbd7089c4ef44af04dbc1d4dd3d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Gravel
+    second: {fileID: 2100000, guid: 8eb5283d6d1c2b543821823f53c11ce6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_NearBuilding01
+    second: {fileID: 2100000, guid: 321f63358879b764db0cd7f5de4580ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_NearBuilding02
+    second: {fileID: 2100000, guid: 2c37ed57a9bc5a94b8eea31715768000, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_NearBuilding03
+    second: {fileID: 2100000, guid: d10981709053e1d43bb9ea8632e267bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Rails
+    second: {fileID: 2100000, guid: 2eeba6fbf2b64064085ac4a95214d0ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_RailwayFence
+    second: {fileID: 2100000, guid: c03189df5f4e9244fad0fe87577d3a45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Roadmarking
+    second: {fileID: 2100000, guid: b046f3187378170439120114cd55d7bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_THConc
+    second: {fileID: 2100000, guid: 5a65202ed67288c42acc3512c84338c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_TileClean
+    second: {fileID: 2100000, guid: cab3ce086a08d274f9ab8b50c9e87084, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_WallPaintWhite
+    second: {fileID: 2100000, guid: 60d95d228148ddd45aa8c761c2c79164, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Water
+    second: {fileID: 2100000, guid: 5d24ac8831de25847b7346f206e39223, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Windows01
+    second: {fileID: 2100000, guid: a3458c5aefaf7ea4f8387e2a64669e4a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
