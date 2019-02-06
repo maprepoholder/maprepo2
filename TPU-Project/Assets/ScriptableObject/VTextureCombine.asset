@@ -1,0 +1,291 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1325cc26e8677a8b49ae2c202ef901c1, type: 3}
+  m_Name: VTextureCombine
+  m_EditorClassIdentifier:
+  m_hardwareLevel: 2
+  m_virtualSize: 524288
+  m_mipFilter: 0
+  m_uvCoordSet: 0
+  m_layoutPreset: 7
+  m_layoutSettings:
+    propDiffuse: _MainTex
+    propNormal: _BumpMap
+    propOcclusion: _OcclusionMap
+    propDisplacement: _DispTex;_ParallaxMap;_HeightMap
+    propSpecular: _SpecGlossMap;_MetallicGlossMap
+    rgbCompType: 2
+    alphaCompType: 2
+    normalCompType: 2
+    occlusionCompType: 2
+    displacementCompType: 2
+    specularCompType: 2
+    rgbQuality: 85
+    alphaQuality: 85
+    normalQuality: 85
+    occlusionQuality: 85
+    displacementQuality: 85
+    specularQuality: 85
+    useAlpha: 1
+    useNormal: 0
+    useOcclusion: 0
+    useDisplacement: 0
+    useSpecular: 0
+    editUseAlpha: 1
+    editUseNormal: 0
+    editUseOcclusion: 0
+    editUseDisplacement: 0
+    editUseSpecular: 0
+    defaultDiffuseValue: {r: 1, g: 1, b: 1, a: 1}
+    defaultNormalValue: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}
+    defaultOcclusionValue: {r: 1, g: 1, b: 1, a: 1}
+    defaultDisplacementValue: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    defaultSpecularValue: {r: 1, g: 1, b: 1, a: 1}
+  m_editHardwareLevel: 2
+  m_editVirtualSize: 524288
+  m_editMipFilter: 0
+  m_editUVCoordSet: 0
+  m_editLayoutPreset: 7
+  m_editLayoutSettings:
+    propDiffuse: _MainTex
+    propNormal: _BumpMap
+    propOcclusion: _OcclusionMap
+    propDisplacement: _DispTex;_ParallaxMap;_HeightMap
+    propSpecular: _SpecGlossMap;_MetallicGlossMap
+    rgbCompType: 2
+    alphaCompType: 2
+    normalCompType: 2
+    occlusionCompType: 2
+    displacementCompType: 2
+    specularCompType: 2
+    rgbQuality: 85
+    alphaQuality: 85
+    normalQuality: 85
+    occlusionQuality: 85
+    displacementQuality: 85
+    specularQuality: 85
+    useAlpha: 1
+    useNormal: 0
+    useOcclusion: 0
+    useDisplacement: 0
+    useSpecular: 0
+    editUseAlpha: 1
+    editUseNormal: 0
+    editUseOcclusion: 0
+    editUseDisplacement: 0
+    editUseSpecular: 0
+    defaultDiffuseValue: {r: 1, g: 1, b: 1, a: 1}
+    defaultNormalValue: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}
+    defaultOcclusionValue: {r: 1, g: 1, b: 1, a: 1}
+    defaultDisplacementValue: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    defaultSpecularValue: {r: 1, g: 1, b: 1, a: 1}
+  m_signature: 3B5456CAB3B713488C9F230459525D0E
+  m_version:
+    m_major: 2
+    m_minor: 2
+    m_release: 4
+  m_hashName: 713fe19278af94e35fe15bb39462fbb7
+  m_assetIndex: 3
+  m_tileSize: 256
+  m_halfTileSize: 128
+  m_doubleTileSize: 512
+  m_borderSize: 4
+  m_doubleBorderSize: 8
+  m_pageSize: 264
+  m_pageChannelLength: 69696
+  m_physicalTableSize: 2048
+  m_physicalTableArea: 4194304
+  m_pageBlockSize: 278784
+  m_mipCount: 9
+  m_channelCount: 4
+  m_diffuseLayerIndex: 0
+  m_normalLayerIndex: -1
+  m_occlusionLayerIndex: -1
+  m_displacementLayerIndex: -1
+  m_specularLayerIndex: -1
+  m_textureLayers:
+  - m_type: 0
+    m_propertyName: _MainTex
+    m_defaultValue: {r: 1, g: 1, b: 1, a: 1}
+    m_rgbCompType: 2
+    m_alphaCompType: 2
+    m_rgbQuality: 85
+    m_alphaQuality: 85
+  m_materialFolders:
+  - Assets/_MATERIALS/MAP-TILE/MAP_MIP
+  - Assets/_MATERIALS/MAP-TILE/SATELLITE
+  m_packer:
+    m_asset: {fileID: 11400000}
+    m_rectPacker:
+      m_packingAreaWidth: 2048
+      m_packingAreaHeight: 2048
+      m_splitHeuristic: 0
+      m_nodeList:
+      - x: 0
+        y: 0
+        width: 2048
+        height: 2048
+        m_index: 0
+        m_leaf: 0
+        m_key:
+        m_keyHash: 0
+        m_children: 010000000200000003000000
+      - x: 0
+        y: 0
+        width: 754
+        height: 754
+        m_index: 1
+        m_leaf: 1
+        m_key: 767b5427b761a2840891f335053a611a
+        m_keyHash: -27144236
+        m_children:
+      - x: 754
+        y: 0
+        width: 1294
+        height: 754
+        m_index: 2
+        m_leaf: 0
+        m_key:
+        m_keyHash: 0
+        m_children: 040000000500000006000000
+      - x: 0
+        y: 754
+        width: 2048
+        height: 1294
+        m_index: 3
+        m_leaf: 1
+        m_key:
+        m_keyHash: 0
+        m_children:
+      - x: 754
+        y: 0
+        width: 754
+        height: 754
+        m_index: 4
+        m_leaf: 1
+        m_key: 652bf88cf89e36d49a1d1b5b0f99353e
+        m_keyHash: -1303980418
+        m_children:
+      - x: 1508
+        y: 0
+        width: 540
+        height: 754
+        m_index: 5
+        m_leaf: 1
+        m_key:
+        m_keyHash: 0
+        m_children:
+      - x: 754
+        y: 754
+        width: 1294
+        height: 0
+        m_index: 6
+        m_leaf: 1
+        m_key:
+        m_keyHash: 0
+        m_children:
+      m_root:
+        x: 0
+        y: 0
+        width: 2048
+        height: 2048
+        m_index: 0
+        m_leaf: 0
+        m_key:
+        m_keyHash: 0
+        m_children: 010000000200000003000000
+  m_collection:
+    m_current:
+    - m_layers:
+      - m_guid: 652bf88cf89e36d49a1d1b5b0f99353e
+        m_crc: 3DC4851E00000000
+        m_wrapMode: 0
+        m_linear: 0
+        m_width: 192512
+        m_height: 192512
+        m_bpp: 24
+        m_gridType: 2
+        m_gridWidth: 47
+        m_gridHeight: 47
+        m_gridTileWidth: 4096
+        m_gridTileHeight: 4096
+        m_metaType: 0
+      m_signature: 652bf88cf89e36d49a1d1b5b0f99353e
+      m_signatureHash: -1303980418
+      m_comboWidth: 192512
+      m_comboHeight: 192512
+      m_targetWidth: 193024
+      m_targetHeight: 193024
+      m_tiled: 1
+      m_area: -1396441088
+      m_largestSize: 193024
+      m_packedRect:
+        x: 193024
+        y: 0
+        width: 193024
+        height: 193024
+      m_tileTop: 0
+      m_tileBottom: 754
+      m_tileLeft: 754
+      m_tileRight: 1508
+      m_numTilesWidth: 754
+      m_numTilesHeight: 754
+      m_materials:
+      - 4cfdc64d28c2f704d9b5b26801a6c0fb
+    - m_layers:
+      - m_guid: 767b5427b761a2840891f335053a611a
+        m_crc: A14A3E8500000000
+        m_wrapMode: 1
+        m_linear: 0
+        m_width: 192512
+        m_height: 192512
+        m_bpp: 32
+        m_gridType: 2
+        m_gridWidth: 47
+        m_gridHeight: 47
+        m_gridTileWidth: 4096
+        m_gridTileHeight: 4096
+        m_metaType: 0
+      m_signature: 767b5427b761a2840891f335053a611a
+      m_signatureHash: -27144236
+      m_comboWidth: 192512
+      m_comboHeight: 192512
+      m_targetWidth: 193024
+      m_targetHeight: 193024
+      m_tiled: 0
+      m_area: -1396441088
+      m_largestSize: 193024
+      m_packedRect:
+        x: 0
+        y: 0
+        width: 193024
+        height: 193024
+      m_tileTop: 0
+      m_tileBottom: 754
+      m_tileLeft: 0
+      m_tileRight: 754
+      m_numTilesWidth: 754
+      m_numTilesHeight: 754
+      m_materials:
+      - cd90a75e17ffc334a97e6647f86e2448
+  m_compressedSizeKB: 17344541
+  m_uncompressedSizeKB: 412891083
+  m_areaUsePercentage: 27.10896
+  m_borderWastePercentage: 0.1436234
+  m_savedVirtualSize: 524288
+  m_savedPageTableSize: 2048
+  m_savedPageTableScale: {x: 0, y: 0}
+  m_savedPageTableOffset: {x: 0, y: 0}
+  m_pageFile:
+    m_fileName:
+    m_asset: {fileID: 11400000}
+    m_totalPageCount: 5592384
+    m_headerLength: 33554320
