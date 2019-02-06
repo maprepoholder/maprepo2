@@ -1,0 +1,276 @@
+fileFormatVersion: 2
+guid: 1e8b6e658edf15c4eb4315219879716b
+timeCreated: 1510154041
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: L_BORDER_GZRO
+    100002: L_BORDER_PPT
+    100004: L_Commercial
+    100006: L_Commercial_plane
+    100008: L_DM_Subway_Line_Av
+    100010: L_LiveHouse
+    100012: L_LiveHouse_plane
+    100014: L_MetroStation_Dmitrievskigo
+    100016: L_MetroStation_Dmitrievskigo_plane
+    100018: L_ORP
+    100020: L_Parking
+    100022: L_Parking_Intercapting
+    100024: L_Pedestrian_traffic
+    100026: L_Pedestrian_traffic_Underground
+    100028: L_TPU
+    100030: L_TPU_plane
+    100032: L_Undeground_pavement
+    100034: L_Undeground_pavement_plane
+    100036: //RootNode
+    100038: L_DM_Traffic_Car
+    100040: L_NPT_Stop
+    100042: L_NPT_Stop_plane
+    400000: L_BORDER_GZRO
+    400002: L_BORDER_PPT
+    400004: L_Commercial
+    400006: L_Commercial_plane
+    400008: L_DM_Subway_Line_Av
+    400010: L_LiveHouse
+    400012: L_LiveHouse_plane
+    400014: L_MetroStation_Dmitrievskigo
+    400016: L_MetroStation_Dmitrievskigo_plane
+    400018: L_ORP
+    400020: L_Parking
+    400022: L_Parking_Intercapting
+    400024: L_Pedestrian_traffic
+    400026: L_Pedestrian_traffic_Underground
+    400028: L_TPU
+    400030: L_TPU_plane
+    400032: L_Undeground_pavement
+    400034: L_Undeground_pavement_plane
+    400036: //RootNode
+    400038: L_DM_Traffic_Car
+    400040: L_NPT_Stop
+    400042: L_NPT_Stop_plane
+    2100000: No Name
+    2100002: ML_Traffic_PedestrianUnd
+    2100004: ML_Traffic_Car
+    2100006: ML_NGPT_Stop
+    2300000: L_BORDER_GZRO
+    2300002: L_BORDER_PPT
+    2300004: L_Commercial
+    2300006: L_Commercial_plane
+    2300008: L_DM_Subway_Line_Av
+    2300010: L_LiveHouse
+    2300012: L_LiveHouse_plane
+    2300014: L_MetroStation_Dmitrievskigo
+    2300016: L_MetroStation_Dmitrievskigo_plane
+    2300018: L_ORP
+    2300020: L_Parking
+    2300022: L_Parking_Intercapting
+    2300024: L_Pedestrian_traffic
+    2300026: L_TPU
+    2300028: L_TPU_plane
+    2300030: L_Undeground_pavement
+    2300032: L_Undeground_pavement_plane
+    2300034: L_Pedestrian_traffic_Underground
+    2300036: L_DM_Traffic_Car
+    2300038: L_NPT_Stop
+    2300040: L_NPT_Stop_plane
+    3300000: L_BORDER_GZRO
+    3300002: L_BORDER_PPT
+    3300004: L_Commercial
+    3300006: L_Commercial_plane
+    3300008: L_DM_Subway_Line_Av
+    3300010: L_LiveHouse
+    3300012: L_LiveHouse_plane
+    3300014: L_MetroStation_Dmitrievskigo
+    3300016: L_MetroStation_Dmitrievskigo_plane
+    3300018: L_ORP
+    3300020: L_Parking
+    3300022: L_Parking_Intercapting
+    3300024: L_Pedestrian_traffic
+    3300026: L_TPU
+    3300028: L_TPU_plane
+    3300030: L_Undeground_pavement
+    3300032: L_Undeground_pavement_plane
+    3300034: L_Pedestrian_traffic_Underground
+    3300036: L_DM_Traffic_Car
+    3300038: L_NPT_Stop
+    3300040: L_NPT_Stop_plane
+    4300000: L_BORDER_GZRO
+    4300002: L_BORDER_PPT
+    4300004: L_LiveHouse
+    4300006: L_LiveHouse_plane
+    4300008: L_MetroStation_Dmitrievskigo
+    4300010: L_MetroStation_Dmitrievskigo_plane
+    4300012: L_ORP
+    4300014: L_Parking_Intercapting
+    4300016: L_Undeground_pavement
+    4300018: L_Undeground_pavement_plane
+    4300020: L_Pedestrian_traffic
+    4300022: L_Parking
+    4300024: L_TPU
+    4300026: L_TPU_plane
+    4300028: L_Commercial
+    4300030: L_Commercial_plane
+    4300032: L_DM_Subway_Line_Av
+    4300034: L_Pedestrian_traffic_Underground
+    4300036: L_DM_Traffic_Car
+    4300038: L_NPT_Stop
+    4300040: L_NPT_Stop_plane
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_Appartment
+    second: {fileID: 2100000, guid: c74a5c89322ff934f89c844776f16c2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_ArrowDirectionPedestrian
+    second: {fileID: 2100000, guid: bc2bef5616cfa924f9cdaacf960bf482, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_BorderGZRO
+    second: {fileID: 2100000, guid: 1bb4ec30c2a0cc74e802a42e1887cf8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_BorderPPT
+    second: {fileID: 2100000, guid: 44e47809dd08f934386890620f761e72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_MFC
+    second: {fileID: 2100000, guid: cd5f0b4fcce23e04e960ec5c5501d632, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_NGPT_Stop
+    second: {fileID: 2100000, guid: 8346e83666c0fc74e8a50d152d6f2860, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_ORP
+    second: {fileID: 2100000, guid: b51f12adc8c659344b4677f72d8de066, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_Parking
+    second: {fileID: 2100000, guid: 312778847fbc912498e45c0207cc1c03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_ResidentialComplex
+    second: {fileID: 2100000, guid: ea62a76c4cd6b894a9a734561694737f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_SubwayStation
+    second: {fileID: 2100000, guid: 828180057c514e3438f6ec9c944c35a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_Subway_KL
+    second: {fileID: 2100000, guid: 6d3ff05663d05bc439cf2f641495d97a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_TPU
+    second: {fileID: 2100000, guid: 0217fafc9e3e30841ba65231dd8a715d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_Traffic_Car
+    second: {fileID: 2100000, guid: b3357b33b2c41dd418b592f8ff75519a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_Traffic_Pedestrian
+    second: {fileID: 2100000, guid: da41acde295d5444f95efecfb8de6f0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_Traffic_PedestrianUnd
+    second: {fileID: 2100000, guid: 2a484f42f8f017e4a805953699c7feb3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ML_UndergroundFloor
+    second: {fileID: 2100000, guid: 84a14827eff51e949a0a6e2760e98bfd, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
