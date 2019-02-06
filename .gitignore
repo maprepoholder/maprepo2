@@ -37,14 +37,6 @@ sysinfo.txt
 *.unitypackage
 
 BASE/Assets/Shader/AVProVideoLitDiffuse (texture+color+fog+stereo support).shader.zip
-
-⁨TPU⁩/ ⁨Assets/⁨A_HUB_AVIAMOTORNAIA⁩/⁨HubScen/⁨TPU_Aviamotornaia/LightingData.asset.zip
-TPU/A_HUB_LUKHMANOVSKAIA/HubScen/TPU_Lukhmanovskaia/LightingData.asset
-TPU/A_HUB_LUKHMANOVSKAIA/HubScen/TPU_Lukhmanovskaia/LightingData.asset.zip
-TPU/A_HUB_AVIAMOTORNAIA/HubScen/TPU_Aviamotornaia/LightingData.asset
-TPU/A_HUB_AVIAMOTORNAIA/HubScen/TPU_Aviamotornaia/LightingData.asset.zip
-BASE/Assets/Shader/AVProVideoLitTransparent Diffuse (texture+color+fog+packed alpha).shader
-TPU/A_HUB_PETROVSKO_RAZUMOVSKAIA/HubScen/TPU_Petrovsko_Razumovskaia/LightingData.asset
 BASE/Assets/Shader/AVProVideoLitDiffuse (texture+color+fog+stereo support).shader
 TPU-Project/A_HUB_AVIAMOTORNAIA/HubScen/TPU_Aviamotornaia/LightingData.asset
 TPU-Project/A_HUB_AVIAMOTORNAIA/HubScen/TPU_Aviamotornaia/LightingData.asset.zip
